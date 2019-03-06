@@ -41,36 +41,26 @@
                   </div><!-- /.container-->
                 </nav>
 
-         <h1 class="visible-xs">RENT A BIKE PERMANTURA<br>
-         <span class="small">PREMANTURA </span></h1>
+         <h1 class="visible-xs">BIKE TOUR<br>
+         <span class="small">PERMANUTRA </span></h1>
 
          <!--video backgorund-->
-           <div class="overlay"></div>
-              <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+           <div class="overlay hidden-xs hidden-sm"></div>
+              <video class="hidden-xs hidden-sm" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                 <source src="video/kamenjak.mp4" type="video/mp4">
               </video>
               <div class="container">
                 <div class="text-center align-items-center">
-                  <div class="">
-                    <h1 class="">Video Header</h1>
-                    <p class="small">With HTML5 Video and Bootstrap 4</p>
-                  </div>
-                </div>
-            </div>
-
-
-
-         <div id="videobackground" >
-
-              <div class="slide-text slide_style_right container">
-                 <h2 data-animation="animated zoomInLeft">Biking</h2>
-                <div data-animation="animated fadeInLeft slide_style_right"> 
+                 
+                    <h1 class="RENT A BIKE PERMANTURA">BIKE TOUR <br> <br>     
+                    <span class="small-permanutra">PERMANUTRA </span></h1>
+                    <div data-animation="animated fadeInLeft slide_style_right"> 
                         <a href="#footer" class="btn btn-default" data-animation="animated fadeInLeft" data-scroll data-options='{ "easing": "easeInOutQuad" }'>    Kontakt
                         </a>
                         <a href="#about-us" class="btn btn-primary" data-animation="animated fadeInRight" data-scroll data-options='{ "easing": "easeInOutQuad" }'>
                          Saznaj više
                         </a>
-                </div>       
-             </div>
-        </div> <!-- End  bootstrap-touch-slider Slider -->
+                    </div>
+                </div>
+              </div>                                   
     </header>
