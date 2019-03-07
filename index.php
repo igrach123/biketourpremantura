@@ -129,10 +129,9 @@ if ($_POST['submit']) {
     <div class="container-fluid" id="content-wrapper" >
         
          <!-- about-us -->
-        <?php include "php/about-us.php" ?>
         
         <!-- services -->
-        <?php include "php/services.php"; ?>
+        <?php include "php/services.php" ?>
             <!-- services modals -->
             <?php include "php/services-windsurf.php"; ?>
             <?php include "php/services-kayaking.php"; ?>
