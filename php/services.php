@@ -1,4 +1,22 @@
 <section class="container-fluid" id="services">
+	<div class="container-fluid">
+		<div class="col-sm-6 col-md-3 t-1">
+
+		</div>
+		<div class="col-sm-6 col-md-3 t-2">
+
+		</div>
+		<div class="col-sm-6 col-md-3 t-3">
+
+		</div>
+		<div class="col-sm-6 col-md-3 t-4">
+
+		</div>
+
+	</div>
+
+
+
 	<div class="container">
 		<h2>IZLETI</h2>
 		<div class="row">
