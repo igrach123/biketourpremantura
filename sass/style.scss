@@ -805,7 +805,20 @@ header{
 	}
 }
 //****************SERVICES SECTION*******************//
+@import "new-card";
 #services{
+    .izleti-row{
+        max-width: 1920px;
+        margin: 0 auto;
+    }
+    .price-bg{
+        color: $bg-white;
+      
+    }
+
+    .col-5px{
+        padding: 5px 5px 5px 5px;
+    }
     @import "imghover";
     background-color: grey;
     padding-bottom: 80px;

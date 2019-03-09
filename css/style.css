@@ -529,10 +529,14 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #about-us p a:focus, #about-us p a:hover { text-decoration: underline; font-weight: 900; }
 
 #services { background-color: grey; padding-bottom: 80px; background-attachment: fixed; }
-#services .t-1 { margin-top: 50px; height: 400px; background-image: url("../img/bike/bike-header.jpg"); background-position: center center; background-size: cover; }
-#services .t-2 { margin-top: 50px; height: 400px; background-color: red; background-size: cover; }
-#services .t-3 { margin-top: 50px; height: 400px; background-color: red; background-size: cover; }
-#services .t-4 { margin-top: 50px; height: 400px; background-color: red; background-size: cover; }
+#services .izleti-row { max-width: 1920px; margin: 0 auto; }
+#services .price-bg { color: #FFFFFF; }
+#services .col-5px { padding: 5px 5px 5px 5px; }
+#services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; padding: 10px; }
+#services .t-1 { background-image: url("../img/bike/bike-header.jpg"); background-position: center center; background-size: cover; }
+#services .t-2 { background-image: url("../img/bike/bike-header.jpg"); background-color: red; background-size: cover; }
+#services .t-3 { background-image: url("../img/bike/bike-header.jpg"); background-color: red; background-size: cover; }
+#services .t-4 { background-image: url("../img/bike/bike-header.jpg"); background-color: red; background-size: cover; }
 #services h2 { color: #FAFAFA; }
 #services h5 { color: red; }
 #services .klopa { padding-left: 0px; padding-right: 0px; overflow: hidden; }
