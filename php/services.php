@@ -1,4 +1,35 @@
 <section class="container-fluid" id="services">
+
+		<div class="container-fluid">
+			<div class="row">
+
+			
+				<div class="col-sm-6 col-md-3 t-1">
+				
+					<h3 class="title">POLUDNEVNI IZLET</h3>
+					<div class="overlay"></div>
+					<div class="btn btn-default"><a href="#"> testbutton </a></div>
+				</div>
+				<div class="col-sm-6 col-md-3 t-2">
+				<h3 class="title">POLUDNEVNI IZLET</h3>
+					<div class="overlay"></div>
+					<div class="btn btn-default"><a href="#"> testbutton </a></div>
+
+				</div>
+				<div class="col-sm-6 col-md-3 t-3">
+				<h3 class="title">POLUDNEVNI IZLET</h3>
+					<div class="overlay"></div>
+					<div class="btn btn-default"><a href="#"> testbutton </a></div>
+
+				</div>
+				<div class="col-sm-6 col-md-3 t-4">
+				<h3 class="title">POLUDNEVNI IZLET</h3>
+					<div class="overlay"></div>
+					<div class="btn btn-default"><a href="#"> testbutton </a></div>
+
+				</div>
+			</div>
+		</div>
 	<div class="container">
 		<h2>IZLETI</h2>
 		<div class="row">

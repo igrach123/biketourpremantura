@@ -529,6 +529,10 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #about-us p a:focus, #about-us p a:hover { text-decoration: underline; font-weight: 900; }
 
 #services { background-color: grey; padding-bottom: 80px; background-attachment: fixed; }
+#services .t-1 { margin-top: 50px; height: 400px; background-image: url("../img/bike/bike-header.jpg"); background-position: center center; background-size: cover; }
+#services .t-2 { margin-top: 50px; height: 400px; background-color: red; background-size: cover; }
+#services .t-3 { margin-top: 50px; height: 400px; background-color: red; background-size: cover; }
+#services .t-4 { margin-top: 50px; height: 400px; background-color: red; background-size: cover; }
 #services h2 { color: #FAFAFA; }
 #services h5 { color: red; }
 #services .klopa { padding-left: 0px; padding-right: 0px; overflow: hidden; }
