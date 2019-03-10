@@ -395,6 +395,8 @@ body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for o
 
 .col-xs-5ths { width: 20%; float: left; }
 
+.no-padding { padding: 0; }
+
 @media (min-width: 768px) { .col-sm-5ths { width: 20%; float: left; } }
 @media (min-width: 992px) { .col-md-5ths { width: 20%; float: left; } }
 @media (min-width: 1200px) { .col-lg-5ths { width: 20%; float: left; } }

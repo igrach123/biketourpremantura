@@ -88,7 +88,9 @@ body{
     width: 20%;
     float: left;
 }
-
+.no-padding{
+    padding: 0;
+}
 @media (min-width: 768px) {
     .col-sm-5ths {
         width: 20%;
