@@ -16,7 +16,7 @@
 							<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt dolor voluptate maiores deserunt provident quaerat explicabo eos odit ab iusto autem sunt voluptas numquam, dolore tempore officiis? Nihil, explicabo esse.</p>
 							<div class="pmd-card-actions">
 					    		<a href="#services-windsurf" class="btn btn-primary riplle-effect" data-toggle="modal" role="button" data-target="#services-windsurf">Više..</a>
-					        	<a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer" class="btn btn-default riplle-effect scroll" role="button" data-target="#services-windsurf">kontakt</a>
+					        	<a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer" class="btn btn-default riplle-effect scroll" role="button" >kontakt</a>
 					    	</div>
 					
 					
@@ -39,7 +39,6 @@
 					<div class="t-3">
 						<div class="price-bg badge"> 350 kn</div>	
 						<h3 class="title">URBANA GRADSKA TURA - PULA</h3>
-						
 						<div class="overlay"></div>
 						<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, quam ipsam, ut necessitatibus quae amet sunt iste assumenda sed accusantium consequuntur velit ullam minus rerum culpa provident ad iure numquam?</p>
 							<!-- Card action -->

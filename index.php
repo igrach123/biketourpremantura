@@ -133,12 +133,10 @@ if ($_POST['submit']) {
         <!-- services -->
         <?php include "php/services.php" ?>
             <!-- services modals -->
-            <?php include "php/services-windsurf.php"; ?>
-            <?php include "php/services-kayaking.php"; ?>
-            <?php include "php/services-bike.php"; ?>
-            <?php include "php/services-sup.php"; ?>
-            <?php include "php/services-snorkeling.php"; ?>
-            <?php include "php/services-rental.php"; ?>
+            <?php include "php/services-pdnevni.php"; ?>
+            <?php include "php/services-cdnevni.php"; ?>
+            <?php include "php/services-urbana.php"; ?>
+            <?php include "php/services-enduro.php"; ?>
         <!-- end of services -->
 
         <!-- location -->
