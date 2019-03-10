@@ -139,11 +139,9 @@ if ($_POST['submit']) {
             <?php include "php/services-enduro.php"; ?>
         <!-- end of services -->
 
-        <!-- location -->
+        <!-- location -->   
         <?php include "php/location.php" ?>
-            <?php include "php/location-permantura.php" ?>
-            <?php include "php/location-medulin.php" ?>
-            <?php include "php/location-bike.php" ?>
+ 
         <?php include "php/partner-slide.php" ?>    
     
     </div> <!-- end of content wrapper -->

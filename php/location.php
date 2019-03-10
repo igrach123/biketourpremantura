@@ -2,53 +2,38 @@
 	<div class="container">
 		<h2>KAKO DO NAS</h2>
 		<div class="row">
-			<div class="col-sm-6  col-sm-offset-3 col-md-4 col-md-offset-0 s-container ">
-				<div class="col-xs-offset-1 col-xs-10 col-md-offset-0 col-md-12 location-bg-1 card-1" >
-					<a href="#location-permantura"  data-toggle="modal" role="button" data-target="#location-permantura">
-						<h3>Windsurf centar <span> Premantura</span></h3>
+				<div class="col-sm-6 ">
+					<img src="img/centar-bike.jpg" class="img-responsive card-2" alt="bike centar Premantura">
+				</div>
+			
+			<div class="col-sm-6">
+					<div class="" >
 						
-
-					</a>
-				</div>	
-			</div>
-
-			<div class="col-sm-6 col-md-4 s-container ">
-				<div class="col-xs-offset-1 col-xs-10 col-md-offset-0 col-md-12 location-bg-2 card-2" >
-					<a href="#location-medulin"  data-toggle="modal" role="button" data-target="#location-medulin">
-						<h3>Windsurf centar <span> Medulin</span></h3>
-						
-
-					</a>
-				</div>	
-			</div>
-
-			<div class="col-sm-6 col-md-4 s-container">
-				<div class="col-xs-offset-1 col-xs-10 col-md-offset-0 col-md-12 location-bg-3 card-1" >
-					<a href="#location-bike"  data-toggle="modal" role="button" data-target="#location-bike">
-						<h3>Bike centar <span> Premantura</span></h3>
-						
-					</a>
-				</div>	
+							<h3 class="text-center">Bike centar <span> Premantura</span></h3>
+							<p>Potpuni doživljaj prirode Kamenjakana kopnunudivožnja brdskim biciklom.
+								Bicikle je moguće individualno unajmiti ili rezervirati organizirani izlet.
+								Bicikle iznajmljujemo na dvije lokacije:u Premanturi na cesti za kamp Stupice, blizu kućnogbroja 63 i nasuprot Surf Bara te u kampu Stupice.
+								U ponudi imamo više vrsta bicikala, kako po veličini tako i po kvaliteti.
+							</p>
+							
+					</div>	
 			</div>
 		</div>
-
+	</div> 
+		
 <br>
 	
-	<div class="row" id="vrijeme-bg ">	
+</div><!-- container	 -->
+<div class="container-fluid" id="map">
+	<div class="row">
+               <div class="col-xs-12">
+                 <div class="google-maps">
+                   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d38094.689198160864!2d13.958886755066738!3d44.79294009379744!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9544cb64a3fa26f9!2sRent+a+Bike+Centar!5e0!3m2!1sen!2shr!4v1522863383452" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+                 </div>
+               </div>
 
-		
-			<div class=" col-xs-12 text-center  pmd-z-depth-1 hidden-xs ">
-		                  <script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/kamenjak_peninsula_stupice?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&columns=3&days=3&show_day=1&show_pressure=0&show_rain=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/kamenjak_peninsula_stupice?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for Kamenjak Peninsula / Stupice</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
-		    </div>
-
-
-	</div>
-	
-</div><!-- container	 -->	
-
-	<br class="hidden-xs">
-	<br class="hidden-xs">
-		
+     </div><!-- row     -->   
+</div>	
 	
 
 

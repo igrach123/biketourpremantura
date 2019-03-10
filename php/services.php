@@ -10,7 +10,7 @@
 				<div class="col-sm-6 col-lg-3 col-5px ">
 					<div class="t-1">
 							
-							<div class="price-bg badge"> 350 kn</div>	
+							<div class="price-bg badge badge-warning"> 350 kn</div>	
 							<h3 class="title">POLUDNEVNI IZLET</h3>
 							<div class="overlay"></div>
 							<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt dolor voluptate maiores deserunt provident quaerat explicabo eos odit ab iusto autem sunt voluptas numquam, dolore tempore officiis? Nihil, explicabo esse.</p>

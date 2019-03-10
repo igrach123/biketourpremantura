@@ -532,12 +532,12 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services .izleti-row { max-width: 1920px; margin: 0 auto; }
 #services .price-bg { color: #FFFFFF; }
 #services .col-5px { padding: 5px 5px 5px 5px; }
-#services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; padding: 10px; }
+#services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; padding: 10px; border-radius: 5px; }
 #services .t-1 h3, #services .t-2 h3, #services .t-3 h3, #services .t-4 h3 { color: #FFFFFF; }
-#services .t-1 { background-image: url("../img/bike/bike-header.jpg"); background-position: center center; background-size: cover; }
-#services .t-2 { background-image: url("../img/bike/bike-header.jpg"); background-color: red; background-size: cover; }
-#services .t-3 { background-image: url("../img/bike/bike-header.jpg"); background-color: red; background-size: cover; }
-#services .t-4 { background-image: url("../img/bike/bike-header.jpg"); background-color: red; background-size: cover; }
+#services .t-1 { background-image: url("../img/bike/bike-header.jpg"); background-position: center center; background-color: grey; background-size: cover; }
+#services .t-2 { background-image: url("../img/bike/bike-header.jpg"); background-color: grey; background-size: cover; }
+#services .t-3 { background-image: url("../img/bike/bike-header.jpg"); background-color: grey; background-size: cover; }
+#services .t-4 { background-image: url("../img/bike/bike-header.jpg"); background-color: grey; background-size: cover; }
 #services h2 { color: #FAFAFA; }
 #services h5 { color: red; }
 #services .klopa { padding-left: 0px; padding-right: 0px; overflow: hidden; }
@@ -608,18 +608,8 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services-rental h4 { background-image: url(../img/equipment/equipment-header.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
 #location { background-color: #FAFAFA; padding-bottom: 40px; }
-#location h3 { text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); }
-#location .location-bg-1, #location .location-bg-2, #location .location-bg-3 { background-color: #03a9f5; border-radius: 5px; margin-bottom: 25px; }
-#location .location-bg-1 a, #location .location-bg-2 a, #location .location-bg-3 a { text-decoration: none; }
-#location .location-bg-1 a:hover, #location .location-bg-2 a:hover, #location .location-bg-3 a:hover { text-decoration: none; }
-#location .location-bg-1 h3, #location .location-bg-2 h3, #location .location-bg-3 h3 { text-transform: uppercase; font-weight: 200; font-family: "Roboto", sans-serif; color: #FAFAFA; font-size: 30px; padding-top: 150px; padding-bottom: 150px; text-align: center; background-color: rgba(137, 177, 248, 0.2); transition: 0.3s ease-in-out; }
-#location .location-bg-1 h3 span, #location .location-bg-2 h3 span, #location .location-bg-3 h3 span { font-family: "Permanent Marker", cursive; }
-@media only screen and (min-width: 320px) { #location .location-bg-1 h3 span, #location .location-bg-2 h3 span, #location .location-bg-3 h3 span { font-size: 30px; } }
-@media only screen and (min-width: 992px) { #location .location-bg-1 h3 span, #location .location-bg-2 h3 span, #location .location-bg-3 h3 span { font-size: 40px; } }
-#location .location-bg-1 h3:hover, #location .location-bg-2 h3:hover, #location .location-bg-3 h3:hover { background-color: rgba(137, 177, 248, 0.5); }
-#location .location-bg-1 { background-image: url("../img/cemtri/permantura.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
-#location .location-bg-2 { background-image: url("../img/cemtri/medulin.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
-#location .location-bg-3 { background-image: url("../img/cemtri/bike-c.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center; }
+#location h3 { text-transform: uppercase; }
+#location p { text-align: justify; }
 
 #location-permantura .close, #location-medulin .close, #location-bike .close { padding-right: 10px; float: right; font-size: 50px; font-weight: 700; line-height: 1; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: 0.5; margin-right: 10px; }
 #location-permantura .modal-header, #location-medulin .modal-header, #location-bike .modal-header { padding: 0px; }
@@ -631,15 +621,9 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #location-permantura h4, #location-medulin h4, #location-bike h4 { font-size: 30px; text-align: center; font-family: "Permanent Marker",cursive; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #ffab35; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
 #location-permantura h5, #location-medulin h5, #location-bike h5 { text-align: center; color: #03a9f5; padding: 25px 0px 25px 0px; font-size: 24px; }
 
-#location-permantura h4 { background-image: url(../img/windsurf/windsurf1.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
-
-#location-medulin h4 { background-image: url(../img/windsurf/windsurf2.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
-
 #location-bike h4 { background-image: url(../img/bike/bike-centar.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
-#vrijeme-bg { margin: 0 aauto; background-color: #FFFFFF; overflow: hidden; }
-
-.google-maps { margin-top: 10px; position: relative; overflow: hidden; }
+.google-maps { position: relative; overflow: hidden; height: 400px; }
 
 #testimonial-slider { background-color: #FFFFFF; padding-top: 20px; padding-bottom: 40px; }
 

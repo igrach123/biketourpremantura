@@ -1,6 +1,7 @@
 .t-1,.t-2,.t-3,.t-4{
  text-align: center;
- padding: 10px;
+ padding:10px;
+ border-radius: 5px;
     h3{
         color: $bg-white;
         
@@ -11,26 +12,27 @@
         
         background-image: url('../img/bike/bike-header.jpg');
         background-position: center center;
+        background-color: grey;
         background-size: cover;
 }
 .t-2{
    
     
     background-image: url('../img/bike/bike-header.jpg');
-    background-color: red;
+    background-color: grey;
     background-size: cover;
 }
 .t-3{
    
     
     background-image: url('../img/bike/bike-header.jpg');
-    background-color: red;
+    background-color: grey;
     background-size: cover;
 }
 .t-4{
    
     
     background-image: url('../img/bike/bike-header.jpg');
-    background-color: red;
+    background-color: grey;
     background-size: cover;
 }
