@@ -612,14 +612,14 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #location { background-color: #FAFAFA; padding-bottom: 40px; }
 #location h3 { text-transform: uppercase; }
 #location p { text-align: justify; }
+#location .l-iconi-wrapper { list-style: none; }
+@media only screen and (min-width: 480px) { #location .l-iconi-wrapper div { display: inline-block; float: left; width: 10%; margin-left: 5px; } }
+#location .l-iconi-wrapper div img { padding: 5px; border-radius: 50%; display: block; margin: 0 auto; transition: all 0.4s ease-in-out; background-color: #03a9f5; }
+#location .l-iconi-wrapper div img:hover, #location .l-iconi-wrapper div img:focus { background-color: #ffab35; }
+#location .l-iconi-wrapper div p { text-align: center; font-size: 14px; color: rgba(0, 0, 0, 0.54); font-weight: bold; }
 
 #location-permantura .close, #location-medulin .close, #location-bike .close { padding-right: 10px; float: right; font-size: 50px; font-weight: 700; line-height: 1; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: 0.5; margin-right: 10px; }
 #location-permantura .modal-header, #location-medulin .modal-header, #location-bike .modal-header { padding: 0px; }
-#location-permantura .l-iconi-wrapper, #location-medulin .l-iconi-wrapper, #location-bike .l-iconi-wrapper { list-style: none; }
-@media only screen and (min-width: 480px) { #location-permantura .l-iconi-wrapper div, #location-medulin .l-iconi-wrapper div, #location-bike .l-iconi-wrapper div { display: inline-block; float: left; width: 20%; } }
-#location-permantura .l-iconi-wrapper div img, #location-medulin .l-iconi-wrapper div img, #location-bike .l-iconi-wrapper div img { padding: 15px; border-radius: 50%; width: 90px; display: block; margin: 0 auto; transition: all 0.4s ease-in-out; background-color: #03a9f5; }
-#location-permantura .l-iconi-wrapper div img:hover, #location-permantura .l-iconi-wrapper div img:focus, #location-medulin .l-iconi-wrapper div img:hover, #location-medulin .l-iconi-wrapper div img:focus, #location-bike .l-iconi-wrapper div img:hover, #location-bike .l-iconi-wrapper div img:focus { background-color: #ffab35; }
-#location-permantura .l-iconi-wrapper div p, #location-medulin .l-iconi-wrapper div p, #location-bike .l-iconi-wrapper div p { text-align: center; font-size: 14px; color: rgba(0, 0, 0, 0.54); font-weight: bold; }
 #location-permantura h4, #location-medulin h4, #location-bike h4 { font-size: 30px; text-align: center; font-family: "Permanent Marker",cursive; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #ffab35; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
 #location-permantura h5, #location-medulin h5, #location-bike h5 { text-align: center; color: #03a9f5; padding: 25px 0px 25px 0px; font-size: 24px; }
 
@@ -655,8 +655,8 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 .owl-theme .owl-controls .owl-buttons div { color: #869791; display: inline-block; zoom: 1; margin: 5px; padding: 3px 10px; font-size: 12px; -webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px; background: transparent; filter: Alpha(Opacity=50); opacity: .5; }
 
-@media only screen and (min-width: 320px) { .imgwrapper { border-radius: 3px; width: 46%; float: left; position: relative; overflow: hidden; transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; z-index: 400; margin: 1%; } }
-@media only screen and (min-width: 992px) { .imgwrapper { border-radius: 3px; width: 23%; float: left; position: relative; overflow: hidden; transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; z-index: 400; margin: 1%; } }
+@media only screen and (min-width: 320px) { .imgwrapper { border-radius: 3px; width: 22%; float: left; position: relative; overflow: hidden; transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; z-index: 400; margin: 1%; } }
+@media only screen and (min-width: 992px) { .imgwrapper { border-radius: 3px; width: 31%; float: left; position: relative; overflow: hidden; transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; z-index: 400; margin: 1%; } }
 .imgwrapper img { transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; }
 
 .imgwrapper img:hover { transform: scale(1.08); }

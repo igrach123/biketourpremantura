@@ -286,7 +286,7 @@
 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
   <div class="panel-body">
 
-    <div id="bikes">
+    <div id="">
        <div class="imgwrapper botmargin card-2">
             <a href="img/bike/b1.jpg" title="windsurfing">
            <img src="img/bike/b1_thumb.jpg" data-src="img/bike/b1_thumb.jpg" class="img img-responsive img-rounded " alt="bike"></a>

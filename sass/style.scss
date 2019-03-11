@@ -1080,7 +1080,37 @@ h3{
     p{
         text-align: justify;
     }
+    .l-iconi-wrapper{
+        list-style: none;
+        div{
 
+            @include xs {
+            display: inline-block;
+            float: left;
+            width: 10%;
+            margin-left: 5px;  
+            }
+           
+            img{
+                padding: 5px;
+                border-radius: 50%;
+                display: block;
+                margin: 0 auto;
+                transition:all 0.4s ease-in-out;
+                background-color: $main-blue;
+            }
+            img:hover,img:focus{
+
+                  background-color: $main-orange;    
+            }
+            p{               
+                text-align: center;
+                font-size: 14px;
+                color: $second;
+                font-weight: bold;
+            }
+        }
+    }
 
 
 }
@@ -1101,37 +1131,7 @@ h3{
     .modal-header{
         padding: 0px;
     }
-    .l-iconi-wrapper{
-        list-style: none;
-        div{
-
-            @include xs {
-            display: inline-block;
-            float: left;
-            width: 20%;  
-            }
-           
-            img{
-                padding: 15px;
-                border-radius: 50%;
-                width: 90px;
-                display: block;
-                margin: 0 auto;
-                transition:all 0.4s ease-in-out;
-                background-color: $main-blue;
-            }
-            img:hover,img:focus{
-
-                  background-color: $main-orange;    
-            }
-            p{               
-                text-align: center;
-                font-size: 14px;
-                color: $second;
-                font-weight: bold;
-            }
-        }
-    }
+    
     h4{
         font-size: 30px;
         text-align: center;
@@ -1275,7 +1275,7 @@ h3{
     .imgwrapper{
        
          border-radius: 3px;
-          width: 46%;
+          width: 22%;
           float: left;
           position:relative;
           overflow: hidden;
@@ -1288,7 +1288,7 @@ h3{
 @include md {
     .imgwrapper{
      border-radius: 3px;
-      width: 23%;
+      width: 31%;
       float: left;
       position:relative;
       overflow: hidden;

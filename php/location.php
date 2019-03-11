@@ -21,47 +21,55 @@
 		<br>
 		<br>
 		<div class="row">
-			<div class="col-sm-6">
-				<div class="drugi-centri-1">
-						
-								<div class="media card-1">
-									<div class="media-left">
+			<div class="col-sm-6 card-1 ">
+						<div class="row ">
+								<div class="col-sm-4 no-padding ">
+									
 										<a href="#">
-										<img class="media-object img-responsive" src="img/centri/premantura-small-2.jpg" alt="Windsurf Centar Premantura">
+										<img class=" img-responsive" src="img/centri/premantura-small-2.jpg" alt="Windsurf Centar Premantura">
 										</a>
-									</div>
-									<div class="media-body">
-										<h4 class="media-heading">Windsurf Centar Premantura</h4>
-										...
-									</div>
 								</div>
+									<div class="col-sm-8">
+										<h4 class="">Windsurf Centar Premantura</h4>
+										<p>Naš centar u Premanturi nalazi se u Kampu Arena Stupice gdje je moguće rezervirati smještaj</p>
+										<div class="l-iconi-wrapper clearfix">
+											<div> <span class="l-iconi text-center"><img class="img-responsive" src="img/iconi/surf.png" alt="surf-icon"> </span>   </div>
+											<div> <span class="l-iconi text-center"><img class="img-responsive" src="img/iconi/kayak.png" alt="surf-icon"> </span> </div>
+											<div> <span class="l-iconi text-center"><img class="img-responsive" src="img/iconi/bike.png" alt="surf-icon"> </span>   </div>
+											<div> <span class="l-iconi text-center"><img class="img-responsive" src="img/iconi/snorkel.png" alt="surf-icon"> </span>  </div>
+											<div> <span class="l-iconi text-center"><img class="img-responsive" src="img/iconi/sup.png" alt="surf-icon"> </span> </div>
+										</div>
+									</div>
+						</div>
 				</div>
 							
-			</div>
-			<div class="col-sm-6">
-				<div class="drugi-centri-1">
-							
-								<div class="media card-1">
-									<div class="media-left">
+			
+				<div class="col-sm-6 card-1">
+						<div class="row ">
+								<div class="col-sm-4 no-padding ">
+									
 										<a href="#">
-										<img class="media-object img-responsive" src="img/centri/medulin-small-2.jpg" alt="Windsurf Centar Premantura">
+										<img class=" img-responsive" src="img/centri/medulin-small-2.jpg" alt="Windsurf Centar Medulin">
 										</a>
-									</div>
-									<div class="media-body">
-										<h4 class="media-heading">Windsurf Centar Medulin</h4>
-										...
-									</div>
 								</div>
+									<div class="col-sm-8">
+										<h4 class="">Windsurf Centar Premantura</h4>
+										<p><strong>Medulin</strong>  je turističko naselje smješteno na istočnoj strani istarskog poluotoka, nekoliko kilometara sjeverno od Premanture. Naš se centar nalazi u <b> KampuArena Medulin.</b> </p>
+										<div class="l-iconi-wrapper clearfix">
+											<div> <span class="l-iconi text-center"><img class="img-responsive" src="img/iconi/surf.png" alt="surf-icon"> </span>   </div>
+											<div> <span class="l-iconi text-center"><img class="img-responsive" src="img/iconi/kayak.png" alt="surf-icon"> </span> </div>
+											<div> <span class="l-iconi text-center"><img class="img-responsive" src="img/iconi/sup.png" alt="surf-icon"> </span> </div>
+										</div>
+									</div>
+						</div>
 				</div>
-							
-			</div>
 		</div>
 	</div> 
 		
 <br>
 	
 </div><!-- container	 -->
-<div class="container-fluid" id="map">
+<div class="" id="map">
 	<div class="row">
                <div class="col-xs-12">
                  <div class="google-maps">

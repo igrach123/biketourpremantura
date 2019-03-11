@@ -18,7 +18,7 @@
 
             </p>
 
-           
+
               <h5 class="text-center">KOD NAS IZNAJMITE</h5>
 
               <div class="l-iconi-wrapper clearfix col-xs-offset-3">
