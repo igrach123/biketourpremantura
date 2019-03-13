@@ -32,6 +32,8 @@ $main-orange:#ffab35;
 $bg-grey-light:#F5F5F5;
 $bg-grey-lighter:#FAFAFA;
 $bg-white:#FFFFFF;
+$blue-white-gradient:linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+$Vital-Ocean-gradinet:linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
 
 
 
@@ -72,6 +74,9 @@ body{
     font-size: 16px;
     font-family: 'Open Sans', 'Helvetica' ,sans-serif;
     overflow-x: hidden;  
+}
+.site-wrapper{
+    width: 100%;
 }
 //bootstrap 5 columns class
 .col-xs-5ths,
@@ -308,6 +313,7 @@ p,li,a{
 
 //end of bootstrap carousel
 header{
+    width: 100%;
 	.animated-arrow-down{
 		margin-top: 20px;
 	}
@@ -807,6 +813,12 @@ header{
 }
 //****************SERVICES SECTION*******************//
 #services{
+    padding-bottom: 80px;
+    background: $blue-white-gradient;
+
+
+    h2{color:$bg-grey-lighter;} 
+    h5{color:red;}
     .izleti-row{
         max-width: 1920px;
         margin: 0 auto;
@@ -815,35 +827,23 @@ header{
         color: $bg-white;
       
     }
+    .modal-footer{
 
+    }
     .col-5px{
         padding: 5px 5px 5px 5px;
     }
     @import "imghover";
-    background-color: grey;
-    padding-bottom: 80px;
-    background-attachment: fixed;
-    h2{color:$bg-grey-lighter;} 
-    h5{color:red;}
+ 
 
-.klopa{
-    padding-left: 0px;
-    padding-right: 0px;
-    overflow: hidden;
-}
 .pmd-card{  
     border-radius: 0px 0px 5px 5px;
-}
-.pmd-card-actions{
-
 }
 h3{
        img{
             width:50px;
             padding-left: 5px;
         }
-
-
 }
 //CIJENA
 
@@ -927,7 +927,7 @@ h3{
    
     h4{
        
-        background-image: url(../img/windsurf/windsurf-header.jpg); 
+        background-image: url(../img/izleti/poludnevni.jpg); 
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;  
@@ -1074,11 +1074,17 @@ h3{
 #location{
     background-color: $bg-grey-lighter;
     padding-bottom: 40px;
+
     h3{
        text-transform: uppercase;
     }
     p{
         text-align: justify;
+    }
+    .facebook-iframe{
+        display:block;
+        margin-top: 10px;
+        padding-top: 10px;
     }
     .l-iconi-wrapper{
         list-style: none;

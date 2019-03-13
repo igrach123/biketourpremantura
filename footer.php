@@ -2,48 +2,14 @@
 
             <div class="container">
                 <h2 class="text-center">Kontaktirajte nas</h2>
-                  <div class="text-center error"> <?php echo $result;?></div> <!--error message-->
+              
 
              
              <div class="row">
              
                  <div class="col-xs-12 col-sm-8 col-sm-offset-2  col-md-offset-3 col-md-6" id="contact-container">
                      <h4 class="text-center ">Pošaljite nam upit!</h4>
-                     <form class="form-horizontal" role="form" method="post" id="contact-form">
-                 
-                         <div class="form-group">
-                                
-                             <div class="col-sm-12">
-                                 <input type="text" class="form-control" id="name" name="name" placeholder="Vaše ime" value="<?php echo $_POST['name']; ?>">
-                             </div>
-                         </div>
-                     <div class="form-group">
-                       
-                         <div class="col-sm-12">
-                             <input type="email" class="form-control" id="email" name="email" placeholder="Vaš Email" value="<?php echo $_POST['email']; ?>">
-                         </div>
-                     </div>
-                     <div class="form-group">
-                        
-                         <div class="col-sm-12">
-                             <textarea class="form-control" id="message" rows="4" placeholder="Vaša poruka" name="message" style="resize: none;"><?php echo $_POST['message']; ?></textarea>
-                         </div>
-                     </div>
-
-                        <div class="form-group">
-                         <label for="human" class="col-sm-2 col-sm-offset-6 control-label">2+3=?</label>
-                         <div class="col-sm-4 ">
-                         <input type="text" class="form-control" id="human" name="human" placeholder="Your answer">
-                         </div>
-                     </div>  
-
-                     <div class="form-group">
-                         <div class="text-center">
-                             <input id="submit" name="submit" type="submit" value="Send" class="btn-send btn btn-primary btn-md">
-                         </div>
-                     </div>
-                     <p class="antispam hidden">your input here: <input type="text" name="url" id="url" /></p>
-                 </form>
+                     
                  </div>
              </div>
                 

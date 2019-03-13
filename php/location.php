@@ -2,12 +2,12 @@
 	<div class="container">
 		<h2>KAKO DO NAS</h2>
 		<div class="row card-1">
-				<div class="col-sm-6 no-padding">
-					<img src="img/centar-bike.jpg" class="img-responsive card-2" alt="bike centar Premantura">
-				</div>
+			<div class="col-xs-12 col-sm-6 no-padding">
+				<img src="img/centar-bike.jpg" class="img-responsive card-2" alt="bike centar Premantura">
+			</div>
 			
-			<div class="col-sm-6">
-					<div class="" >
+			<div class="col-xs-12 col-sm-6">
+				
 						
 							<h3 class="text-center">Bike centar <span> Premantura</span></h3>
 							<p>Potpuni doživljaj prirode Kamenjakana kopnunudivožnja brdskim biciklom.
@@ -15,7 +15,17 @@
 								Bicikle iznajmljujemo na dvije lokacije:u Premanturi na cesti za kamp Stupice, blizu kućnogbroja 63 i nasuprot Surf Bara te u kampu Stupice.
 								U ponudi imamo više vrsta bicikala, kako po veličini tako i po kvaliteti.
 							</p>
-					</div>	
+					
+					<hr>
+					<div class="pmd-card-actions col-xs-6">
+						<a class="facebook-modal-link btn-success btn" href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/" target="_blank"><span class="fa fa-facebook">POSJETITE NAS</span></a>
+						<iframe class="facebook-modal-iframe" src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FRENT-A-BIKE-Premantura-917457535047303%2F&width=140&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477" width="140" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+					</div> 
+					
+					
+					
+
+					
 			</div>
 		</div>
 		<br>

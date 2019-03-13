@@ -7,10 +7,10 @@
 			<div class="row izleti-row">
 
 			
-				<div class="col-sm-6 col-lg-3 col-5px ">
+				<div class="col-sm-6 col-lg-3 col-5px service-wrap">
 					<div class="t-1">
 							
-							<div class="price-bg badge badge-warning"> 350 kn</div>	
+							<div class="price-bg badge"> 350 kn</div>	
 							<h3 class="title">POLUDNEVNI IZLET</h3>
 							<div class="overlay"></div>
 							<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt dolor voluptate maiores deserunt provident quaerat explicabo eos odit ab iusto autem sunt voluptas numquam, dolore tempore officiis? Nihil, explicabo esse.</p>
@@ -22,9 +22,9 @@
 					
 					</div>
 				</div>
-				<div class="col-sm-6 col-lg-3 col-5px">
+				<div class="col-sm-6 col-lg-3 col-5px service-wrap">
 					<div class="t-2">
-						<div class="price-bg badge"> 350 kn</div>	
+						<div class="price-bg badge"> 450 kn</div>	
 						<h3 class="title">CJELODNEVNI IZLET</h3>
 						<div class="overlay"></div>
 						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, ipsa? Sequi, natus! Animi optio culpa, inventore adipisci numquam, veniam facere vel magnam ea delectus incidunt aliquid sunt facilis ex a?</p>
@@ -35,7 +35,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-lg-3 col-5px">
+				<div class="col-sm-6 col-lg-3 col-5px service-wrap">
 					<div class="t-3">
 						<div class="price-bg badge"> 350 kn</div>	
 						<h3 class="title">URBANA GRADSKA TURA - PULA</h3>
@@ -48,7 +48,7 @@
 					    </div>
 					</div>
 				</div>
-				<div class="col-sm-6 col-lg-3 col-5px">
+				<div class="col-sm-6 col-lg-3 col-5px service-wrap">
 					<div class="t-4">
 						<div class="price-bg badge"> 350 kn</div>	
 						<h3 class="title">ENDURO TOURS VALTURA BUDAVA KAMENJAK</h3>

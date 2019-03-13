@@ -44,7 +44,7 @@
          <span class="small">PREMANUTRA </span></h1>
 
          <!--video backgorund-->
-           <div class="overlay"></div>
+           <div class="overlay hidden-xs"></div>
               <video class="hidden-xs hidden-sm" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                 <source src="video/kamenjak.mp4" type="video/mp4">
               </video>

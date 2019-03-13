@@ -391,6 +391,8 @@ html { padding: 0px 0px; margin: 0px 0px; }
 
 body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for old browsers */ background: -webkit-linear-gradient(to top, #f2fcfe, #1c92d2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to top, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ font-size: 16px; font-family: 'Open Sans', 'Helvetica' ,sans-serif; overflow-x: hidden; }
 
+.site-wrapper { width: 100%; }
+
 .col-xs-5ths, .col-sm-5ths, .col-md-5ths, .col-lg-5ths { position: relative; min-height: 1px; padding-right: 15px; padding-left: 15px; }
 
 .col-xs-5ths { width: 20%; float: left; }
@@ -450,6 +452,7 @@ p, li, a { font-family: 'Open Sans', sans-serif; }
 
 .parallax-window { min-height: 400px; background: transparent; }
 
+header { width: 100%; }
 header .animated-arrow-down { margin-top: 20px; }
 header .small-premanutra { font-family: "Roboto", sans-serif !important; font-weight: 100; font-size: 3rem; letter-spacing: 12px; }
 @media only screen and (min-width: 320px) { header { background: #000 url("../img/hero-image-mobile.jpg") no-repeat center; background-size: cover; }
@@ -530,19 +533,23 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #about-us p a { text-decoration: none; color: #03a9f5; text-transform: uppercase; }
 #about-us p a:focus, #about-us p a:hover { text-decoration: underline; font-weight: 900; }
 
-#services { background-color: grey; padding-bottom: 80px; background-attachment: fixed; }
+#services { padding-bottom: 80px; background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%); }
+#services h2 { color: #FAFAFA; }
+#services h5 { color: red; }
 #services .izleti-row { max-width: 1920px; margin: 0 auto; }
 #services .price-bg { color: #FFFFFF; }
 #services .col-5px { padding: 5px 5px 5px 5px; }
-#services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; padding: 10px; border-radius: 5px; }
+#services .service-wrap { overflow: hidden; border-radius: 5px; position: relative; }
+#services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; color: #FFFFFF; padding: 10px; border-radius: 5px; transition: all 0.3s ease-in-out; }
 #services .t-1 h3, #services .t-2 h3, #services .t-3 h3, #services .t-4 h3 { color: #FFFFFF; }
-#services .t-1 { background-image: url("../img/bike/bike-header.jpg"); background-position: center center; background-color: grey; background-size: cover; }
-#services .t-2 { background-image: url("../img/bike/bike-header.jpg"); background-color: grey; background-size: cover; }
-#services .t-3 { background-image: url("../img/bike/bike-header.jpg"); background-color: grey; background-size: cover; }
-#services .t-4 { background-image: url("../img/bike/bike-header.jpg"); background-color: grey; background-size: cover; }
-#services h2 { color: #FAFAFA; }
-#services h5 { color: red; }
-#services .klopa { padding-left: 0px; padding-right: 0px; overflow: hidden; }
+#services .t-1 { background-image: url("../img/izleti/poludnevni-m.jpg"); background-position: center center; background-color: grey; background-size: cover; }
+#services .t-1:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
+#services .t-2:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
+#services .t-3:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
+#services .t-4:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
+#services .t-2 { background-image: url("../img/izleti/cjelodnevni-m.jpg"); background-color: grey; background-size: cover; }
+#services .t-3 { background-image: url("../img/izleti/urbana-m.jpg"); background-color: grey; background-size: cover; }
+#services .t-4 { background-image: url("../img/izleti/enduro-m.jpg"); background-color: grey; background-size: cover; }
 #services .pmd-card { border-radius: 0px 0px 5px 5px; }
 #services h3 img { width: 50px; padding-left: 5px; }
 
@@ -557,7 +564,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services-windsurf .facebook-modal-link, #services-bike .facebook-modal-link, #services-kayaking .facebook-modal-link, #services-rental .facebook-modal-link, #services-snorkeling .facebook-modal-link, #services-sup .facebook-modal-link { margin-left: 0px !important; }
 #services-windsurf .facebook-modal-iframe, #services-bike .facebook-modal-iframe, #services-kayaking .facebook-modal-iframe, #services-rental .facebook-modal-iframe, #services-snorkeling .facebook-modal-iframe, #services-sup .facebook-modal-iframe { display: inherit; }
 
-#services-windsurf h4 { background-image: url(../img/windsurf/windsurf-header.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
+#services-windsurf h4 { background-image: url(../img/izleti/poludnevni.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 #services-windsurf .windsurf-daske .thumbnail { margin: 0 auto; transition: all .3s ease-in-out; }
 #services-windsurf .windsurf-daske .thumbnail:active, #services-windsurf .windsurf-daske .thumbnail:hover { border: 1px solid #89e9f8; }
 #services-windsurf .h7 { font-size: 18px; color: #89e9f8; font-weight: bolder; letter-spacing: 4px; }
@@ -612,6 +619,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #location { background-color: #FAFAFA; padding-bottom: 40px; }
 #location h3 { text-transform: uppercase; }
 #location p { text-align: justify; }
+#location .facebook-iframe { display: block; margin-top: 10px; padding-top: 10px; }
 #location .l-iconi-wrapper { list-style: none; }
 @media only screen and (min-width: 480px) { #location .l-iconi-wrapper div { display: inline-block; float: left; width: 10%; margin-left: 5px; } }
 #location .l-iconi-wrapper div img { padding: 5px; border-radius: 50%; display: block; margin: 0 auto; transition: all 0.4s ease-in-out; background-color: #03a9f5; }
