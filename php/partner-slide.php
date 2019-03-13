@@ -1,5 +1,5 @@
                    
-                    <section class="container-fluid" id="partneri">
+                    <section class="" id="partneri">
 
                         <!-- OWL CAROUSEL -->
                         <div id="testimonial-slider" class="owl-carousel">

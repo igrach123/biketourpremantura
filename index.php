@@ -53,15 +53,6 @@
             <link rel="stylesheet" href="css/style.css">
             <script src="js/vendor/modernizr-2.8.3.min.js"></script>
             
-            <!-- Global site tag (gtag.js) - Google Analytics -->
-            <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116477122-1"></script>
-            <script>
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-
-              gtag('config', 'UA-116477122-1');
-            </script> -->
 
         </head>
  <body data-spy="scroll" data-target="#myNavbar" data-offset="65" id="home-hr">
@@ -100,7 +91,9 @@
 
                 <!-- location -->
                 <?php include "php/location.php" ?>
-                <?php include "php/bike-cjenik.php" ?>
+                <?php include "php/bike-cjenik.php"?>
+                <?php include "php/cjenik-bikes.php"?>
+                
         
                 <?php include "php/partner-slide.php" ?>    
             
@@ -128,15 +121,6 @@
         <script src="js/vendor/blueimp-gallery.min.js"></script>
        
         <script src="js/echo.min.js"></script> -->
-
-     
-        
-     <!-- Go to www.addthis.com/dashboard to customize your tools --> 
-     <!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ac0f8a1b1b5a818"></script> -->
-
-
-
-       
         
         <script src="js/main-js-backup-min.js"></script>
 

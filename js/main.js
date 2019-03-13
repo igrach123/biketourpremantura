@@ -1,7 +1,6 @@
 
 // @koala-prepend "owl.carousel.min.js"
 // @koala-prepend "blueimp-gallery.min.js"
-// @koala-prepend "jquery.matchHeight.js"
 // @koala-prepend "smooth-scroll.min.js"
 // @koala-prepend "echo.min.js"
 
@@ -17,9 +16,8 @@ echo.init({
 
 //match heoght group 1
 $(function() {
-        $('.item1').matchHeight();
-    });
-
+	$('.item').matchHeight(options);
+});
 
 //Owl Carousel 2
 $(document).ready(function(){

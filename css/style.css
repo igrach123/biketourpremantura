@@ -271,7 +271,7 @@ h2.pmd-card-title-text { font-size: 1.5rem; font-weight: 400; margin-bottom: 2px
 
 .pmd-card-actions .btn.pmd-btn-flat { margin-left: 4px; margin-right: 4px; margin-bottom: 0; }
 
-.pmd-card-actions .btn { padding: 10px 8px; min-width: inherit; }
+.pmd-card-actions .btn { padding: 10px 18px; min-width: inherit; }
 
 .pmd-card-actions .btn.pmd-btn-fab { padding: 0; }
 
@@ -392,6 +392,8 @@ html { padding: 0px 0px; margin: 0px 0px; }
 body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for old browsers */ background: -webkit-linear-gradient(to top, #f2fcfe, #1c92d2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to top, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ font-size: 16px; font-family: 'Open Sans', 'Helvetica' ,sans-serif; overflow-x: hidden; }
 
 .site-wrapper { width: 100%; }
+
+.pb-10 { padding-bottom: 10px; }
 
 .col-xs-5ths, .col-sm-5ths, .col-md-5ths, .col-lg-5ths { position: relative; min-height: 1px; padding-right: 15px; padding-left: 15px; }
 
@@ -533,7 +535,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #about-us p a { text-decoration: none; color: #03a9f5; text-transform: uppercase; }
 #about-us p a:focus, #about-us p a:hover { text-decoration: underline; font-weight: 900; }
 
-#services { padding-bottom: 80px; background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%); }
+#services { padding-bottom: 80px; background-color: #03a9f5; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25'%3E%3Cdefs%3E%3ClinearGradient id='a' gradientUnits='userSpaceOnUse' x1='0' x2='0' y1='0' y2='100%25' gradientTransform='rotate(240)'%3E%3Cstop offset='0' stop-color='%2303a9f5'/%3E%3Cstop offset='1' stop-color='%230393d5'/%3E%3C/linearGradient%3E%3Cpattern patternUnits='userSpaceOnUse' id='b' width='742' height='618.3' x='0' y='0' viewBox='0 0 1080 900'%3E%3Cg fill-opacity='0.1'%3E%3Cpolygon fill='%23444' points='90 150 0 300 180 300'/%3E%3Cpolygon points='90 150 180 0 0 0'/%3E%3Cpolygon fill='%23AAA' points='270 150 360 0 180 0'/%3E%3Cpolygon fill='%23DDD' points='450 150 360 300 540 300'/%3E%3Cpolygon fill='%23999' points='450 150 540 0 360 0'/%3E%3Cpolygon points='630 150 540 300 720 300'/%3E%3Cpolygon fill='%23DDD' points='630 150 720 0 540 0'/%3E%3Cpolygon fill='%23444' points='810 150 720 300 900 300'/%3E%3Cpolygon fill='%23FFF' points='810 150 900 0 720 0'/%3E%3Cpolygon fill='%23DDD' points='990 150 900 300 1080 300'/%3E%3Cpolygon fill='%23444' points='990 150 1080 0 900 0'/%3E%3Cpolygon fill='%23DDD' points='90 450 0 600 180 600'/%3E%3Cpolygon points='90 450 180 300 0 300'/%3E%3Cpolygon fill='%23666' points='270 450 180 600 360 600'/%3E%3Cpolygon fill='%23AAA' points='270 450 360 300 180 300'/%3E%3Cpolygon fill='%23DDD' points='450 450 360 600 540 600'/%3E%3Cpolygon fill='%23999' points='450 450 540 300 360 300'/%3E%3Cpolygon fill='%23999' points='630 450 540 600 720 600'/%3E%3Cpolygon fill='%23FFF' points='630 450 720 300 540 300'/%3E%3Cpolygon points='810 450 720 600 900 600'/%3E%3Cpolygon fill='%23DDD' points='810 450 900 300 720 300'/%3E%3Cpolygon fill='%23AAA' points='990 450 900 600 1080 600'/%3E%3Cpolygon fill='%23444' points='990 450 1080 300 900 300'/%3E%3Cpolygon fill='%23222' points='90 750 0 900 180 900'/%3E%3Cpolygon points='270 750 180 900 360 900'/%3E%3Cpolygon fill='%23DDD' points='270 750 360 600 180 600'/%3E%3Cpolygon points='450 750 540 600 360 600'/%3E%3Cpolygon points='630 750 540 900 720 900'/%3E%3Cpolygon fill='%23444' points='630 750 720 600 540 600'/%3E%3Cpolygon fill='%23AAA' points='810 750 720 900 900 900'/%3E%3Cpolygon fill='%23666' points='810 750 900 600 720 600'/%3E%3Cpolygon fill='%23999' points='990 750 900 900 1080 900'/%3E%3Cpolygon fill='%23999' points='180 0 90 150 270 150'/%3E%3Cpolygon fill='%23444' points='360 0 270 150 450 150'/%3E%3Cpolygon fill='%23FFF' points='540 0 450 150 630 150'/%3E%3Cpolygon points='900 0 810 150 990 150'/%3E%3Cpolygon fill='%23222' points='0 300 -90 450 90 450'/%3E%3Cpolygon fill='%23FFF' points='0 300 90 150 -90 150'/%3E%3Cpolygon fill='%23FFF' points='180 300 90 450 270 450'/%3E%3Cpolygon fill='%23666' points='180 300 270 150 90 150'/%3E%3Cpolygon fill='%23222' points='360 300 270 450 450 450'/%3E%3Cpolygon fill='%23FFF' points='360 300 450 150 270 150'/%3E%3Cpolygon fill='%23444' points='540 300 450 450 630 450'/%3E%3Cpolygon fill='%23222' points='540 300 630 150 450 150'/%3E%3Cpolygon fill='%23AAA' points='720 300 630 450 810 450'/%3E%3Cpolygon fill='%23666' points='720 300 810 150 630 150'/%3E%3Cpolygon fill='%23FFF' points='900 300 810 450 990 450'/%3E%3Cpolygon fill='%23999' points='900 300 990 150 810 150'/%3E%3Cpolygon points='0 600 -90 750 90 750'/%3E%3Cpolygon fill='%23666' points='0 600 90 450 -90 450'/%3E%3Cpolygon fill='%23AAA' points='180 600 90 750 270 750'/%3E%3Cpolygon fill='%23444' points='180 600 270 450 90 450'/%3E%3Cpolygon fill='%23444' points='360 600 270 750 450 750'/%3E%3Cpolygon fill='%23999' points='360 600 450 450 270 450'/%3E%3Cpolygon fill='%23666' points='540 600 630 450 450 450'/%3E%3Cpolygon fill='%23222' points='720 600 630 750 810 750'/%3E%3Cpolygon fill='%23FFF' points='900 600 810 750 990 750'/%3E%3Cpolygon fill='%23222' points='900 600 990 450 810 450'/%3E%3Cpolygon fill='%23DDD' points='0 900 90 750 -90 750'/%3E%3Cpolygon fill='%23444' points='180 900 270 750 90 750'/%3E%3Cpolygon fill='%23FFF' points='360 900 450 750 270 750'/%3E%3Cpolygon fill='%23AAA' points='540 900 630 750 450 750'/%3E%3Cpolygon fill='%23FFF' points='720 900 810 750 630 750'/%3E%3Cpolygon fill='%23222' points='900 900 990 750 810 750'/%3E%3Cpolygon fill='%23222' points='1080 300 990 450 1170 450'/%3E%3Cpolygon fill='%23FFF' points='1080 300 1170 150 990 150'/%3E%3Cpolygon points='1080 600 990 750 1170 750'/%3E%3Cpolygon fill='%23666' points='1080 600 1170 450 990 450'/%3E%3Cpolygon fill='%23DDD' points='1080 900 1170 750 990 750'/%3E%3C/g%3E%3C/pattern%3E%3C/defs%3E%3Crect x='0' y='0' fill='url(%23a)' width='100%25' height='100%25'/%3E%3Crect x='0' y='0' fill='url(%23b)' width='100%25' height='100%25'/%3E%3C/svg%3E"); background-attachment: fixed; background-size: cover; }
 #services h2 { color: #FAFAFA; }
 #services h5 { color: red; }
 #services .izleti-row { max-width: 1920px; margin: 0 auto; }
@@ -554,6 +556,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services h3 img { width: 50px; padding-left: 5px; }
 
 #services-windsurf .intro, #services-bike .intro, #services-kayaking .intro, #services-rental .intro, #services-snorkeling .intro, #services-sup .intro { font-family: 'Roboto', cursive; color: rgba(0, 0, 0, 0.38); font-weight: thin; font-size: 20px; }
+#services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close { color: #a94442 !important; }
 #services-windsurf .services-sm-title, #services-bike .services-sm-title, #services-kayaking .services-sm-title, #services-rental .services-sm-title, #services-snorkeling .services-sm-title, #services-sup .services-sm-title { color: #03a9f5; padding: 30px 0 30px 0; text-align: center; font-size: 28px; font-weight: 600; }
 #services-windsurf .services-sm-title2, #services-bike .services-sm-title2, #services-kayaking .services-sm-title2, #services-rental .services-sm-title2, #services-snorkeling .services-sm-title2, #services-sup .services-sm-title2 { color: #03a9f5; padding: 30px 0px 0px 0px; text-align: center; font-size: 28px; font-weight: 600; }
 #services-windsurf .btn-info, #services-bike .btn-info, #services-kayaking .btn-info, #services-rental .btn-info, #services-snorkeling .btn-info, #services-sup .btn-info { border-radius: 0px; position: absolute; right: 0; bottom: 0; }
@@ -561,7 +564,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services-windsurf h4, #services-bike h4, #services-kayaking h4, #services-rental h4, #services-snorkeling h4, #services-sup h4 { font-family: 'Permanent Marker', cursive; text-align: center; font-size: 45px; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #89e9f8; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
 #services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close { padding-right: 10px; float: right; font-size: 50px; font-weight: 700; line-height: 1; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: 0.5; margin-right: 10px; }
 #services-windsurf .h7, #services-bike .h7, #services-kayaking .h7, #services-rental .h7, #services-snorkeling .h7, #services-sup .h7 { font-size: 18px; color: #89e9f8; font-weight: bolder; letter-spacing: 4px; text-align: center; padding-top: 40px; }
-#services-windsurf .facebook-modal-link, #services-bike .facebook-modal-link, #services-kayaking .facebook-modal-link, #services-rental .facebook-modal-link, #services-snorkeling .facebook-modal-link, #services-sup .facebook-modal-link { margin-left: 0px !important; }
+#services-windsurf .facebook-modal-link, #services-bike .facebook-modal-link, #services-kayaking .facebook-modal-link, #services-rental .facebook-modal-link, #services-snorkeling .facebook-modal-link, #services-sup .facebook-modal-link { margin-left: 0px !important; margin-top: 10px; }
 #services-windsurf .facebook-modal-iframe, #services-bike .facebook-modal-iframe, #services-kayaking .facebook-modal-iframe, #services-rental .facebook-modal-iframe, #services-snorkeling .facebook-modal-iframe, #services-sup .facebook-modal-iframe { display: inherit; }
 
 #services-windsurf h4 { background-image: url(../img/izleti/poludnevni.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
@@ -617,11 +620,16 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services-rental h4 { background-image: url(../img/equipment/equipment-header.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
 #location { background-color: #FAFAFA; padding-bottom: 40px; }
-#location h3 { text-transform: uppercase; }
+#location h3 { text-transform: uppercase; padding-top: 10px; }
 #location p { text-align: justify; }
 #location .facebook-iframe { display: block; margin-top: 10px; padding-top: 10px; }
+#location .drugi-location { margin-bottom: 15px; }
+#location .drugi-location h4 { text-transform: uppercase; color: rgba(0, 0, 0, 0.54); }
+#location .drugi-location .row { margin-left: 0px; margin-right: 0px; }
+#location .drugi-location .l-img-holder { padding: 0px; }
+#location .drugi-location .pmd-card-actions { padding: 15px; }
 #location .l-iconi-wrapper { list-style: none; }
-@media only screen and (min-width: 480px) { #location .l-iconi-wrapper div { display: inline-block; float: left; width: 10%; margin-left: 5px; } }
+@media only screen and (min-width: 320px) { #location .l-iconi-wrapper div { display: inline-block; float: left; width: 10%; margin-left: 5px; } }
 #location .l-iconi-wrapper div img { padding: 5px; border-radius: 50%; display: block; margin: 0 auto; transition: all 0.4s ease-in-out; background-color: #03a9f5; }
 #location .l-iconi-wrapper div img:hover, #location .l-iconi-wrapper div img:focus { background-color: #ffab35; }
 #location .l-iconi-wrapper div p { text-align: center; font-size: 14px; color: rgba(0, 0, 0, 0.54); font-weight: bold; }
@@ -634,6 +642,10 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #location-bike h4 { background-image: url(../img/bike/bike-centar.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
 .google-maps { position: relative; overflow: hidden; height: 400px; }
+
+#bike-cjenik { background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%); }
+@media only screen and (min-width: 320px) { #bike-cjenik .cjenik-btn { width: 100%; } }
+@media only screen and (min-width: 480px) { #bike-cjenik .cjenik-btn { margin-left: 20%; width: 60%; } }
 
 #testimonial-slider { background-color: #FFFFFF; padding-top: 20px; padding-bottom: 40px; }
 
