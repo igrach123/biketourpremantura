@@ -5,7 +5,7 @@
         <div class="modal-content" >
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true" aria-label="Close">&times;</button>
-                <h4 class="modal-title text-center lead"></h4>CJENIK </h4>
+                <h3 class="modal-title text-center lead">CJENIK </h3>
             </div>
             <div class="modal-body">
                 <h4 class="text-center">IZLETI</h4>
@@ -16,12 +16,14 @@
                         <th scope="col">POLUDNEVNI IZLET</th>
                         <th scope="col">CJELODNEVNI IZLET</th>
                         <th scope="col">URBANA GRADSKA TURA - PULA</th>
+                        <th scope="col">ENDURO TOURS</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>     
                         <td>300.00 kn</td>
                         <td>450,00 kn</td>
+                        <td>350,00 kn</td>
                         <td>350,00 kn</td>
                     </tr>
 

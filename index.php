@@ -112,16 +112,6 @@
         <!--JavaScript, jquerry and plugins-->
         <script src="js/vendor/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
-        <script src="js/vendor/jquery.matchHeight.js" type="text/javascript"></script>
-      <!--   
-        <script type="text/javascript" src="js/owl.carousel.min.js"></script>
-        
-
-        <script src="js/vendor/smooth-scroll.min.js"></script> 
-        <script src="js/vendor/blueimp-gallery.min.js"></script>
-       
-        <script src="js/echo.min.js"></script> -->
-        
         <script src="js/main-js-backup-min.js"></script>
 
  </body>
