@@ -36,16 +36,12 @@
             <meta name="keywords" content="Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike">
             <meta name="description" content="Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike">
             <meta http-equiv="content-language" content="hr,en">
-            <!--main bootstrap stylesheet-->
             <link rel="stylesheet" href="css/bootstrap.min.css">
-           
             <link rel="stylesheet" href="css/font-awesome.min.css">
-             <!--video player  stylesheet-->
             <link rel="stylesheet" href="css/assets/animate.min.css">
             <link rel="stylesheet" href="css/assets/blueimp-gallery.min.css">
             <link rel="stylesheet" href="css/assets/blueimp-gallery-indicator.css">   
             <link rel="stylesheet" href="css/assets/blueimp-gallery-video.css">
-             <!--owl carousel-->
             <link rel="stylesheet" href="css/owl.carousel.min.css">
             <link rel="stylesheet" href="css/owl.theme.min.css">
             <link rel="stylesheet" href="css/owl.transitions.min.css">
@@ -59,48 +55,22 @@
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-    <!--    blueip galelry -->
-    <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
-        <div id="blueimp-gallery" class="blueimp-gallery">
-            <div class="slides"></div>
-            <h3 class="title"></h3>
-            <a class="prev">‹</a>
-            <a class="next">›</a>
-            <a class="close">×</a>
-            <a class="play-pause"></a>
-            <ol class="indicator"></ol>
-        </div>
 
-       <?php include "header.php"; ?>
+        <?php include "php/blueimp-gallery.php"; ?>
+        <?php include "header.php"; ?>
         <div class="clearfix"></div> 
-
-
-
-
-        <!--  CONTENT WRAPPER-->
-
-
-                        <!-- services -->
-                        <?php include "php/services.php" ?>
-                    <!-- services modals -->
-                    <?php include "php/services-pdnevni.php"; ?>
-                    <?php include "php/services-cdnevni.php"; ?>
-                    <?php include "php/services-urbana.php"; ?>
-                    <?php include "php/services-enduro.php"; ?>
-                <!-- end of services -->
-
-                <!-- location -->
-                <?php include "php/location.php" ?>
-                <?php include "php/bike-cjenik.php"?>
-                <?php include "php/cjenik-bikes.php"?>
-                
-        
-                <?php include "php/partner-slide.php" ?>    
-            
-
-
-
-            <?php include "footer.php"; ?>
+        <?php include "php/services.php" ?>
+        <!-- services modals -->
+        <?php include "php/services-pdnevni.php"; ?>
+        <?php include "php/services-cdnevni.php"; ?>
+        <?php include "php/services-urbana.php"; ?>
+        <?php include "php/services-enduro.php"; ?>
+        <!-- end of services -->
+        <?php include "php/location.php" ?>
+        <?php include "php/bike-cjenik.php"?>
+        <?php include "php/cjenik-bikes.php"?>
+        <?php include "php/partner-slide.php" ?>    
+        <?php include "footer.php"; ?>
         
 
 
