@@ -1,4 +1,4 @@
 <?php 
-    $the_sitetitle = 'BikeTour Premantura' ;
+    $the_sitetitle = 'BikeTour Premantura';
 ?>
 

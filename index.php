@@ -45,6 +45,8 @@
             <link rel="stylesheet" href="css/owl.carousel.min.css">
             <link rel="stylesheet" href="css/owl.theme.min.css">
             <link rel="stylesheet" href="css/owl.transitions.min.css">
+            <link rel="stylesheet" href="form.css" >
+           
             <!--main stylesheet-->
             <link rel="stylesheet" href="css/style.css">
             <script src="js/vendor/modernizr-2.8.3.min.js"></script>
@@ -76,6 +78,7 @@
         <!--JavaScript, jquerry and plugins-->
         <script src="js/vendor/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
+        <script src="form.js"></script>
         <script src="js/main-js-backup-min.js"></script>
 
  </body>
