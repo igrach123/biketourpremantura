@@ -111,7 +111,7 @@
                                     <img src="img/ws-logo-big-white-font.png" class="img-responsive" alt="ws-logo"></a>
                             </div>
                              <div class="footer-bottom-center">
-                                    <p class="text-center">WINDSUFING PREMANTURA - MEDULIN  &copy;  <span class="hidden-sm">2018.</span> </p>
+                                    <p class="text-center"><?php echo "$the_sitetitle"; ?>  &copy;  <span class="hidden-sm"> <?php echo date("Y"); ?> </span> </p>
                              </div>
                               <div class="footer-bottom-right">   
                                  <a href="https://www.cro-webdesign.com/" target="_blank" > <p class="text-left hidden-xs izradio">Cro Web Design</p></a>

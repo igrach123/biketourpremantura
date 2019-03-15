@@ -57,6 +57,7 @@
         <![endif]-->
 
         <?php include "php/blueimp-gallery.php"; ?>
+        <?php include "php/variables.php"; ?>
         <?php include "header.php"; ?>
         <div class="clearfix"></div> 
         <?php include "php/services.php" ?>
@@ -72,13 +73,6 @@
         <?php include "php/partner-slide.php" ?>    
         <?php include "footer.php"; ?>
         
-
-
-
-
-      
-
-    
         <!--JavaScript, jquerry and plugins-->
         <script src="js/vendor/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
