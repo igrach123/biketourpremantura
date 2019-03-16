@@ -2,8 +2,9 @@
 <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3">
-                    <h2>Contact Us</h2> Got a question ? Feedback? Awesome! 
-                    <p> Send your message in the form below and we will get back to you as early as possible. </p>
+                <h2 class="text-center">Kontaktirajte nas</h2>
+                    <h4 class="text-center ">Pošaljite nam upit!</h4>
+                    
                     <form role="form" method="post" id="reused_form" >
                         <div class="form-group">
                             <label for="name"> Name:</label>
@@ -38,14 +39,14 @@
 
 
             <div class="container">
-                <h2 class="text-center">Kontaktirajte nas</h2>
+              
 
 
              
              <div class="row">
              
                  <div class="col-xs-12 col-sm-8 col-sm-offset-2  col-md-offset-3 col-md-6" id="contact-container">
-                     <h4 class="text-center ">Pošaljite nam upit!</h4>
+                     
                      
                  </div>
              </div>
