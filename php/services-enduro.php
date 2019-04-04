@@ -9,35 +9,24 @@
             </div>
             <div class="modal-body">
             <p class="text-muted">
-              Iako se općenito misli da je to nov sport, stand up paddling (SUP) je ustvari najraniji oblik
-              surfanja, a nastao je u Polineziji. Prije desetak godina Havajci su vrlo uspješno oživjeli taj stari
-              sport koji se od originalne ideje jahanja valova na dasci, razvio preko rekreativnog veslanja na
-              dasci, sup yoge i organiziranja regata do veslanja po divljim vodama. Nudimo više SUP daski za
-              rekreativno veslanje koje možete iznajmiti i tako upoznati naš prelijepi akvatorij.
+            Ove ture su namijenjene biciklistima s većim iskustvom. Pružaju pravi doživljaj brdskog biciklizma
+                (osjećaj kao da ste u planinama), a staze su uz obalu mora, po netaknutoj prirodi.
+                Ture se odvijaju uglavnom po single trailovima uz kratke boravke na cesti.
             </p>
-               
-
-      
-
-
-  <hr>
-
-
-
+        <hr>
 
 <!-- galerija -->
 <h5 class="services-sm-title">GALERIJA</h5>
-
-       <!-- video -->
-    <div class="row">
-          <div class="col-xs-offset-2 col-xs-8">
-              <div class="videoWrapper">
-                  <!-- Copy & Pasted from YouTube -->
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/8RNPewqloNw?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-              </div>
+<div class="row">
+      <div class="col-xs-offset-2 col-xs-8">
+          <div class="videoWrapper">
+              <!-- Copy & Pasted from YouTube -->
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/kzYfKosyNnA?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
-      
-      </div> <!-- row --> 
+      </div>
+  
+  </div> <!-- row -->  
+
 
 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
   <div class="panel-body">
@@ -55,12 +44,6 @@
              <a href="img/sup/s3.jpg"" title="windsurfing">
             <img src="img/sup/s3.jpg"" data-src="img/sup/s3.jpg"" class="img img-responsive img-rounded " alt="windsurf"></a>
         </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/sup/SUP3.jpg"" title="windsurfing">
-            <img src="img/sup/SUP3.jpg"" data-src="img/sup/SUP3.jpg"" class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-
-
     </div>
     </div> <!-- panel body -->
   </div>
