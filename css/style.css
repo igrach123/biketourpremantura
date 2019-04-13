@@ -446,8 +446,7 @@ h2 { text-align: center; font-family: "Permanent Marker", cursive; text-transfor
 
 .btn-success:focus, .dropdown-toggle.btn-primary:focus { background-color: inherit; color: #3b5998; border: 1px solid #3b5998; }
 
-@media only screen and (min-width: 320px) { h1 { font-size: 2em; margin-top: 0px; margin-bottom: 0px; font-weight: 100; padding-top: 170px; padding-bottom: 100px; text-align: center; color: white; line-height: 52%; }
-  h1 span.small { color: white; font-size: 0.35em; margin-top: 0px; color: #e0e0e0; text-transform: uppercase; text-align: center; line-height: 1px; }
+@media only screen and (min-width: 320px) { h1 { font-size: 2em; margin-top: 0px; margin-bottom: 0px; font-weight: 100; padding-top: 170px; padding-bottom: 100px; text-align: center; color: white; }
   h2 { font-size: 1.5em; } }
 @media only screen and (min-width: 768px) { h1 { font-size: 2.5em; padding-bottom: 100px; }
   h2 { font-size: 2em; } }
@@ -459,9 +458,10 @@ p, li, a { font-family: "Open Sans", sans-serif; }
 header { width: 100%; }
 header .animated-arrow-down { margin-top: 20px; }
 header .small-premanutra { font-family: "Roboto", sans-serif !important; font-weight: 100; font-size: 3rem; letter-spacing: 12px; }
-@media only screen and (min-width: 320px) { header { background: #000 url("../img/hero-image-mobile.jpg") no-repeat center; background-size: cover; }
+@media only screen and (min-width: 320px) { header { background: #000 url("../img/hero-image-mobile.jpg") no-repeat center center; background-size: cover; }
   header h1 { text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); }
   header .small { color: #89e9f8; } }
+@media only screen and (min-width: 992px) { header { background: #000 url("../img/hero-image-m.jpg") no-repeat center center; background-size: cover; } }
 header nav { height: 60px; width: 100%; transition: all 0.4s ease-in-out; z-index: 500; }
 header nav .navbar-toggle { overflow: hidden; }
 header nav .navbar-toggle .icon-bar { transition: opacity, transform; transition-duration: 200ms; transition-timing-function: cubic-bezier(0.7, 0, 0, 0.7); }
@@ -538,7 +538,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #about-us p a:focus, #about-us p a:hover { text-decoration: underline; font-weight: 900; }
 
 #services { padding-bottom: 80px; background-color: #03a9f5; background-image: linear-gradient(to right top, #845ec2, #756ed1, #647dde, #4f8be8, #3798ef, #00a8ef, #00b6e9, #00c2df, #1bcebf, #73d492, #bad26a, #ffc75f); background-attachment: fixed; background-size: cover; }
-@media only screen and (min-width: 320px) { #services .cjenik-btn { margin-top: 25px; width: 100%; font-size: 2.5rem; } }
+@media only screen and (min-width: 320px) { #services .cjenik-btn { word-wrap: break-word; margin-top: 25px; width: 100%; } }
 @media only screen and (min-width: 480px) { #services .cjenik-btn { margin-left: 20%; width: 60%; } }
 #services h2 { color: #fafafa; }
 #services h5 { color: red; }

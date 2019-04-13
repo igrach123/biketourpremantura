@@ -305,16 +305,6 @@ h2 {
     padding-bottom: 100px;
     text-align: center;
     color: white;
-    line-height: 52%;
-    span.small {
-      color: white;
-      font-size: 0.35em;
-      margin-top: 0px;
-      color: $bg-grey-strong;
-      text-transform: uppercase;
-      text-align: center;
-      line-height: 1px;
-    }
   }
 
   h2 {
@@ -363,7 +353,7 @@ header {
     letter-spacing: 12px;
   }
   @include xxs {
-    background: #000 url("../img/hero-image-mobile.jpg") no-repeat center;
+    background: #000 url("../img/hero-image-mobile.jpg") no-repeat center center;
     background-size: cover;
 
     h1 {
@@ -376,7 +366,10 @@ header {
   }
   @include sm {
   }
-
+  @include md {
+    background: #000 url("../img/hero-image-m.jpg") no-repeat center center;
+    background-size: cover;
+  }
   //Naviagtion//
   nav {
     height: 60px;
@@ -863,9 +856,9 @@ header {
   background-size: cover;
   @include xxs {
     .cjenik-btn {
+      word-wrap: break-word;
       margin-top: 25px;
       width: 100%;
-      font-size: 2.5rem;
     }
   }
   @include xs {

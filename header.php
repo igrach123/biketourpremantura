@@ -40,21 +40,22 @@
                   </div><!-- /.container-->
                 </nav>
 
-         <h1 class="visible-xs">BIKE TOUR<br>
-         <span class="small">PREMANUTRA </span></h1>
+      
 
          <!--video backgorund-->
-           <div class="overlay hidden-xs"></div>
+           <div class="overlay hidden-xs hidden-sm"></div>
               <video class="hidden-xs hidden-sm" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
                 <source src="video/kamenjak.mp4" type="video/mp4">
               </video>
               <div class="container">
-                <div class="text-center align-items-center">
+                <div class="text-center">
                  
-                    <h1 class="">BIKE TOUR <br> <br>     
-                    <span class="small-premanutra">PREMANUTRA </span></h1>
+                    <h1 class="">BIKE TOUR <br>  
+                  PREMANUTRA </h1>
 
-                    <div class="animated-arrow-down"> 
+                </div>
+                
+                <div class="animated-arrow-down"> 
                         <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }'>
                             <svg class="arrows">
                                 <path class="a1" d="M0 0 L30 32 L60 0"></path>
@@ -63,6 +64,5 @@
                             </svg>
                         </a>
                     </div>
-                </div>
               </div>                                   
     </header>
