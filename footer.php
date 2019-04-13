@@ -1,7 +1,15 @@
 <footer id="footer" class="clearfix">
 <div class="container">
             <div class="row">
-                <div class="col-md-6 col-md-offset-3">
+                <div class="col-md-6">
+                    <div class="" id="map">
+                        <h2>KAKO DO NAS</h2>
+                        <div class="google-maps">
+                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d38094.689198160864!2d13.958886755066738!3d44.79294009379744!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9544cb64a3fa26f9!2sRent+a+Bike+Centar!5e0!3m2!1sen!2shr!4v1522863383452" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div>  
+                    </div>	
+                </div>
+                <div class="col-md-6">
                 <h2 class="text-center">Kontaktirajte nas</h2>
                     <h4 class="text-center ">Pošaljite nam upit!</h4>
                     

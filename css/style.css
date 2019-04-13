@@ -383,17 +383,15 @@ header .overlay { position: absolute; top: 0; left: 0; height: 100%; width: 100%
 .arrows path.a3 { animation-delay: 0s; -webkit-animation-delay: 0s; /* Safari 和 Chrome */ }
 
 /* Preloader */
-/* #preloader { position:fixed; top:0; left:0; right:0; bottom:0; background-color:#fff;  z-index:1000; 
-} */
-/* #status { width:200px; height:200px; position:absolute; left:50%;  top:50%;  background-image:url(../img/Ellipsis-1.9s-200px.gif);  background-repeat:no-repeat; background-position:center; margin:-100px 0 0 -100px; 
-} */
+/* #preloader { position:fixed; top:0; left:0; right:0; bottom:0; background-color:#fff;  z-index:1000;  } */
+/* #status { width:200px; height:200px; position:absolute; left:50%;  top:50%;  background-image:url(../img/Ellipsis-1.9s-200px.gif);  background-repeat:no-repeat; background-position:center; margin:-100px 0 0 -100px;  } */
 html { padding: 0px 0px; margin: 0px 0px; }
 
-body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for old browsers */ background: -webkit-linear-gradient(to top, #f2fcfe, #1c92d2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to top, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ font-size: 16px; font-family: 'Open Sans', 'Helvetica' ,sans-serif; overflow-x: hidden; }
+body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for old browsers */ background: -webkit-linear-gradient(to top, #f2fcfe, #1c92d2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to top, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ font-size: 16px; font-family: "Open Sans", "Helvetica", sans-serif; overflow-x: hidden; }
 
 .site-wrapper { width: 100%; }
 
-.white-bg { color: #FFFFFF; background: #078d8d; background: -moz-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -webkit-gradient(left top, left bottom, color-stop(0%, #078d8d), color-stop(45%, #066a6a), color-stop(100%, #032a6d)); background: -webkit-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -o-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -ms-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: linear-gradient(to bottom, #078d8d 0%, #066a6a 45%, #032a6d 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078d8d', endColorstr='#032a6d', GradientType=0 ); }
+.white-bg { color: #ffffff; background: #078d8d; background: -moz-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -webkit-gradient(left top, left bottom, color-stop(0%, #078d8d), color-stop(45%, #066a6a), color-stop(100%, #032a6d)); background: -webkit-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -o-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -ms-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: linear-gradient(to bottom, #078d8d 0%, #066a6a 45%, #032a6d 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078d8d', endColorstr='#032a6d', GradientType=0 ); }
 
 .pb-10 { padding-bottom: 10px; }
 
@@ -420,23 +418,23 @@ body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for o
 
 .lazy-img { display: block; margin: 0 auto; }
 
-h1 { font-family: "Permanent Marker" , sans-serif; }
+h1 { font-family: "Permanent Marker", sans-serif; }
 
-h3, h4, h5, h6 { font-family: 'Roboto', sans-serif; font-weight: 600; }
+h3, h4, h5, h6 { font-family: "Roboto", sans-serif; font-weight: 600; }
 
-h2 { text-align: center; font-family: 'Permanent Marker', cursive; text-transform: uppercase; }
+h2 { text-align: center; font-family: "Permanent Marker", cursive; text-transform: uppercase; }
 @media only screen and (min-width: 320px) { h2 { padding-top: 60px; padding-bottom: 40px; } }
 @media only screen and (min-width: 992px) { h2 { padding-top: 80px; padding-bottom: 80px; } }
 
 .btn { font-weight: 400; padding: 15px 35px; letter-spacing: 1px; white-space: nowrap; border-radius: 5px; }
 
-.btn-primary { background-color: #ffab35; color: #FFFFFF; border: 1px solid #ffab35; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; }
+.btn-primary { background-color: #ff9671; color: #ffffff; border: 1px solid #ff9671; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; }
 
-.btn-primary:hover { background-color: inherit; color: #ffab35; border: 1px solid #ffab35; }
+.btn-primary:hover { background-color: inherit; color: #ff9671; border: 1px solid #ff9671; }
 
-.btn-primary:focus, .dropdown-toggle.btn-primary:focus { background-color: inherit; color: #ffab35; border: 1px solid #ffab35; }
+.btn-primary:focus, .dropdown-toggle.btn-primary:focus { background-color: inherit; color: #ff9671; border: 1px solid #ff9671; }
 
-.btn-default { background-color: #03a9f5; color: #FFFFFF; border: 1px solid #03a9f5; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; }
+.btn-default { background-color: #03a9f5; color: #ffffff; border: 1px solid #03a9f5; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; }
 
 .btn-default:hover { background-color: inherit; color: #03a9f5; border: 1px solid #03a9f5; -webkit-transition: background 0.5s ease-in-out, color 0.5s ease-in-out; transition: background 0.5s ease-in-out, color 0.5s ease-in-out; }
 
@@ -444,17 +442,17 @@ h2 { text-align: center; font-family: 'Permanent Marker', cursive; text-transfor
 
 .btn-success { background-color: inherit; color: #3b5998; border: 1px solid #3b5998; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; }
 
-.btn-success:hover { background-color: #3b5998; color: #FFFFFF; border: 1px solid #3b5998; }
+.btn-success:hover { background-color: #3b5998; color: #ffffff; border: 1px solid #3b5998; }
 
 .btn-success:focus, .dropdown-toggle.btn-primary:focus { background-color: inherit; color: #3b5998; border: 1px solid #3b5998; }
 
 @media only screen and (min-width: 320px) { h1 { font-size: 2em; margin-top: 0px; margin-bottom: 0px; font-weight: 100; padding-top: 170px; padding-bottom: 100px; text-align: center; color: white; line-height: 52%; }
-  h1 span.small { color: white; font-size: 0.35em; margin-top: 0px; color: #E0E0E0; text-transform: uppercase; text-align: center; line-height: 1px; }
+  h1 span.small { color: white; font-size: 0.35em; margin-top: 0px; color: #e0e0e0; text-transform: uppercase; text-align: center; line-height: 1px; }
   h2 { font-size: 1.5em; } }
 @media only screen and (min-width: 768px) { h1 { font-size: 2.5em; padding-bottom: 100px; }
   h2 { font-size: 2em; } }
 @media only screen and (min-width: 992px) { h1 { font-size: 4em; padding-top: 200px; } }
-p, li, a { font-family: 'Open Sans', sans-serif; }
+p, li, a { font-family: "Open Sans", sans-serif; }
 
 .parallax-window { min-height: 400px; background: transparent; }
 
@@ -492,7 +490,7 @@ header .navbar-nav li a { display: inline-block; position: relative; padding-top
   header .navbar-default { box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); background-color: #fff; border: none; border-radius: 0px; }
   header .navbar-default .navbar-nav > .active > a, header .navbar-default .navbar-nav > .active > a:hover, header .navbar-default .navbar-nav > .active > a:focus { color: #03a9f5; } }
 @media only screen and (min-width: 768px) { header .navbar-default { background-color: transparent; box-shadow: none; }
-  header .navbar-default .navbar-nav li a { color: #FFF; }
+  header .navbar-default .navbar-nav li a { color: #fff; }
   header .navbar-default.bg-trans { background-color: white; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); }
   header .navbar-default.bg-trans .navbar-nav li a { color: rgba(0, 0, 0, 0.54); }
   header .navbar-default.bg-trans .navbar-nav li a:hover { color: #03a9f5; } }
@@ -501,25 +499,25 @@ header .arrow { background-color: transparent; transition: all 0.3s ease-in-out;
 header .arrow:hover, header .arrow:focus { background-color: transparent; color: #03a9f5; }
 
 @media only screen and (min-width: 320px) { #lang-id { margin-left: 4%; font-size: 18px; }
-  #lang-id .language button { color: rgba(0, 0, 0, 0.54); background-color: inherit; border: 0px; padding: 5px 10px 5px 10px; transition: 0.3s ease-in-out; -webkit-transition: 0.3s ease-in-out; -moz-transition: 0.3 s ease-in-out; font-size: 14px; font-weight: bolder; border: 1px solid #ffab35; }
-  #lang-id .language button:hover { color: #FFFFFF; background-color: #ffab35; border: 0px; padding: 5px 10px 5px 10px; }
+  #lang-id .language button { color: rgba(0, 0, 0, 0.54); background-color: inherit; border: 0px; padding: 5px 10px 5px 10px; transition: 0.3s ease-in-out; -webkit-transition: 0.3s ease-in-out; -moz-transition: 0.3 s ease-in-out; font-size: 14px; font-weight: bolder; border: 1px solid #ff9671; }
+  #lang-id .language button:hover { color: #ffffff; background-color: #ff9671; border: 0px; padding: 5px 10px 5px 10px; }
   #lang-id .dropdown-menu { min-width: 35px; background-color: inherit; }
   #lang-id .dropdown-menu li { padding: 0; margin: 0; }
   #lang-id .dropdown-menu > li > a { display: block; clear: both; font-weight: 400; line-height: 1.42857143; color: rgba(0, 0, 0, 0.54); white-space: nowrap; font-size: 120%; }
-  #lang-id .dropdown-menu > li > a:hover { background-color: inherit; display: block; clear: both; font-weight: 400; line-height: 1.42857143; color: #ffab35; white-space: nowrap; font-size: 120%; } }
+  #lang-id .dropdown-menu > li > a:hover { background-color: inherit; display: block; clear: both; font-weight: 400; line-height: 1.42857143; color: #ff9671; white-space: nowrap; font-size: 120%; } }
 @media only screen and (min-width: 768px) { #lang-id { margin-left: 0%; }
-  #lang-id .language button { color: #FFFFFF; background-color: inherit; border: 0px; padding: 3px; transition: 0.3s ease-in-out; -webkit-transition: 0.3s ease-in-out; -moz-transition: 0.3 s ease-in-out; }
-  #lang-id .language button:hover { color: #FFFFFF; background-color: #ffab35; border: 0px; padding: 1px; }
+  #lang-id .language button { color: #ffffff; background-color: inherit; border: 0px; padding: 3px; transition: 0.3s ease-in-out; -webkit-transition: 0.3s ease-in-out; -moz-transition: 0.3 s ease-in-out; }
+  #lang-id .language button:hover { color: #ffffff; background-color: #ff9671; border: 0px; padding: 1px; }
   #lang-id .dropdown-menu { min-width: 35px; background-color: inherit; }
   #lang-id .dropdown-menu li { padding: 0; margin: 0; }
-  #lang-id .dropdown-menu > li > a { display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #FFFFFF; white-space: nowrap; font-size: 85%; }
-  #lang-id .dropdown-menu > li > a:hover { background-color: inherit; display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ffab35; white-space: nowrap; font-size: 85%; }
+  #lang-id .dropdown-menu > li > a { display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ffffff; white-space: nowrap; font-size: 85%; }
+  #lang-id .dropdown-menu > li > a:hover { background-color: inherit; display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ff9671; white-space: nowrap; font-size: 85%; }
   #lang-id.smaller .language button { color: rgba(0, 0, 0, 0.54); background-color: inherit; border: 0px; padding: 3px; transition: 0.3s ease-in-out; -webkit-transition: 0.3s ease-in-out; -moz-transition: 0.3 s ease-in-out; }
-  #lang-id.smaller .language button:hover { color: #FFFFFF; background-color: #ffab35; }
-  #lang-id.smaller .dropdown-menu { background-color: #FFFFFF; }
+  #lang-id.smaller .language button:hover { color: #ffffff; background-color: #ff9671; }
+  #lang-id.smaller .dropdown-menu { background-color: #ffffff; }
   #lang-id.smaller .dropdown-menu li { padding: 0; margin: 0; }
   #lang-id.smaller .dropdown-menu > li > a { display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: rgba(0, 0, 0, 0.87); white-space: nowrap; font-size: 85%; }
-  #lang-id.smaller .dropdown-menu > li > a:hover { background-color: inherit; display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ffab35; white-space: nowrap; font-size: 85%; } }
+  #lang-id.smaller .dropdown-menu > li > a:hover { background-color: inherit; display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ff9671; white-space: nowrap; font-size: 85%; } }
 .btn-warning, .dropdown-toggle.btn-warning { background-color: inherit; }
 
 .btn-warning:focus, .dropdown-toggle.btn-warning:focus { background-color: inherit; }
@@ -539,15 +537,17 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #about-us p a { text-decoration: none; color: #03a9f5; text-transform: uppercase; }
 #about-us p a:focus, #about-us p a:hover { text-decoration: underline; font-weight: 900; }
 
-#services { padding-bottom: 80px; background-color: #03a9f5; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25'%3E%3Cdefs%3E%3ClinearGradient id='a' gradientUnits='userSpaceOnUse' x1='0' x2='0' y1='0' y2='100%25' gradientTransform='rotate(240)'%3E%3Cstop offset='0' stop-color='%2303a9f5'/%3E%3Cstop offset='1' stop-color='%230393d5'/%3E%3C/linearGradient%3E%3Cpattern patternUnits='userSpaceOnUse' id='b' width='742' height='618.3' x='0' y='0' viewBox='0 0 1080 900'%3E%3Cg fill-opacity='0.1'%3E%3Cpolygon fill='%23444' points='90 150 0 300 180 300'/%3E%3Cpolygon points='90 150 180 0 0 0'/%3E%3Cpolygon fill='%23AAA' points='270 150 360 0 180 0'/%3E%3Cpolygon fill='%23DDD' points='450 150 360 300 540 300'/%3E%3Cpolygon fill='%23999' points='450 150 540 0 360 0'/%3E%3Cpolygon points='630 150 540 300 720 300'/%3E%3Cpolygon fill='%23DDD' points='630 150 720 0 540 0'/%3E%3Cpolygon fill='%23444' points='810 150 720 300 900 300'/%3E%3Cpolygon fill='%23FFF' points='810 150 900 0 720 0'/%3E%3Cpolygon fill='%23DDD' points='990 150 900 300 1080 300'/%3E%3Cpolygon fill='%23444' points='990 150 1080 0 900 0'/%3E%3Cpolygon fill='%23DDD' points='90 450 0 600 180 600'/%3E%3Cpolygon points='90 450 180 300 0 300'/%3E%3Cpolygon fill='%23666' points='270 450 180 600 360 600'/%3E%3Cpolygon fill='%23AAA' points='270 450 360 300 180 300'/%3E%3Cpolygon fill='%23DDD' points='450 450 360 600 540 600'/%3E%3Cpolygon fill='%23999' points='450 450 540 300 360 300'/%3E%3Cpolygon fill='%23999' points='630 450 540 600 720 600'/%3E%3Cpolygon fill='%23FFF' points='630 450 720 300 540 300'/%3E%3Cpolygon points='810 450 720 600 900 600'/%3E%3Cpolygon fill='%23DDD' points='810 450 900 300 720 300'/%3E%3Cpolygon fill='%23AAA' points='990 450 900 600 1080 600'/%3E%3Cpolygon fill='%23444' points='990 450 1080 300 900 300'/%3E%3Cpolygon fill='%23222' points='90 750 0 900 180 900'/%3E%3Cpolygon points='270 750 180 900 360 900'/%3E%3Cpolygon fill='%23DDD' points='270 750 360 600 180 600'/%3E%3Cpolygon points='450 750 540 600 360 600'/%3E%3Cpolygon points='630 750 540 900 720 900'/%3E%3Cpolygon fill='%23444' points='630 750 720 600 540 600'/%3E%3Cpolygon fill='%23AAA' points='810 750 720 900 900 900'/%3E%3Cpolygon fill='%23666' points='810 750 900 600 720 600'/%3E%3Cpolygon fill='%23999' points='990 750 900 900 1080 900'/%3E%3Cpolygon fill='%23999' points='180 0 90 150 270 150'/%3E%3Cpolygon fill='%23444' points='360 0 270 150 450 150'/%3E%3Cpolygon fill='%23FFF' points='540 0 450 150 630 150'/%3E%3Cpolygon points='900 0 810 150 990 150'/%3E%3Cpolygon fill='%23222' points='0 300 -90 450 90 450'/%3E%3Cpolygon fill='%23FFF' points='0 300 90 150 -90 150'/%3E%3Cpolygon fill='%23FFF' points='180 300 90 450 270 450'/%3E%3Cpolygon fill='%23666' points='180 300 270 150 90 150'/%3E%3Cpolygon fill='%23222' points='360 300 270 450 450 450'/%3E%3Cpolygon fill='%23FFF' points='360 300 450 150 270 150'/%3E%3Cpolygon fill='%23444' points='540 300 450 450 630 450'/%3E%3Cpolygon fill='%23222' points='540 300 630 150 450 150'/%3E%3Cpolygon fill='%23AAA' points='720 300 630 450 810 450'/%3E%3Cpolygon fill='%23666' points='720 300 810 150 630 150'/%3E%3Cpolygon fill='%23FFF' points='900 300 810 450 990 450'/%3E%3Cpolygon fill='%23999' points='900 300 990 150 810 150'/%3E%3Cpolygon points='0 600 -90 750 90 750'/%3E%3Cpolygon fill='%23666' points='0 600 90 450 -90 450'/%3E%3Cpolygon fill='%23AAA' points='180 600 90 750 270 750'/%3E%3Cpolygon fill='%23444' points='180 600 270 450 90 450'/%3E%3Cpolygon fill='%23444' points='360 600 270 750 450 750'/%3E%3Cpolygon fill='%23999' points='360 600 450 450 270 450'/%3E%3Cpolygon fill='%23666' points='540 600 630 450 450 450'/%3E%3Cpolygon fill='%23222' points='720 600 630 750 810 750'/%3E%3Cpolygon fill='%23FFF' points='900 600 810 750 990 750'/%3E%3Cpolygon fill='%23222' points='900 600 990 450 810 450'/%3E%3Cpolygon fill='%23DDD' points='0 900 90 750 -90 750'/%3E%3Cpolygon fill='%23444' points='180 900 270 750 90 750'/%3E%3Cpolygon fill='%23FFF' points='360 900 450 750 270 750'/%3E%3Cpolygon fill='%23AAA' points='540 900 630 750 450 750'/%3E%3Cpolygon fill='%23FFF' points='720 900 810 750 630 750'/%3E%3Cpolygon fill='%23222' points='900 900 990 750 810 750'/%3E%3Cpolygon fill='%23222' points='1080 300 990 450 1170 450'/%3E%3Cpolygon fill='%23FFF' points='1080 300 1170 150 990 150'/%3E%3Cpolygon points='1080 600 990 750 1170 750'/%3E%3Cpolygon fill='%23666' points='1080 600 1170 450 990 450'/%3E%3Cpolygon fill='%23DDD' points='1080 900 1170 750 990 750'/%3E%3C/g%3E%3C/pattern%3E%3C/defs%3E%3Crect x='0' y='0' fill='url(%23a)' width='100%25' height='100%25'/%3E%3Crect x='0' y='0' fill='url(%23b)' width='100%25' height='100%25'/%3E%3C/svg%3E"); background-attachment: fixed; background-size: cover; }
-#services h2 { color: #FAFAFA; }
+#services { padding-bottom: 80px; background-color: #03a9f5; background-image: linear-gradient(to right top, #845ec2, #756ed1, #647dde, #4f8be8, #3798ef, #00a8ef, #00b6e9, #00c2df, #1bcebf, #73d492, #bad26a, #ffc75f); background-attachment: fixed; background-size: cover; }
+@media only screen and (min-width: 320px) { #services .cjenik-btn { margin-top: 25px; width: 100%; font-size: 2.5rem; } }
+@media only screen and (min-width: 480px) { #services .cjenik-btn { margin-left: 20%; width: 60%; } }
+#services h2 { color: #fafafa; }
 #services h5 { color: red; }
 #services .izleti-row { max-width: 1920px; margin: 0 auto; }
-#services .price-bg { color: #FFFFFF; }
+#services .price-bg { color: #ffffff; }
 #services .col-5px { padding: 5px 5px 5px 5px; }
 #services .service-wrap { overflow: hidden; border-radius: 5px; position: relative; }
-#services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; color: #FFFFFF; padding: 10px; border-radius: 5px; transition: all 0.3s ease-in-out; }
-#services .t-1 h3, #services .t-2 h3, #services .t-3 h3, #services .t-4 h3 { color: #FFFFFF; }
+#services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; color: #ffffff; padding: 10px; border-radius: 5px; transition: all 0.3s ease-in-out; }
+#services .t-1 h3, #services .t-2 h3, #services .t-3 h3, #services .t-4 h3 { color: #ffffff; }
 #services .t-1 { background-image: url("../img/izleti/poludnevni-m.jpg"); background-position: center center; background-color: grey; background-size: cover; }
 #services .t-1:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
 #services .t-2:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
@@ -559,20 +559,20 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services .pmd-card { border-radius: 0px 0px 5px 5px; }
 #services h3 img { width: 50px; padding-left: 5px; }
 
-#services-windsurf .intro, #services-bike .intro, #services-kayaking .intro, #services-rental .intro, #services-snorkeling .intro, #services-sup .intro { font-family: 'Roboto', cursive; color: rgba(0, 0, 0, 0.38); font-weight: thin; font-size: 20px; }
+#services-windsurf .intro, #services-bike .intro, #services-kayaking .intro, #services-rental .intro, #services-snorkeling .intro, #services-sup .intro { font-family: "Roboto", cursive; color: rgba(0, 0, 0, 0.38); font-weight: thin; font-size: 20px; }
 #services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close { color: #a94442 !important; }
 #services-windsurf .services-sm-title, #services-bike .services-sm-title, #services-kayaking .services-sm-title, #services-rental .services-sm-title, #services-snorkeling .services-sm-title, #services-sup .services-sm-title { color: #03a9f5; padding: 30px 0 30px 0; text-align: center; font-size: 28px; font-weight: 600; }
 #services-windsurf .services-sm-title2, #services-bike .services-sm-title2, #services-kayaking .services-sm-title2, #services-rental .services-sm-title2, #services-snorkeling .services-sm-title2, #services-sup .services-sm-title2 { color: #03a9f5; padding: 30px 0px 0px 0px; text-align: center; font-size: 28px; font-weight: 600; }
 #services-windsurf .btn-info, #services-bike .btn-info, #services-kayaking .btn-info, #services-rental .btn-info, #services-snorkeling .btn-info, #services-sup .btn-info { border-radius: 0px; position: absolute; right: 0; bottom: 0; }
 #services-windsurf .modal-header, #services-bike .modal-header, #services-kayaking .modal-header, #services-rental .modal-header, #services-snorkeling .modal-header, #services-sup .modal-header { padding: 0px; }
-#services-windsurf h4, #services-bike h4, #services-kayaking h4, #services-rental h4, #services-snorkeling h4, #services-sup h4 { font-family: 'Permanent Marker', cursive; text-align: center; font-size: 45px; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #89e9f8; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
+#services-windsurf h4, #services-bike h4, #services-kayaking h4, #services-rental h4, #services-snorkeling h4, #services-sup h4 { font-family: "Permanent Marker", cursive; text-align: center; font-size: 45px; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #89e9f8; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
 #services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close { padding-right: 10px; float: right; font-size: 50px; font-weight: 700; line-height: 1; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: 0.5; margin-right: 10px; }
 #services-windsurf .h7, #services-bike .h7, #services-kayaking .h7, #services-rental .h7, #services-snorkeling .h7, #services-sup .h7 { font-size: 18px; color: #89e9f8; font-weight: bolder; letter-spacing: 4px; text-align: center; padding-top: 40px; }
 #services-windsurf .facebook-modal-link, #services-bike .facebook-modal-link, #services-kayaking .facebook-modal-link, #services-rental .facebook-modal-link, #services-snorkeling .facebook-modal-link, #services-sup .facebook-modal-link { margin-left: 0px !important; margin-top: 10px; }
 #services-windsurf .facebook-modal-iframe, #services-bike .facebook-modal-iframe, #services-kayaking .facebook-modal-iframe, #services-rental .facebook-modal-iframe, #services-snorkeling .facebook-modal-iframe, #services-sup .facebook-modal-iframe { display: inherit; }
 
 #services-windsurf h4 { background-image: url(../img/izleti/poludnevni.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
-#services-windsurf .windsurf-daske .thumbnail { margin: 0 auto; transition: all .3s ease-in-out; }
+#services-windsurf .windsurf-daske .thumbnail { margin: 0 auto; transition: all 0.3s ease-in-out; }
 #services-windsurf .windsurf-daske .thumbnail:active, #services-windsurf .windsurf-daske .thumbnail:hover { border: 1px solid #89e9f8; }
 #services-windsurf .h7 { font-size: 18px; color: #89e9f8; font-weight: bolder; letter-spacing: 4px; }
 @media only screen and (min-width: 320px) { #services-windsurf .windsurf-daske img { width: 80px; } }
@@ -584,7 +584,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 .facebook-modal-iframe { display: inherit; }
 
 #services-kayaking h4 { background-image: url(../img/kayak/kayak-header-1.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
-#services-kayaking .nav-tabs { border-bottom: 2px solid #DDD; }
+#services-kayaking .nav-tabs { border-bottom: 2px solid #ddd; }
 #services-kayaking .nav-tabs > li.active > a, #services-kayaking .nav-tabs > li.active > a:focus, #services-kayaking .nav-tabs > li.active > a:hover { border-width: 0; }
 #services-kayaking .nav-tabs > li > a { border: none; color: #ffffff; background: #89e9f8; }
 #services-kayaking .nav-tabs > li.active > a, #services-kayaking .nav-tabs > li > a:hover { border: none; color: #89e9f8 !important; background: #fff; }
@@ -594,13 +594,13 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services-kayaking .tab-pane { padding: 15px 0; color: rgba(0, 0, 0, 0.38); }
 #services-kayaking .tab-content { padding: 20px; }
 #services-kayaking .nav-tabs > li { width: 33.33%; text-align: center; }
-#services-kayaking .card1 { background: #FFF none repeat scroll 0% 0%; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); margin-bottom: 30px; }
-#services-kayaking body { background: #EDECEC; padding: 50px; }
+#services-kayaking .card1 { background: #fff none repeat scroll 0% 0%; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); margin-bottom: 30px; }
+#services-kayaking body { background: #edecec; padding: 50px; }
 @media all and (max-width: 724px) { #services-kayaking .nav-tabs > li > a > span { font-size: 16px; }
   #services-kayaking .nav-tabs > li > a { padding: 5px 5px; } }
 
 #services-bike h4 { background-image: url(../img/bike/bike-header.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
-#services-bike .nav-tabs { border-bottom: 2px solid #DDD; }
+#services-bike .nav-tabs { border-bottom: 2px solid #ddd; }
 #services-bike .nav-tabs > li.active > a, #services-bike .nav-tabs > li.active > a:focus, #services-bike .nav-tabs > li.active > a:hover { border-width: 0; }
 #services-bike .nav-tabs > li > a { border: none; color: #ffffff; background: #89e9f8; }
 #services-bike .nav-tabs > li.active > a, #services-bike .nav-tabs > li > a:hover { border: none; color: #89e9f8 !important; background: #fff; }
@@ -610,11 +610,11 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services-bike .tab-pane { padding: 15px 0; color: rgba(0, 0, 0, 0.38); }
 #services-bike .tab-content { padding: 20px; }
 #services-bike .nav-tabs > li { width: 33.33%; text-align: center; }
-#services-bike .card1 { background: #FFF none repeat scroll 0% 0%; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); margin-bottom: 30px; }
-#services-bike body { background: #EDECEC; padding: 50px; }
+#services-bike .card1 { background: #fff none repeat scroll 0% 0%; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); margin-bottom: 30px; }
+#services-bike body { background: #edecec; padding: 50px; }
 @media all and (max-width: 724px) { #services-bike .nav-tabs > li > a > span { font-size: 16px; }
   #services-bike .nav-tabs > li > a { padding: 5px 5px; } }
-#services-bike .bicikle-info .thumbnail { margin: 0 auto; transition: all .3s ease-in-out; }
+#services-bike .bicikle-info .thumbnail { margin: 0 auto; transition: all 0.3s ease-in-out; }
 #services-bike .bicikle-info .thumbnail:active, #services-bike .bicikle-info .thumbnail:hover { border: 1px solid #89e9f8; }
 
 #services-sup h4 { background-image: url(../img/sup/sup-header.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
@@ -623,10 +623,10 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 #services-rental h4 { background-image: url(../img/equipment/equipment-header.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
-#location { background-color: #FAFAFA; padding-bottom: 40px; }
+#location { background-color: #fafafa; padding-bottom: 40px; }
 #location h4 { margin-top: 20px; }
-#location h4 a { text-decoration: none; color: #FFFFFF; }
-#location .btn-success { color: #FFF; }
+#location h4 a { text-decoration: none; color: #ffffff; }
+#location .btn-success { color: #fff; }
 #location h3 { text-transform: uppercase; padding-top: 10px; }
 #location p { text-align: justify; }
 #location .facebook-iframe { display: block; margin-top: 10px; padding-top: 10px; }
@@ -638,19 +638,19 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #location .l-iconi-wrapper { list-style: none; }
 @media only screen and (min-width: 320px) { #location .l-iconi-wrapper div { display: inline-block; float: left; width: 10%; margin-left: 5px; } }
 #location .l-iconi-wrapper div img { padding: 5px; border-radius: 50%; display: block; margin: 0 auto; transition: all 0.4s ease-in-out; background-color: #03a9f5; }
-#location .l-iconi-wrapper div img:hover, #location .l-iconi-wrapper div img:focus { background-color: #ffab35; }
+#location .l-iconi-wrapper div img:hover, #location .l-iconi-wrapper div img:focus { background-color: #ff9671; }
 #location .l-iconi-wrapper div p { text-align: center; font-size: 14px; color: rgba(0, 0, 0, 0.54); font-weight: bold; }
 
 #location-permantura .close, #location-medulin .close, #location-bike .close { padding-right: 10px; float: right; font-size: 50px; font-weight: 700; line-height: 1; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: 0.5; margin-right: 10px; }
 #location-permantura .modal-header, #location-medulin .modal-header, #location-bike .modal-header { padding: 0px; }
-#location-permantura h4, #location-medulin h4, #location-bike h4 { font-size: 30px; text-align: center; font-family: "Permanent Marker",cursive; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #ffab35; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
+#location-permantura h4, #location-medulin h4, #location-bike h4 { font-size: 30px; text-align: center; font-family: "Permanent Marker", cursive; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #ff9671; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
 #location-permantura h5, #location-medulin h5, #location-bike h5 { text-align: center; color: #03a9f5; padding: 25px 0px 25px 0px; font-size: 24px; }
 
 #location-bike h4 { background-image: url(../img/bike/bike-centar.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
 .google-maps { position: relative; overflow: hidden; height: 400px; }
 
-#bike-cjenik { padding-top: 80px; padding-bottom: 80px; background-color: #03a9f5; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25'%3E%3Cdefs%3E%3ClinearGradient id='a' gradientUnits='userSpaceOnUse' x1='0' x2='0' y1='0' y2='100%25' gradientTransform='rotate(240)'%3E%3Cstop offset='0' stop-color='%2303a9f5'/%3E%3Cstop offset='1' stop-color='%230393d5'/%3E%3C/linearGradient%3E%3Cpattern patternUnits='userSpaceOnUse' id='b' width='742' height='618.3' x='0' y='0' viewBox='0 0 1080 900'%3E%3Cg fill-opacity='0.1'%3E%3Cpolygon fill='%23444' points='90 150 0 300 180 300'/%3E%3Cpolygon points='90 150 180 0 0 0'/%3E%3Cpolygon fill='%23AAA' points='270 150 360 0 180 0'/%3E%3Cpolygon fill='%23DDD' points='450 150 360 300 540 300'/%3E%3Cpolygon fill='%23999' points='450 150 540 0 360 0'/%3E%3Cpolygon points='630 150 540 300 720 300'/%3E%3Cpolygon fill='%23DDD' points='630 150 720 0 540 0'/%3E%3Cpolygon fill='%23444' points='810 150 720 300 900 300'/%3E%3Cpolygon fill='%23FFF' points='810 150 900 0 720 0'/%3E%3Cpolygon fill='%23DDD' points='990 150 900 300 1080 300'/%3E%3Cpolygon fill='%23444' points='990 150 1080 0 900 0'/%3E%3Cpolygon fill='%23DDD' points='90 450 0 600 180 600'/%3E%3Cpolygon points='90 450 180 300 0 300'/%3E%3Cpolygon fill='%23666' points='270 450 180 600 360 600'/%3E%3Cpolygon fill='%23AAA' points='270 450 360 300 180 300'/%3E%3Cpolygon fill='%23DDD' points='450 450 360 600 540 600'/%3E%3Cpolygon fill='%23999' points='450 450 540 300 360 300'/%3E%3Cpolygon fill='%23999' points='630 450 540 600 720 600'/%3E%3Cpolygon fill='%23FFF' points='630 450 720 300 540 300'/%3E%3Cpolygon points='810 450 720 600 900 600'/%3E%3Cpolygon fill='%23DDD' points='810 450 900 300 720 300'/%3E%3Cpolygon fill='%23AAA' points='990 450 900 600 1080 600'/%3E%3Cpolygon fill='%23444' points='990 450 1080 300 900 300'/%3E%3Cpolygon fill='%23222' points='90 750 0 900 180 900'/%3E%3Cpolygon points='270 750 180 900 360 900'/%3E%3Cpolygon fill='%23DDD' points='270 750 360 600 180 600'/%3E%3Cpolygon points='450 750 540 600 360 600'/%3E%3Cpolygon points='630 750 540 900 720 900'/%3E%3Cpolygon fill='%23444' points='630 750 720 600 540 600'/%3E%3Cpolygon fill='%23AAA' points='810 750 720 900 900 900'/%3E%3Cpolygon fill='%23666' points='810 750 900 600 720 600'/%3E%3Cpolygon fill='%23999' points='990 750 900 900 1080 900'/%3E%3Cpolygon fill='%23999' points='180 0 90 150 270 150'/%3E%3Cpolygon fill='%23444' points='360 0 270 150 450 150'/%3E%3Cpolygon fill='%23FFF' points='540 0 450 150 630 150'/%3E%3Cpolygon points='900 0 810 150 990 150'/%3E%3Cpolygon fill='%23222' points='0 300 -90 450 90 450'/%3E%3Cpolygon fill='%23FFF' points='0 300 90 150 -90 150'/%3E%3Cpolygon fill='%23FFF' points='180 300 90 450 270 450'/%3E%3Cpolygon fill='%23666' points='180 300 270 150 90 150'/%3E%3Cpolygon fill='%23222' points='360 300 270 450 450 450'/%3E%3Cpolygon fill='%23FFF' points='360 300 450 150 270 150'/%3E%3Cpolygon fill='%23444' points='540 300 450 450 630 450'/%3E%3Cpolygon fill='%23222' points='540 300 630 150 450 150'/%3E%3Cpolygon fill='%23AAA' points='720 300 630 450 810 450'/%3E%3Cpolygon fill='%23666' points='720 300 810 150 630 150'/%3E%3Cpolygon fill='%23FFF' points='900 300 810 450 990 450'/%3E%3Cpolygon fill='%23999' points='900 300 990 150 810 150'/%3E%3Cpolygon points='0 600 -90 750 90 750'/%3E%3Cpolygon fill='%23666' points='0 600 90 450 -90 450'/%3E%3Cpolygon fill='%23AAA' points='180 600 90 750 270 750'/%3E%3Cpolygon fill='%23444' points='180 600 270 450 90 450'/%3E%3Cpolygon fill='%23444' points='360 600 270 750 450 750'/%3E%3Cpolygon fill='%23999' points='360 600 450 450 270 450'/%3E%3Cpolygon fill='%23666' points='540 600 630 450 450 450'/%3E%3Cpolygon fill='%23222' points='720 600 630 750 810 750'/%3E%3Cpolygon fill='%23FFF' points='900 600 810 750 990 750'/%3E%3Cpolygon fill='%23222' points='900 600 990 450 810 450'/%3E%3Cpolygon fill='%23DDD' points='0 900 90 750 -90 750'/%3E%3Cpolygon fill='%23444' points='180 900 270 750 90 750'/%3E%3Cpolygon fill='%23FFF' points='360 900 450 750 270 750'/%3E%3Cpolygon fill='%23AAA' points='540 900 630 750 450 750'/%3E%3Cpolygon fill='%23FFF' points='720 900 810 750 630 750'/%3E%3Cpolygon fill='%23222' points='900 900 990 750 810 750'/%3E%3Cpolygon fill='%23222' points='1080 300 990 450 1170 450'/%3E%3Cpolygon fill='%23FFF' points='1080 300 1170 150 990 150'/%3E%3Cpolygon points='1080 600 990 750 1170 750'/%3E%3Cpolygon fill='%23666' points='1080 600 1170 450 990 450'/%3E%3Cpolygon fill='%23DDD' points='1080 900 1170 750 990 750'/%3E%3C/g%3E%3C/pattern%3E%3C/defs%3E%3Crect x='0' y='0' fill='url(%23a)' width='100%25' height='100%25'/%3E%3Crect x='0' y='0' fill='url(%23b)' width='100%25' height='100%25'/%3E%3C/svg%3E"); background-attachment: fixed; background-size: cover; }
+#bike-cjenik { padding-top: 80px; padding-bottom: 80px; background-color: #03a9f5; background-image: linear-gradient(to right top, #845ec2, #756ed1, #647dde, #4f8be8, #3798ef, #00a8ef, #00b6e9, #00c2df, #1bcebf, #73d492, #bad26a, #ffc75f); background-attachment: fixed; background-size: cover; }
 #bike-cjenik h3 { text-align: center; color: #bbdefb; }
 @media only screen and (min-width: 320px) { #bike-cjenik .cjenik-btn { width: 100%; font-size: 2.5rem; } }
 @media only screen and (min-width: 480px) { #bike-cjenik .cjenik-btn { margin-left: 20%; width: 60%; } }
@@ -658,9 +658,9 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #cjenik-bikes .modal-header h3 { text-align: center; font-size: 3rem; }
 #cjenik-bikes h4 { font-size: 2.4rem; padding: 30px; }
 
-#testimonial-slider { background-color: #FFFFFF; padding-top: 20px; padding-bottom: 40px; }
+#testimonial-slider { background-color: #ffffff; padding-top: 20px; padding-bottom: 40px; }
 
-.testimonial { background-color: #FFFFFF; text-align: center; padding: 40px 20%; }
+.testimonial { background-color: #ffffff; text-align: center; padding: 40px 20%; }
 
 .testimonial .pic { width: 110px; border-radius: none; overflow: hidden; margin: 0 auto; }
 
@@ -672,9 +672,9 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 .owl-carousel { margin: 0; }
 
-.owl-carousel .owl-nav [class*=owl-] { background: rgba(0, 0, 0, 0.5); color: rgba(255, 255, 255, 0.9); line-height: 30px; border-radius: 50%; text-align: center; }
+.owl-carousel .owl-nav [class*="owl-"] { background: rgba(0, 0, 0, 0.5); color: rgba(255, 255, 255, 0.9); line-height: 30px; border-radius: 50%; text-align: center; }
 
-.owl-carousel .owl-nav [class*=owl-]:hover { background: rgba(0, 0, 0, 0.9); color: #FFF; }
+.owl-carousel .owl-nav [class*="owl-"]:hover { background: rgba(0, 0, 0, 0.9); color: #fff; }
 
 .owl-carousel .owl-prev, .owl-carousel .owl-next { position: absolute; top: 45%; height: 30px; margin: auto !important; }
 
@@ -684,7 +684,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 .owl-carousel .owl-dots { display: none !important; }
 
-.owl-theme .owl-controls .owl-buttons div { color: #869791; display: inline-block; zoom: 1; margin: 5px; padding: 3px 10px; font-size: 12px; -webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px; background: transparent; filter: Alpha(Opacity=50); opacity: .5; }
+.owl-theme .owl-controls .owl-buttons div { color: #869791; display: inline-block; zoom: 1; margin: 5px; padding: 3px 10px; font-size: 12px; -webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px; background: transparent; filter: Alpha(Opacity=50); opacity: 0.5; }
 
 @media only screen and (min-width: 320px) { .imgwrapper { border-radius: 3px; width: 22%; float: left; position: relative; overflow: hidden; transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; z-index: 400; margin: 1%; } }
 @media only screen and (min-width: 992px) { .imgwrapper { border-radius: 3px; width: 31%; float: left; position: relative; overflow: hidden; transition: 0.4s ease-in-out; -webkit-transition: 0.4s ease-in-out; z-index: 400; margin: 1%; } }
@@ -692,7 +692,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 .imgwrapper img:hover { transform: scale(1.08); }
 
-#pricing .container { background-color: #F5F5F5; padding-bottom: 50px; }
+#pricing .container { background-color: #f5f5f5; padding-bottom: 50px; }
 
 #routes { padding-bottom: 50px; }
 #routes #transportation { padding-top: 30px; }
@@ -701,20 +701,20 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
   #routes #transportation .r-left { text-align: left; } }
 @media only screen and (min-width: 480px) { #routes #transportation .r-right, #routes #transportation .r-left { font-size: 100%; } }
 #routes h2 { color: #ffffff; }
-#routes .rute-slogan { color: #ffab35; }
-#routes h4 { font-weight: bold; font-size: 1.3em; letter-spacing: 0.3em; color: #FFFFFF; }
-#routes p { color: #FAFAFA; }
+#routes .rute-slogan { color: #ff9671; }
+#routes h4 { font-weight: bold; font-size: 1.3em; letter-spacing: 0.3em; color: #ffffff; }
+#routes p { color: #fafafa; }
 #routes ul { list-style-type: none; }
-#routes p { color: #FAFAFA; transition: color .4s ease-in-out; }
+#routes p { color: #fafafa; transition: color 0.4s ease-in-out; }
 #routes p:hover { color: #03a9f5; cursor: pointer; cursor: hand; }
 #routes .col-xs-6 { padding-left: 0px; }
 
-footer { color: #FFFFFF; background: #078d8d; background: -moz-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -webkit-gradient(left top, left bottom, color-stop(0%, #078d8d), color-stop(45%, #066a6a), color-stop(100%, #032a6d)); background: -webkit-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -o-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -ms-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: linear-gradient(to bottom, #078d8d 0%, #066a6a 45%, #032a6d 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078d8d', endColorstr='#032a6d', GradientType=0 ); }
+footer { color: #ffffff; background: #078d8d; background: -moz-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -webkit-gradient(left top, left bottom, color-stop(0%, #078d8d), color-stop(45%, #066a6a), color-stop(100%, #032a6d)); background: -webkit-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -o-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -ms-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: linear-gradient(to bottom, #078d8d 0%, #066a6a 45%, #032a6d 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078d8d', endColorstr='#032a6d', GradientType=0 ); }
 footer h2 { color: #fff; }
-footer h4 { color: #ffab35; padding-bottom: 10px; text-transform: uppercase; }
+footer h4 { color: #ff9671; padding-bottom: 10px; text-transform: uppercase; }
 footer h5 { color: #89e9f8; font-weight: bolder; }
 @media only screen and (min-width: 320px) { footer { text-align: center; } }
-footer .row a { color: #FAFAFA; }
+footer .row a { color: #fafafa; }
 footer .row a:hover, footer .row a:active { text-decoration: none; color: #03a9f5; }
 @media only screen and (min-width: 768px) { footer .row .footer-content { text-align: center; } }
 @media only screen and (min-width: 992px) { footer .row .footer-content { text-align: left; } }
@@ -722,23 +722,21 @@ footer .row a:hover, footer .row a:active { text-decoration: none; color: #03a9f
 #contact-container { padding-bottom: 30px; }
 
 .footer-top2 ul { padding-left: 0px; list-style-type: none; }
-.footer-top2 ul li { color: #E0E0E0; text-decoration: none; padding-left: 0px; }
+.footer-top2 ul li { color: #e0e0e0; text-decoration: none; padding-left: 0px; }
 
-.footer-top { padding-top: 20px; border-top: 1px solid #ffab35; }
+.footer-top { padding-top: 20px; border-top: 1px solid #ff9671; }
 .footer-top ul { padding-left: 0px; list-style-type: none; }
-.footer-top ul li { color: #E0E0E0; text-decoration: none; padding-left: 0px; }
+.footer-top ul li { color: #e0e0e0; text-decoration: none; padding-left: 0px; }
 .footer-top .footer-content ul { padding-left: 0px; list-style-type: none; }
-.footer-top .footer-content ul li { color: #E0E0E0; text-decoration: none; padding-left: 0px; }
+.footer-top .footer-content ul li { color: #e0e0e0; text-decoration: none; padding-left: 0px; }
 
-#footer-bottom { min-height: 50px; color: #FAFAFA; /* 
-overwrite bootstrap default margin-left, because the <label> doesn't contain the <input> element.
-*/ /* for image option with span text */ }
+#footer-bottom { min-height: 50px; color: #fafafa; /*  overwrite bootstrap default margin-left, because the <label> doesn't contain the <input> element. */ /* for image option with span text */ }
 @media only screen and (min-width: 768px) { #footer-bottom .footer-bottom-left { width: 25%; float: left; }
   #footer-bottom .footer-bottom-center { width: 50%; float: left; text-align: center; }
   #footer-bottom .footer-bottom-right { width: 25%; float: left; }
   #footer-bottom .footer-bottom-right p { font-size: 60%; text-transform: uppercase; font-weight: bold; color: #b8bec5; line-height: 400%; }
   #footer-bottom .footer-bottom-right p a { color: #b8bec5; text-decoration: none; } }
-@media only screen and (min-width: 320px) { #footer-bottom p { line-height: 300%; display: inline-block; font-size: 65%; margin-top: 10px; color: #FAFAFA; }
+@media only screen and (min-width: 320px) { #footer-bottom p { line-height: 300%; display: inline-block; font-size: 65%; margin-top: 10px; color: #fafafa; }
   #footer-bottom .footer-bottom-center p { font-family: "Permanent Marker", cursive; }
   #footer-bottom img { width: 60px; margin: 0 auto; padding-top: 7px; } }
 @media only screen and (min-width: 480px) { #footer-bottom p { display: inline-block; font-size: 90%; }
@@ -750,7 +748,7 @@ overwrite bootstrap default margin-left, because the <label> doesn't contain the
 #footer-bottom .jf-option-box { display: none; margin-left: 8px; }
 #footer-bottom .jf-hide { display: none; }
 #footer-bottom .jf-disabled { background-color: #eeeeee; opacity: 0.6; pointer-events: none; }
-#footer-bottom .checkbox input[type=checkbox], #footer-bottom .checkbox-inline input[type=checkbox], #footer-bottom .radio input[type=radio], #footer-bottom .radio-inline input[type=radio] { position: absolute; margin-top: 4px \9; margin-left: 0px; }
+#footer-bottom .checkbox input[type="checkbox"], #footer-bottom .checkbox-inline input[type="checkbox"], #footer-bottom .radio input[type="radio"], #footer-bottom .radio-inline input[type="radio"] { position: absolute; margin-top: 4px \9; margin-left: 0px; }
 #footer-bottom div.form-group { padding: 8px 8px 4px 8px; }
 #footer-bottom .mainDescription { margin-bottom: 10px; }
 #footer-bottom p.description { margin: 0px; }
