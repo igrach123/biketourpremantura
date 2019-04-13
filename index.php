@@ -11,7 +11,6 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
             <title>Biketour Premantura</title>
             <meta name="viewport" content="width=device-width, initial-scale=1">
-         
             <!-- favicon setup -->
             <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
             <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">

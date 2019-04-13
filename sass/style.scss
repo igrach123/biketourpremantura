@@ -1357,13 +1357,12 @@ header {
 #bike-cjenik {
   h3 {
     text-align: center;
-    color: $blue-100;
+    color: $bg-white;
   }
   padding-top: 80px;
   padding-bottom: 80px;
-  background-color: #03a9f5;
   background-image: linear-gradient(
-    to right top,
+    to left bottom,
     #845ec2,
     #756ed1,
     #647dde,
@@ -1377,8 +1376,7 @@ header {
     #bad26a,
     #ffc75f
   );
-  background-attachment: fixed;
-  background-size: cover;
+
   @include xxs {
     .cjenik-btn {
       width: 100%;
@@ -1610,45 +1608,21 @@ header {
 
 footer {
   color: $bg-white;
-  background: rgba(7, 141, 141, 1);
-  background: -moz-linear-gradient(
-    top,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
+  background-image: linear-gradient(
+    to left top,
+    #845ec2,
+    #756ed1,
+    #647dde,
+    #4f8be8,
+    #3798ef,
+    #00a8ef,
+    #00b6e9,
+    #00c2df,
+    #1bcebf,
+    #73d492,
+    #bad26a,
+    #ffc75f
   );
-  background: -webkit-gradient(
-    left top,
-    left bottom,
-    color-stop(0%, rgba(7, 141, 141, 1)),
-    color-stop(45%, rgba(6, 106, 106, 1)),
-    color-stop(100%, rgba(3, 42, 109, 1))
-  );
-  background: -webkit-linear-gradient(
-    top,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
-  );
-  background: -o-linear-gradient(
-    top,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
-  );
-  background: -ms-linear-gradient(
-    top,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
-  );
-  background: linear-gradient(
-    to bottom,
-    rgba(7, 141, 141, 1) 0%,
-    rgba(6, 106, 106, 1) 45%,
-    rgba(3, 42, 109, 1) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078d8d', endColorstr='#032a6d', GradientType=0 );
   h2 {
     color: #fff;
   }
