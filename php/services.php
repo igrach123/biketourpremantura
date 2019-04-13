@@ -76,7 +76,11 @@
 					    </div>
 					</div>
 				</div>
-			
 			</div>
+
+			<div class="text-center">
+				<a href="#custom-tour" class="btn btn-block btn-danger" data-toggle="modal" role="button" data-target="#custom-tour">MAKE YOUR OWN TOUR</a>
+			</div>
+			
 		</div>
 </section>
