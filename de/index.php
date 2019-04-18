@@ -1,6 +1,4 @@
 
-?>  -->
-
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
@@ -108,26 +106,9 @@
     
         <!--JavaScript, jquerry and plugins-->
         <script src="../js/vendor/jquery.min.js"></script>
-        <script src="../js/bootstrap.min.js"></script>
-      <!--   
-        <script type="text/javascript" src="js/owl.carousel.min.js"></script>
-        <script src="js/vendor/jquery.matchHeight.js" type="text/javascript"></script>
-
-        <script src="js/vendor/smooth-scroll.min.js"></script> 
-        <script src="js/vendor/blueimp-gallery.min.js"></script>
-       
-        <script src="js/echo.min.js"></script> -->
-
-
-     
+        <script src="../js/bootstrap.min.js"></script> 
     <!-- Go to www.addthis.com/dashboard to customize your tools --> 
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ac0f8a1b1b5a818"></script>
-
-
-
-
-
-
         <script type="text/javascript">
 
             // start jqueryform initialization
@@ -135,8 +116,6 @@
             JF.init('#jqueryform-2c2260');
 
         </script>
-       
-        
         <script src="../js/main-js-backup-min.js"></script>
 
  </body>
