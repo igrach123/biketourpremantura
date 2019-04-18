@@ -8,62 +8,57 @@
                 <h4 class="modal-title">ENDURO TOURS VALTURA BUDAVA KAMENJAK</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">OPIS IZLETA</h5>
-
-                <p class="text-muted"> <b>Enduro Kamenjak tura.</b> Ove ture su namijenjene biciklistima s većim
-                    iskustvom.
-                    Pružaju pravi doživljaj brdskog biciklizma (osjećaj kao da ste u planinama), a staze su uz obalu
-                    mora, po netaknutoj prirodi. Ture se odvijaju uglavnom po single trailovima uz kratke boravke na
-                    cesti. Trajanje 5-8 h Kilometraža 25-40
+                <h5 class="services-sm-title">About the Trip</h5>
+                <p class="text-muted"><b> ENDURO TOURS VALTURA BUDAVA KAMENJAK</b> These tours are designed for
+                    experienced bikers. They provide a real mountain bike experience (it feels like a mountain trail),
+                    but the trails run along the seashore, in pristine nature. The tours are mostly on single tracks
+                    with only short stays on the road. Duration 5-8 h Kilometres 25-40 The price includes: lunch, fruit,
+                    water, guide
+                    <br> <br>
+                    <b>DURATION:</b> about 5h-8h.
                     <br>
-                    <br>
-                    <b>TRAJANJE:</b> oko 5h-8h.
-                    <br>
-                    <b>CIJENA:</b> 350 HRK.
+                    <b>PRICE:</b> 350,00 HRK.
                 </p>
-
-
                 <hr>
-                <p class="text-muted"><b>Cjelodnevni izlet uključuje:</b></p>
+
+                <p class="text-muted"><b>Full day excursion includes:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Vodiča</li>
+                        Guide</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Biciklu</li>
+                        Bycicle</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Voće i vodu</li>
+                        Launch</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Ručak</li>
+                        Dinner</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Večaru</li>
+                        Fruit and water</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Sigurnosnu opremu</li>
+                        Safety equipment</li>
                 </ul>
 
 
 
 
-
-
                 <hr>
 
 
 
-                <p class="text-muted"><b>CIJENA</b> ZA GRUPE 10-15 OSOBA <span class="badge badge-info">-10%</span> /
-                    <b>CIJENA</b> ZA GRUPE PREKO 15 OSOBA <span class="badge badge-info">-20%</span> </p>
+                <p class="text-muted"><b>PRICE</b> FOR GROUPS 10-15 PERSONS <span class="badge badge-info">-10%</span> /
+                    <b>PRICE</b> FOR GROUPS OVER 15 PERSONS <span class="badge badge-info">-20%</span> </p>
                 <hr>
+
 
                 <div class="pmd-card-actions col-xs-6">
                     <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"
-                        target="_blank"><span class="fa fa-facebook">POSJETITE NAS</span></a>
+                        target="_blank"><span class="fa fa-facebook">VISIT US</span></a>
                 </div>
 
-                <div class="modal-footer row">
-                    <button type="button" class="btn btn-primary" data-dismiss="modal">Zatvori</button>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
                 </div>
             </div><!-- MODAL BODY -->
-
         </div> <!-- modal content -->
     </div><!-- end  of Modal dialog -->
 </div> <!-- end  of Modal windsurf

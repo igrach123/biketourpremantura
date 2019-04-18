@@ -1,11 +1,11 @@
 <!-- modal CJLEODNEVNI -->
-<div id="services-kayaking" class="modal fade" role="dialog" aria-labelledby="myModalLabel">
+<div id="custom-tour" class="modal fade" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">CJELODNEVNI IZLET</h4>
+                <h4 class="modal-title">NAPRAVI SAM SVOJ IZLET</h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">OPIS IZLETA</h5>
@@ -52,6 +52,66 @@
                 <p class="text-muted"><b>CIJENA</b> ZA GRUPE 10-15 OSOBA <span class="badge badge-info">-10%</span> /
                     <b>CIJENA</b> ZA GRUPE PREKO 15 OSOBA <span class="badge badge-info">-20%</span> </p>
                 <hr>
+                <!--  -->
+
+                <!-- <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+  <div class="panel-body">
+
+    <div id="">
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-1.jpg" title="kayaking">
+            <img src="img/kayak/kayak-1_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-2.jpg" title="kayaking">
+            <img src="img/kayak/kayak-2_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-3.jpg" title="kayaking">
+            <img src="img/kayak/kayak-3_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-4.jpg" title="kayaking">
+            <img src="img/kayak/kayak-4_thumb.jpg" class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-5.jpg" title="kayaking">
+            <img src="img/kayak/kayak-5_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-6.jpg" title="kayaking">
+            <img src="img/kayak/kayak-6_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-7.jpg" title="kayaking">
+            <img src="img/kayak/kayak-7_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-8.jpg" title="kayaking">
+            <img src="img/kayak/kayak-8_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-9.jpg" title="kayaking">
+            <img src="img/kayak/kayak-9_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-10.jpg" title="kayaking">
+            <img src="img/kayak/kayak-10_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-11.jpg" title="kayaking">
+            <img src="img/kayak/kayak-11_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+        <div class="imgwrapper botmargin card-2">
+             <a href="img/kayak/kayak-12.jpg" title="kayaking">
+            <img src="img/kayak/kayak-12_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
+        </div>
+    </div>
+    </div> < panel body -->
+                <!-- </div> -->
+
+
+
 
                 <div class="pmd-card-actions col-xs-6">
                     <a class="facebook-modal-link btn-success btn"
