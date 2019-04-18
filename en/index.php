@@ -106,7 +106,7 @@ if ($_POST['submit']) {
             <a class="play-pause"></a>
             <ol class="indicator"></ol>
         </div>
-
+        <?php include "../php/variables.php"; ?>
        <?php include "header.php"; ?>
         <div class="clearfix"></div> 
 
@@ -126,8 +126,7 @@ if ($_POST['submit']) {
             <?php include "php/services-kayaking.php"; ?>
             <?php include "php/services-bike.php"; ?>
             <?php include "php/services-sup.php"; ?>
-            <?php include "php/services-snorkeling.php"; ?>
-            <?php include "php/services-rental.php"; ?>
+            
         <!-- end of services     -->
 
         <!-- location -->

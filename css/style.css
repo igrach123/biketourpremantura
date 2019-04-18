@@ -711,7 +711,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 footer { color: #ffffff; background-image: linear-gradient(to left top, #845ec2, #756ed1, #647dde, #4f8be8, #3798ef, #00a8ef, #00b6e9, #00c2df, #1bcebf, #73d492, #bad26a, #ffc75f); }
 footer h2 { color: #fff; }
-footer h4 { color: #ff9671; padding-bottom: 10px; text-transform: uppercase; }
+footer h4 { color: #e0e0e0; padding-bottom: 10px; text-transform: uppercase; }
 footer h5 { color: #89e9f8; font-weight: bolder; }
 @media only screen and (min-width: 320px) { footer { text-align: center; } }
 footer .row a { color: #fafafa; }
