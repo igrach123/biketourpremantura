@@ -1,40 +1,4 @@
-<!--  <?php  
 
-if ($_POST['submit']) {
-
-  if (!$_POST['name']) {
-    $error="<br/>- Please enter your name";
-  }
-  if (!$_POST['email']) {
-    $error.="<br/>- Please enter your email";
-  }
-  if (!$_POST['message'] ){
-    $error.="<br/>- Please enter your message";
-  }
-
-  $human = intval($_POST['human']);
-  if ($human !== 5) {
-      $error = 'Your anti-spam is incorrect';
-    }
-    if(isset($_POST['url']) && $_POST['url'] == '')
-
-  if ($error) {
-    $result='<div class="alert alert-danger" role="alert"><strong>Whoops, there is an error!</strong> Please correct the following: '.$error.'</div>';
-  } else {
-    mail("bivancic@yahoo.com" , "Contact message", "
-      Name: ".$_POST['name'] ."
-      Email: ".$_POST['email']."
-      Message:".$_POST['message'] ."
-      ".$_POST['sightseeing']."
-      ".$_POST['boattrip']."
-      ".$_POST['biketour']
-      );
-
-    {
-    $result='<div class="alert alert-success" role="alert"><strong>Thank you</strong>, We will contact you shortly!</div>';
-    }
-  }
-}
 ?>  -->
 
 <!doctype html>
@@ -69,7 +33,7 @@ if ($_POST['submit']) {
             <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
             <meta name="theme-color" content="#ffffff">
             <base href="#">
-             <link href="http://www.windsurfing.hr/index.php" rel="canonical" />
+             <link href="#" rel="canonical" />
             <link href="../en/index.php" rel="alternate" hreflang="en"> 
             <meta name="keywords" content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
             <meta name="description" content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
@@ -106,7 +70,7 @@ if ($_POST['submit']) {
             <a class="play-pause"></a>
             <ol class="indicator"></ol>
         </div>
-
+        <?php include "../php/variables.php"; ?>
        <?php include "header.php"; ?>
         <div class="clearfix"></div> 
 
@@ -114,11 +78,7 @@ if ($_POST['submit']) {
 
 
         <!--  CONTENT WRAPPER-->
-    <div class="container-fluid" id="content-wrapper" >
-        
-         <!-- about-us -->
-        <?php include "php/about-us.php" ?>
-        
+    <div class="container-fluid" id="content-wrapper" >       
         <!-- services -->
         <?php include "php/services.php"; ?>
             <!-- services modals -->

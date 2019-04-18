@@ -56,8 +56,7 @@
     <div class="container">
         <div class="text-center">
 
-            <h1 class="">BIKE TOUR <br>
-                PREMANUTRA </h1>
+            <h1 class=""><?php echo "$the_sitetitle"; ?></h1>
 
         </div>
 

@@ -548,14 +548,14 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services .service-wrap { overflow: hidden; border-radius: 5px; position: relative; }
 #services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; color: #ffffff; padding: 10px; border-radius: 5px; transition: all 0.3s ease-in-out; }
 #services .t-1 h3, #services .t-2 h3, #services .t-3 h3, #services .t-4 h3 { color: #ffffff; }
-#services .t-1 { background-image: url("../img/izleti/poludnevni-m.jpg"); background-position: center center; background-color: grey; background-size: cover; }
+#services .t-1 { background-image: url("../img/izleti/poludnevni-m.jpg"); background-position: center center; background-repeat: no-repeat; background-color: grey; background-size: cover; }
 #services .t-1:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
 #services .t-2:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
 #services .t-3:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
 #services .t-4:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
-#services .t-2 { background-image: url("../img/izleti/cjelodnevni-m.jpg"); background-color: grey; background-size: cover; }
-#services .t-3 { background-image: url("../img/izleti/urbana-m.jpg"); background-color: grey; background-size: cover; }
-#services .t-4 { background-image: url("../img/izleti/enduro-m.jpg"); background-color: grey; background-size: cover; }
+#services .t-2 { background-image: url("../img/izleti/cjelodnevni-m.jpg"); background-color: grey; background-size: cover; background-position: center center; background-repeat: no-repeat; }
+#services .t-3 { background-image: url("../img/izleti/urbana-m.jpg"); background-color: grey; background-size: cover; background-position: center center; background-repeat: no-repeat; }
+#services .t-4 { background-image: url("../img/izleti/enduro-m.jpg"); background-color: grey; background-size: cover; background-position: center center; background-repeat: no-repeat; }
 #services .pmd-card { border-radius: 0px 0px 5px 5px; }
 #services h3 img { width: 50px; padding-left: 5px; }
 

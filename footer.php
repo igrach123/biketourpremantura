@@ -80,6 +80,8 @@
                 <div class="col-xs-12 col-sm-6 col-md-3  footer-content ">
                     <h4 class=""> <span><i class="fa fa-caret-right"></i></span>  KORISNI LINKOVI</h4>
                     <ul>
+                        <li><a href="https://www.premantura.net/" target="_blank">www.premantura.net</a></li>
+                        <li><a href="https://www.herole.de/" target="_blank">www.herole.de</a></li>
                         <li><a href="http://www.vows.at/" target="_blank">www.vows.at</a></li>
                         <li><a href="https://www.continentseven.com/" target="_blank">Continent seven</a></li>
                         <li><a href="https://www.pwaworldtour.com/index.php?id=920" target="_blank">PWA Worldtour</a></li>
