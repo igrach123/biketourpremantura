@@ -1,19 +1,21 @@
 <section class="container-fluid clearfix" id="location">
     <div class="container">
-        <h2>OUR CENTERS</h2>
+        <h2>I NOSTRI CENTRI</h2>
         <div class="row card-1 white-bg">
-            <div class="col-xs-12 col-md-6 no-padding">
-                <img src="../img/centar-bike.jpg" class="img-responsive card-2" alt="bike centar Premantura">
+
+            <div class="col-xs-12 col-md-6  img-premantura">
+
             </div>
 
             <div class="col-xs-12 col-md-6">
 
 
                 <h3 class="text-center">Bike Center <span> Premantura </span> </h3>
-                <P>The full experience of the nature of Kamenjakana is a mountain bike ride. Bicycles can be rented
-                    individually or reserved for an organized excursion. We rent bicycles at two locations: in
-                    Premantura on the road to the Stupice camp, close to house number 63 and opposite Surf Bar and
-                    Stupice camp. We offer several types of bikes, both in size and quality.</P>
+                <P>L'esperienza completa della natura di Kamenjakana è un giro in mountain bike. Le biciclette possono
+                    essere noleggiate singolarmente o prenotate per un'escursione organizzata. Noleggiamo biciclette in
+                    due luoghi: a Premantura sulla strada per il campo di Stupice, vicino al numero civico 63 e di
+                    fronte al campo di Surf Bar e Stupice. Offriamo diversi tipi di bici, sia per dimensioni che per
+                    qualità.</P>
 
                 <hr>
                 <div class="pmd-card-actions col-xs-6">
@@ -24,6 +26,7 @@
                         src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FRENT-A-BIKE-Premantura-917457535047303%2F&width=140&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477"
                         width="140" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
                         allowTransparency="true"></iframe>
+
                 </div>
 
 
@@ -48,8 +51,8 @@
                         <h4 class=> <a href="https://windsurfing.hr/" target="_blank"> Windsurf Centar Premantura </a>
                         </h4>
                         <hr>
-                        <p>The Windsurfing Centre is located in the Arena Stupice Campsite where accommodation is
-                            available.
+                        <p>Il Windsurfing Center si trova nel campeggio Arena Stupice, dove sono disponibili
+                            sistemazioni.
                         </p>
                         <div class="l-iconi-wrapper clearfix">
                             <div> <span class="l-iconi text-center"><img class="img-responsive"
@@ -93,9 +96,9 @@
                         <h4 class=> <a href="https://windsurfing.hr/" target="_blank"> Windsurf Centar Medulin </a>
                         </h4>
                         <hr>
-                        <p>Our Centre in Medulin is located in the Arena Medulin Campsite , which offers the closest
-                            available accommodation. Being a tourist resort Medulin offers all kinds of accommodation,
-                            from hotels to camps.</p>
+                        <p>Il nostro centro di Medulin si trova nel campeggio Arena Medulin, che offre la sistemazione
+                            più vicina disponibile. Essendo una località turistica Medulin offre tutti i tipi di
+                            alloggio, dagli alberghi ai campi</p>
                         <div class="l-iconi-wrapper clearfix">
                             <div> <span class="l-iconi text-center"><img class="img-responsive"
                                         src="../img/iconi/surf.png" alt="surf-icon"> </span> </div>

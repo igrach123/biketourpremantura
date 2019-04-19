@@ -7,34 +7,34 @@
                 <!-- galerija -->
                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                     <div class="panel-body">
-                        <div id="bikes">
+                        <div id="bhr">
                             <div class="imgwrapper botmargin card-2">
-                                <a href="../img/bike/b1.jpg" title="windsurfing">
+                                <a href="../img/bike/b1.jpg" title="bike escursions">
                                     <img src="../img/bike/b1_thumb.jpg" data-src="../img/bike/b1_thumb.jpg"
                                         class="img img-responsive img-rounded " alt="bike"></a>
                             </div>
                             <div class="imgwrapper botmargin card-2">
-                                <a href="../img/bike/b2.jpg" title="windsurfing">
+                                <a href="../img/bike/b2.jpg" title="bike escursions">
                                     <img src="../img/bike/b2_thumb.jpg" data-src="../img/bike/b2_thumb.jpg"
                                         class="img img-responsive img-rounded " alt="bike"></a>
                             </div>
                             <div class="imgwrapper botmargin card-2">
-                                <a href="../img/bike/b3.jpg" title="windsurfing">
+                                <a href="../img/bike/b3.jpg" title="bike escursions">
                                     <img src="../img/bike/b3_thumb.jpg" data-src="../img/bike/b3_thumb.jpg"
                                         class="img img-responsive img-rounded " alt="bike"></a>
                             </div>
                             <div class="imgwrapper botmargin card-2">
-                                <a href="../img/bike/b4.jpg" title="windsurfing">
+                                <a href="../img/bike/b4.jpg" title="bike escursions">
                                     <img src="../img/bike/b4_thumb.jpg" data-src="../img/bike/b4_thumb.jpg"
                                         class="img img-responsive img-rounded " alt="bike"></a>
                             </div>
                             <div class="imgwrapper botmargin card-2">
-                                <a href="../img/bike/b5.jpg" title="windsurfing">
+                                <a href="../img/bike/b5.jpg" title="bike escursions">
                                     <img src="../img/bike/b5_thumb.jpg" data-src="../img/bike/b5_thumb.jpg"
                                         class="img img-responsive img-rounded " alt="bike"></a>
                             </div>
                             <div class="imgwrapper botmargin card-2">
-                                <a href="../img/bike/b6.jpg" title="windsurfing">
+                                <a href="../img/bike/b6.jpg" title="bike escursions">
                                     <img src="../img/bike/b6_thumb.jpg" data-src="../img/bike/b6_thumb.jpg"
                                         class="img img-responsive img-rounded " alt="bike"></a>
                             </div>
@@ -48,7 +48,7 @@
                 <h3>BIKES</h3>
                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                     <div class="panel-body">
-                        <div id="links2">
+                        <div id="ghr">
                             <div class="imgwrapper botmargin card-2">
                                 <a href="../img/bike/brb-trail-ht-26-21.jpg" title="BIKE 1 Trall-ht-26">
                                     <img src="../img/bike/brb-trail-ht-26-21_thumb.jpg"

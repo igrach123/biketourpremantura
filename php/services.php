@@ -73,9 +73,9 @@
                     <h3 class="title">ENDURO TOURS VALTURA BUDAVA KAMENJAK</h3>
                     <div class="overlay"></div>
                     <p>Vodič</p>
-                    <p>Bicikla</p>
                     <p>Voće i voda</p>
                     <p>Ručak</p>
+                    <p>Večera</p>
                     <p>Sigurnosna oprema</p>
                     <!-- Card action -->
                     <div class="pmd-card-actions">

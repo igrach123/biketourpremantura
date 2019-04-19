@@ -2,8 +2,9 @@
     <div class="container">
         <h2>OUR CENTERS</h2>
         <div class="row card-1 white-bg">
-            <div class="col-xs-12 col-md-6 no-padding">
-                <img src="../img/centar-bike.jpg" class="img-responsive card-2" alt="bike centar Premantura">
+
+            <div class="col-xs-12 col-md-6  img-premantura">
+
             </div>
 
             <div class="col-xs-12 col-md-6">

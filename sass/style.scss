@@ -910,7 +910,8 @@ header {
 #services-kayaking,
 #services-rental,
 #services-snorkeling,
-#services-sup {
+#services-sup,
+#custom-tour {
   .intro {
     font-family: "Roboto", cursive;
     color: $third;
@@ -1206,17 +1207,10 @@ header {
     background-repeat: no-repeat;
   }
 }
-#services-snorkeling {
+
+#custom-tour {
   h4 {
-    background-image: url(../img/snorkeling/snorkeling-header.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-}
-#services-rental {
-  h4 {
-    background-image: url(../img/equipment/equipment-header.jpg);
+    background-image: url(../img/izleti/custom-tour.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1226,6 +1220,20 @@ header {
 #location {
   background-color: $bg-grey-lighter;
   padding-bottom: 40px;
+  .img-premantura {
+    background-image: url(../img/centar-bike.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    @include xxs {
+      width: 100%;
+      height: 250px;
+    }
+    @include md {
+      width: 50%;
+      height: 380px;
+    }
+  }
   h4 {
     margin-top: 20px;
     a {
@@ -1690,6 +1698,7 @@ footer {
 
   @include xxs {
   }
+
   @include sm {
     .footer-bottom-left {
       width: 25%;
@@ -1699,21 +1708,47 @@ footer {
       width: 50%;
       float: left;
       text-align: center;
+      p {
+        padding-top: 20px;
+      }
     }
     .footer-bottom-right {
       width: 25%;
       float: left;
+
       p {
         font-size: 60%;
+        margin-bottom: 0px;
 
         text-transform: uppercase;
         font-weight: bold;
         color: #b8bec5;
-        line-height: 400%;
+
         a {
           color: #b8bec5;
           text-decoration: none;
         }
+      }
+      .izradio {
+        margin-top: 10px;
+      }
+      .cw-logo {
+        margin-top: 5px;
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        background-image: url(../img/social/cro-webdesing-logo-black.png);
+        background-size: cover;
+        transition: background-image 0.4s all 0.4s
+          cubic-bezier(0.25, 0.8, 0.25, 1);
+        -webkit-transition: background-image 0.4s all 0.4s
+          cubic-bezier(0.25, 0.8, 0.25, 1);
+        -moz-transition: background-image 0.4s all 0.4s
+          cubic-bezier(0.25, 0.8, 0.25, 1);
+      }
+      .cw-logo:hover {
+        display: inline-block;
+        background-image: url(../img/social/cro-webdesing-logo.png);
       }
     }
   }
@@ -1743,8 +1778,8 @@ footer {
       font-size: 90%;
     }
     img {
-      width: 60px;
-      padding-top: 7px;
+      width: 70px;
+      padding-top: 25px;
     }
   }
   @include sm {
@@ -1753,8 +1788,6 @@ footer {
       font-size: 100%;
     }
     img {
-      width: 50px;
-      padding-top: 10px;
     }
   }
 

@@ -2,15 +2,20 @@
     <div class="container">
         <h2>UNSERE ZENTREN</h2>
         <div class="row card-1 white-bg">
-            <div class="col-xs-12 col-md-6 no-padding">
-                <img src="../img/centar-bike.jpg" class="img-responsive card-2" alt="bike centar Premantura">
+
+            <div class="col-xs-12 col-md-6  img-premantura">
+
             </div>
 
             <div class="col-xs-12 col-md-6">
 
 
                 <h3 class="text-center">Bike Center <span> Premantura </span> </h3>
-                <P>Die volle Erfahrung der Natur von Kamenjakana ist eine Mountainbike-Tour. Fahrräder können gemietet werden einzeln oder für einen organisierten Ausflug reserviert. Wir vermieten Fahrräder an zwei Standorten: Premantura an der Straße zum Lager Stupice, in der Nähe der Hausnummer 63 und gegenüber der Surf Bar und Stupice Lager. Wir bieten verschiedene Fahrradtypen an, sowohl in Größe als auch in Qualität.</P>
+                <P>Die volle Erfahrung der Natur von Kamenjakana ist eine Mountainbike-Tour. Fahrräder können gemietet
+                    werden einzeln oder für einen organisierten Ausflug reserviert. Wir vermieten Fahrräder an zwei
+                    Standorten: Premantura an der Straße zum Lager Stupice, in der Nähe der Hausnummer 63 und gegenüber
+                    der Surf Bar und Stupice Lager. Wir bieten verschiedene Fahrradtypen an, sowohl in Größe als auch in
+                    Qualität.</P>
 
                 <hr>
                 <div class="pmd-card-actions col-xs-6">
@@ -45,7 +50,8 @@
                         <h4 class=> <a href="https://windsurfing.hr/" target="_blank"> Windsurf Centar Premantura </a>
                         </h4>
                         <hr>
-                        <p>Unser Windsurfzentrum in Premantura ist im Campingplatz Arena Stupicegelegen, in dem auch Unterkunftsmöglichkeiten bereitstehen.
+                        <p>Unser Windsurfzentrum in Premantura ist im Campingplatz Arena Stupicegelegen, in dem auch
+                            Unterkunftsmöglichkeiten bereitstehen.
                         </p>
                         <div class="l-iconi-wrapper clearfix">
                             <div> <span class="l-iconi text-center"><img class="img-responsive"
@@ -89,7 +95,9 @@
                         <h4 class=> <a href="https://windsurfing.hr/" target="_blank"> Windsurf Centar Medulin </a>
                         </h4>
                         <hr>
-                        <p>Unser Windsurfzentrum in Medulin ist im Campingplatz Arena Medulingelegen, in dem auch Unterkunftsmöglichkeiten bereitstehen. Medulin verfügt auch über alle anderen Unterkunftsmöglichkeiten, von Campingplätzen bis zu Hotels. </p>
+                        <p>Unser Windsurfzentrum in Medulin ist im Campingplatz Arena Medulingelegen, in dem auch
+                            Unterkunftsmöglichkeiten bereitstehen. Medulin verfügt auch über alle anderen
+                            Unterkunftsmöglichkeiten, von Campingplätzen bis zu Hotels. </p>
                         <div class="l-iconi-wrapper clearfix">
                             <div> <span class="l-iconi text-center"><img class="img-responsive"
                                         src="../img/iconi/surf.png" alt="surf-icon"> </span> </div>

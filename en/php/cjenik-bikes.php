@@ -13,10 +13,10 @@
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col" class="text-uppercase">Half-day excursion </th>
-                                <th scope="col" class="text-uppercase">Full day excursion </th>
-                                <th scope="col" class="text-uppercase">URBAN CITY TOUR PULA </th>
-                                <th scope="col" class="text-uppercase">ENDURO TOURS KAMENJAK</th>
+                                <th scope="col" class="text-uppercase">HALF DAY EXCURSION</th>
+                                <th scope="col" class="text-uppercase">FULL DAY EXCURSION</th>
+                                <th scope="col" class="text-uppercase">URBAN CITY TOUR - PULA </th>
+                                <th scope="col" class="text-uppercase">ENDURO TOURS VALTURA BUDAVA KAMENJAK</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -35,9 +35,9 @@
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">BIKE 1</th>
-                                <th scope="col">BIKE 2</th>
-                                <th scope="col">BIKE 3</th>
+                                <th scope="col">bike 1</th>
+                                <th scope="col">bike 2</th>
+                                <th scope="col">bike 3</th>
 
                             </tr>
                         </thead>
@@ -92,6 +92,36 @@
                         </tbody>
                     </table>
                 </div>
+
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col" class="text-uppercase">BACK PACK</th>
+                                <th scope="col" class="text-uppercase">BACK PACK WITH TOOLS,PUMP & FIRST AID</th>
+                                <th scope="col" class="text-uppercase">SERVICE 1H</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>20.00 kn</td>
+                                <td>50,00 kn</td>
+                                <td>125,00 kn</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <hr>
+                <div class="text-muted text-center">
+                    BIKES ARE RENTED AT YOUR OWN RESPONSIBILITY.
+                    ANY COMPLAINTS MAY BE MADE WITHIN THE FIRST 15 MINUTES OF RENTAL.
+                    AFTERWARDS THEY WILL NOT BE ACCEPTED.
+                    ANY DAMAGE TO THE BIKE WILL BE CHARGED ADDITIONALLY.
+                </div>
+
+
+
                 <div class="pmd-card-actions col-xs-6">
                     <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"

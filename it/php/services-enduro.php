@@ -5,49 +5,41 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">ENDURO TOURS VALTURA BUDAVA KAMENJAK</h4>
+                <h4 class="modal-title">TOUR ENDURO KAMENJAK</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">About the Trip</h5>
-                <p class="text-muted"><b> ENDURO TOURS VALTURA BUDAVA KAMENJAK</b> These tours are designed for
-                    experienced bikers. They provide a real mountain bike experience (it feels like a mountain trail),
-                    but the trails run along the seashore, in pristine nature. The tours are mostly on single tracks
-                    with only short stays on the road. Duration 5-8 h Kilometres 25-40 The price includes: lunch, fruit,
-                    water, guide
+                <h5 class="services-sm-title">A proposito del viaggio</h5>
+                <p class="text-muted"> <b>TOUR TOUR ENDURO KAMENJAK</b> Questi tour sono per ciclisti esperti. Offrono
+                    una vera
+                    esperienza da mountain bike (sembra un sentiero di montagna), ma i sentieri corrono lungo la riva
+                    del mare, in una natura selvaggia e incontaminata. Il tour si percorre per lo più su single trails
+                    riducendo al minimo le strade asfaltate. Durata 5-8 h Chilometri 25-40 Il prezzo include: pranzo,
+                    frutta, acqua, guida.
                     <br> <br>
-                    <b>DURATION:</b> about 5h-8h.
+                    <b>DURATO:</b> about 5h-8h.
                     <br>
-                    <b>PRICE:</b> 350,00 HRK.
+                    <b>PREZZO:</b> 350,00 HRK.
                 </p>
                 <hr>
-
-                <p class="text-muted"><b>Full day excursion includes:</b></p>
+                <p class="text-muted"><b>TOUR ENDURO KAMENJAK includee:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Guide</li>
+                        guida</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Bycicle</li>
+                        pranzo</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Launch</li>
+                        cena</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Dinner</li>
+                        rutta & acqua</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Fruit and water</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Safety equipment</li>
+                        casco</li>
                 </ul>
 
-
-
-
                 <hr>
 
-
-
-                <p class="text-muted"><b>PRICE</b> FOR GROUPS 10-15 PERSONS <span class="badge badge-info">-10%</span> /
-                    <b>PRICE</b> FOR GROUPS OVER 15 PERSONS <span class="badge badge-info">-20%</span> </p>
-                <hr>
-
+                <p class="text-muted"> <b>PREZZO</b> PER GRUPPI 10-15 PERSONE<span class="badge badge-info">-10%</span>
+                    /
+                    <b>PREZZO</b> PER GRUPPI SUPERIORI A 15 PERSONE <span class="badge badge-info">-20%</span> </p>
 
                 <div class="pmd-card-actions col-xs-6">
                     <a class="facebook-modal-link btn-success btn"

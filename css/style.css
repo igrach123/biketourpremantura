@@ -563,17 +563,17 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services .pmd-card { border-radius: 0px 0px 5px 5px; }
 #services h3 img { width: 50px; padding-left: 5px; }
 
-#services-windsurf .intro, #services-bike .intro, #services-kayaking .intro, #services-rental .intro, #services-snorkeling .intro, #services-sup .intro { font-family: "Roboto", cursive; color: rgba(0, 0, 0, 0.38); font-weight: thin; font-size: 20px; }
-#services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close { color: #a94442 !important; }
-#services-windsurf .services-sm-title, #services-bike .services-sm-title, #services-kayaking .services-sm-title, #services-rental .services-sm-title, #services-snorkeling .services-sm-title, #services-sup .services-sm-title { color: #03a9f5; padding: 30px 0 30px 0; text-align: center; font-size: 28px; font-weight: 600; }
-#services-windsurf .services-sm-title2, #services-bike .services-sm-title2, #services-kayaking .services-sm-title2, #services-rental .services-sm-title2, #services-snorkeling .services-sm-title2, #services-sup .services-sm-title2 { color: #03a9f5; padding: 30px 0px 0px 0px; text-align: center; font-size: 28px; font-weight: 600; }
-#services-windsurf .btn-info, #services-bike .btn-info, #services-kayaking .btn-info, #services-rental .btn-info, #services-snorkeling .btn-info, #services-sup .btn-info { border-radius: 0px; position: absolute; right: 0; bottom: 0; }
-#services-windsurf .modal-header, #services-bike .modal-header, #services-kayaking .modal-header, #services-rental .modal-header, #services-snorkeling .modal-header, #services-sup .modal-header { padding: 0px; }
-#services-windsurf h4, #services-bike h4, #services-kayaking h4, #services-rental h4, #services-snorkeling h4, #services-sup h4 { font-family: "Permanent Marker", cursive; text-align: center; font-size: 45px; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #89e9f8; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
-#services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close { padding-right: 10px; float: right; font-size: 50px; font-weight: 700; line-height: 1; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: 0.5; margin-right: 10px; }
-#services-windsurf .h7, #services-bike .h7, #services-kayaking .h7, #services-rental .h7, #services-snorkeling .h7, #services-sup .h7 { font-size: 18px; color: #89e9f8; font-weight: bolder; letter-spacing: 4px; text-align: center; padding-top: 40px; }
-#services-windsurf .facebook-modal-link, #services-bike .facebook-modal-link, #services-kayaking .facebook-modal-link, #services-rental .facebook-modal-link, #services-snorkeling .facebook-modal-link, #services-sup .facebook-modal-link { margin-left: 0px !important; margin-top: 10px; }
-#services-windsurf .facebook-modal-iframe, #services-bike .facebook-modal-iframe, #services-kayaking .facebook-modal-iframe, #services-rental .facebook-modal-iframe, #services-snorkeling .facebook-modal-iframe, #services-sup .facebook-modal-iframe { display: inherit; }
+#services-windsurf .intro, #services-bike .intro, #services-kayaking .intro, #services-rental .intro, #services-snorkeling .intro, #services-sup .intro, #custom-tour .intro { font-family: "Roboto", cursive; color: rgba(0, 0, 0, 0.38); font-weight: thin; font-size: 20px; }
+#services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close, #custom-tour .close { color: #a94442 !important; }
+#services-windsurf .services-sm-title, #services-bike .services-sm-title, #services-kayaking .services-sm-title, #services-rental .services-sm-title, #services-snorkeling .services-sm-title, #services-sup .services-sm-title, #custom-tour .services-sm-title { color: #03a9f5; padding: 30px 0 30px 0; text-align: center; font-size: 28px; font-weight: 600; }
+#services-windsurf .services-sm-title2, #services-bike .services-sm-title2, #services-kayaking .services-sm-title2, #services-rental .services-sm-title2, #services-snorkeling .services-sm-title2, #services-sup .services-sm-title2, #custom-tour .services-sm-title2 { color: #03a9f5; padding: 30px 0px 0px 0px; text-align: center; font-size: 28px; font-weight: 600; }
+#services-windsurf .btn-info, #services-bike .btn-info, #services-kayaking .btn-info, #services-rental .btn-info, #services-snorkeling .btn-info, #services-sup .btn-info, #custom-tour .btn-info { border-radius: 0px; position: absolute; right: 0; bottom: 0; }
+#services-windsurf .modal-header, #services-bike .modal-header, #services-kayaking .modal-header, #services-rental .modal-header, #services-snorkeling .modal-header, #services-sup .modal-header, #custom-tour .modal-header { padding: 0px; }
+#services-windsurf h4, #services-bike h4, #services-kayaking h4, #services-rental h4, #services-snorkeling h4, #services-sup h4, #custom-tour h4 { font-family: "Permanent Marker", cursive; text-align: center; font-size: 45px; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #89e9f8; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
+#services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close, #custom-tour .close { padding-right: 10px; float: right; font-size: 50px; font-weight: 700; line-height: 1; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: 0.5; margin-right: 10px; }
+#services-windsurf .h7, #services-bike .h7, #services-kayaking .h7, #services-rental .h7, #services-snorkeling .h7, #services-sup .h7, #custom-tour .h7 { font-size: 18px; color: #89e9f8; font-weight: bolder; letter-spacing: 4px; text-align: center; padding-top: 40px; }
+#services-windsurf .facebook-modal-link, #services-bike .facebook-modal-link, #services-kayaking .facebook-modal-link, #services-rental .facebook-modal-link, #services-snorkeling .facebook-modal-link, #services-sup .facebook-modal-link, #custom-tour .facebook-modal-link { margin-left: 0px !important; margin-top: 10px; }
+#services-windsurf .facebook-modal-iframe, #services-bike .facebook-modal-iframe, #services-kayaking .facebook-modal-iframe, #services-rental .facebook-modal-iframe, #services-snorkeling .facebook-modal-iframe, #services-sup .facebook-modal-iframe, #custom-tour .facebook-modal-iframe { display: inherit; }
 
 #services-windsurf h4 { background-image: url(../img/izleti/poludnevni.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 #services-windsurf .windsurf-daske .thumbnail { margin: 0 auto; transition: all 0.3s ease-in-out; }
@@ -623,11 +623,12 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 #services-sup h4 { background-image: url(../img/izleti/enduro.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
-#services-snorkeling h4 { background-image: url(../img/snorkeling/snorkeling-header.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
-
-#services-rental h4 { background-image: url(../img/equipment/equipment-header.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
+#custom-tour h4 { background-image: url(../img/izleti/custom-tour.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
 #location { background-color: #fafafa; padding-bottom: 40px; }
+#location .img-premantura { background-image: url(../img/centar-bike.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center; }
+@media only screen and (min-width: 320px) { #location .img-premantura { width: 100%; height: 250px; } }
+@media only screen and (min-width: 992px) { #location .img-premantura { width: 50%; height: 380px; } }
 #location h4 { margin-top: 20px; }
 #location h4 a { text-decoration: none; color: #ffffff; }
 #location .btn-success { color: #fff; }
@@ -737,16 +738,19 @@ footer .row a:hover, footer .row a:active { text-decoration: none; color: #03a9f
 #footer-bottom { min-height: 50px; color: #fafafa; /*  overwrite bootstrap default margin-left, because the <label> doesn't contain the <input> element. */ /* for image option with span text */ }
 @media only screen and (min-width: 768px) { #footer-bottom .footer-bottom-left { width: 25%; float: left; }
   #footer-bottom .footer-bottom-center { width: 50%; float: left; text-align: center; }
+  #footer-bottom .footer-bottom-center p { padding-top: 20px; }
   #footer-bottom .footer-bottom-right { width: 25%; float: left; }
-  #footer-bottom .footer-bottom-right p { font-size: 60%; text-transform: uppercase; font-weight: bold; color: #b8bec5; line-height: 400%; }
-  #footer-bottom .footer-bottom-right p a { color: #b8bec5; text-decoration: none; } }
+  #footer-bottom .footer-bottom-right p { font-size: 60%; margin-bottom: 0px; text-transform: uppercase; font-weight: bold; color: #b8bec5; }
+  #footer-bottom .footer-bottom-right p a { color: #b8bec5; text-decoration: none; }
+  #footer-bottom .footer-bottom-right .izradio { margin-top: 10px; }
+  #footer-bottom .footer-bottom-right .cw-logo { margin-top: 5px; display: inline-block; width: 40px; height: 40px; background-image: url(../img/social/cro-webdesing-logo-black.png); background-size: cover; transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); -webkit-transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); -moz-transition: background-image 0.4s all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); }
+  #footer-bottom .footer-bottom-right .cw-logo:hover { display: inline-block; background-image: url(../img/social/cro-webdesing-logo.png); } }
 @media only screen and (min-width: 320px) { #footer-bottom p { line-height: 300%; display: inline-block; font-size: 65%; margin-top: 10px; color: #fafafa; }
   #footer-bottom .footer-bottom-center p { font-family: "Permanent Marker", cursive; }
   #footer-bottom img { width: 60px; margin: 0 auto; padding-top: 7px; } }
 @media only screen and (min-width: 480px) { #footer-bottom p { display: inline-block; font-size: 90%; }
-  #footer-bottom img { width: 60px; padding-top: 7px; } }
-@media only screen and (min-width: 768px) { #footer-bottom p { display: inline-block; font-size: 100%; }
-  #footer-bottom img { width: 50px; padding-top: 10px; } }
+  #footer-bottom img { width: 70px; padding-top: 25px; } }
+@media only screen and (min-width: 768px) { #footer-bottom p { display: inline-block; font-size: 100%; } }
 #footer-bottom .jf-form { margin-top: 28px; }
 #footer-bottom .jf-form > form { margin-bottom: 32px; }
 #footer-bottom .jf-option-box { display: none; margin-left: 8px; }

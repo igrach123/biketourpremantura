@@ -5,18 +5,18 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h3 class="modal-title text-center lead">CJENIK </h3>
+                <h3 class="modal-title text-center lead">LISTINO PREZZI </h3>
             </div>
             <div class="modal-body">
-                <h4 class="text-center">IZLETI</h4>
+                <h4 class="text-center">ESCURSIONI</h4>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">POLUDNEVNI IZLET</th>
-                                <th scope="col">CJELODNEVNI IZLET</th>
-                                <th scope="col">URBANA GRADSKA TURA - PULA</th>
-                                <th scope="col">ENDURO TOURS</th>
+                                <th scope="col" class="text-uppercase">Escursione mezza giornata</th>
+                                <th scope="col" class="text-uppercase">Escursione di giornata intera</th>
+                                <th scope="col" class="text-uppercase">TOUR PULA GIARDINO URBANO </th>
+                                <th scope="col" class="text-uppercase">TOUR ENDURO KAMENJAK</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -30,14 +30,14 @@
                         </tbody>
                     </table>
                 </div>
-                <h4 class="text-center">NAJAM BICIKLE</h4>
+                <h4 class="text-center">BIKE RENTAL</h4>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col">BICIKLA 1</th>
-                                <th scope="col">BICIKLA 2</th>
-                                <th scope="col">BICIKLA 3</th>
+                                <th scope="col">bike 1</th>
+                                <th scope="col">bike 2</th>
+                                <th scope="col">bike 3</th>
 
                             </tr>
                         </thead>
@@ -92,13 +92,41 @@
                         </tbody>
                     </table>
                 </div>
+
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col" class="text-uppercase">BACK PACK</th>
+                                <th scope="col" class="text-uppercase">BACK PACK WITH TOOLS,PUMP & FIRST AID</th>
+                                <th scope="col" class="text-uppercase">SERVICE 1H</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>20.00 kn</td>
+                                <td>50,00 kn</td>
+                                <td>125,00 kn</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <hr>
+                <div class="text-muted text-center">
+                    BIKES ARE RENTED AT YOUR OWN RESPONSIBILITY.
+                    ANY COMPLAINTS MAY BE MADE WITHIN THE FIRST 15 MINUTES OF RENTAL.
+                    AFTERWARDS THEY WILL NOT BE ACCEPTED.
+                    ANY DAMAGE TO THE BIKE WILL BE CHARGED ADDITIONALLY.
+                </div>
+
                 <div class="pmd-card-actions col-xs-6">
                     <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"
-                        target="_blank"><span class="fa fa-facebook">POSJETITE NAS</span></a>
+                        target="_blank"><span class="fa fa-facebook"> Visit Us</span></a>
                 </div>
                 <div class="modal-footer row">
-                    <button type="button" class="btn btn-primary" data-dismiss="modal">Zatvori</button>
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
                 </div>
             </div><!-- MODAL BODY -->
         </div> <!-- modal content -->

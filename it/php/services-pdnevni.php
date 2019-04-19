@@ -1,4 +1,4 @@
-<!-- modal Half day excursion -->
+<!-- modal Half day excursion IT -->
 <div id="services-windsurf" class="modal fade" role="dialog" aria-labelledby="myModalLabel" tabindex="-1"
     role="document">
     <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
@@ -6,35 +6,35 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">HALF DAY EXCURSION</h4>
+                <h4 class="modal-title">Escursione mezza giornata</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">About the Trip</h5>
-                <p class="text-muted"> <b>The half-day excursion </b> by mountain bike starts at 09:00 h and at 13:00 h.
-                    Excursions by bike must be booked at least one day in advance. The excursion begins and finishes in
-                    Premantura at our centre near the house number 63 (opposite the Surf Bar). The half-day excursion
-                    includes biking along the bicycle trail on the GornjiKamenjak, a stop and ride along the dinosaur
-                    path withits dinosaur footprints and swimming at secluded beaches. The pace of the excursion is
-                    decided by the guide with the aim to make this a safe and practicable experience for everyone
-                    present. The distance covered is of about 15 km.
+                <h5 class="services-sm-title">A proposito del viaggio</h5>
+                <p class="text-muted"> L'escursione di mezza giornata in mountain bike ha due orari di partenza, alle
+                    09:00 e alle 13:00. Le escursioni in mountain bike devono essere prenotate con almeno un giorno di
+                    anticipo. Si parte dal villaggio di Premantura, dal nostro centro al numero civico 63 (di fronte al
+                    Surf Bar). L’escursione di mezza giornatainizia sulla pista ciclabile lungo il paesaggio protetto di
+                    DonjiKamenjak, con sosta e visita al percorso dei dinosauri, seguita da una nuotata in una caletta
+                    appartata. Il ritmo dell'escursione è deciso dalla guida nell'interesse di rendere le escursioni
+                    sicure e praticabili da tutti i presenti. Il percorso è lungo circa 15 km.
                     <br>
                     <br>
-                    <b>DURATION:</b> about 4h.
+                    <b>DURATA:</b> 4h.
                     <br>
-                    <b>PRICE:</b> 350,00 HRK.
+                    <b>PREZZO:</b> 350,00 HRK.
                 </p>
                 <hr>
 
-                <p class="text-muted"><b>Half day excursion includes:</b></p>
+                <p class="text-muted"><b>Escursione mezza giornata include:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Guide</li>
+                        guida</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Bycicle</li>
+                        bicicletta</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Fruit and water</li>
+                        frutta & acqua</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Safety equipment</li>
+                        casco</li>
                 </ul>
 
 
@@ -42,11 +42,9 @@
 
                 <hr>
 
-
-
-                <p class="text-muted"><b>PRICE</b> FOR GROUPS 10-15 PERSONS <span class="badge badge-info">-10%</span> /
-                    <b>PRICE</b> FOR GROUPS OVER 15 PERSONS <span class="badge badge-info">-20%</span> </p>
-                <hr>
+                <p class="text-muted"> <b>PREZZO</b> PER GRUPPI 10-15 PERSONE<span class="badge badge-info">-10%</span>
+                    /
+                    <b>PREZZO</b> PER GRUPPI SUPERIORI A 15 PERSONE <span class="badge badge-info">-20%</span> </p>
 
 
                 <div class="pmd-card-actions col-xs-6">
