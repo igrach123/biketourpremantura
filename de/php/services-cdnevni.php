@@ -1,41 +1,35 @@
-<!-- modal CJLEODNEVNI -->
+<!-- modal CJLEODNEVNI de-->
 <div id="services-kayaking" class="modal fade" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title text-uppercase">Full day excursion </h4>
+                <h4 class="modal-title text-uppercase">GANZTAGSAUSFLUG </h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">About the Trip</h5>
-                <p class="text-muted"> <b>The full day excursion</b> by mountain bike starts at 9 h. Excursions by bike
-                    must be booked at least one day in advance. The excursion begins and finishes in Premantura at our
-                    centre near the house number 63 (opposite the Surf Bar). The half-day excursion includes biking
-                    along the bicycle trail on the GornjiKamenjak, a stop and visit at the Dino Park and its dinosaur
-                    footprints, swimming at secluded beaches, riding along the single trails on DonjiKamenjak and a
-                    lunch at the Safari Bar. The pace of the excursion is decided by the guide with the aim to make this
-                    a safe and practicable experience for everyone present. The distance covered is of about 30 km.
+            <h5 class="services-sm-title">Über den Ausflug</h5>
+                <p class="text-muted">Ein <b> GANZTAGSAUSFLUG</b> mit dem Geländefahrrad beginnt um 9 Uhr. Die Tour muss mindestens einen Tag im Voraus gebucht werden. Ausgangs- und Rückkehrort ist unser Zentrum in Premanturanahe der Hausnummer 63 (gegenüber des Surf Bars). Die Tour führt über die Radwege des Unteren Kamenjaks, inklusive Erkundung von Saurierspuren im Dinopark und Badespaß an entlegenen Stränden, sowie über die Single-Trails des Oberen Kamenjaks. Das Mittagessen findet im Safari Bar statt. Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst. Es werden rund 30 Km zurückgelegt.
                     <br>
                     <br>
-                    <b>DURATION:</b> about 8h.
+                    <b>DAUER:</b>  8h.
                     <br>
-                    <b>PRICE:</b> 450,00 HRK.
+                    <b>PREIS:</b> 450,00 HRK.
                 </p>
                 <hr>
 
-                <p class="text-muted"><b>Full day excursion includes:</b></p>
+                <p class="text-muted"><b>GANZTAGSAUSFLUG beinhaltet:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Guide</li>
+                    Tourleiter</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Bycicle</li>
+                    Geländefahrrad</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Launch</li>
+                        Mittagessen</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Fruit and water</li>
+                    Obst & Wasser</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Safety equipment</li>
+                    Sicherheitsausstattung</li>
                 </ul>
 
 
@@ -45,8 +39,8 @@
 
 
 
-                <p class="text-muted"><b>PRICE</b> FOR GROUPS 10-15 PERSONS <span class="badge badge-info">-10%</span> /
-                    <b>PRICE</b> FOR GROUPS OVER 15 PERSONS <span class="badge badge-info">-20%</span> </p>
+                <p class="text-muted"><b>PREIS</b> FUR GRUPPEN 10-15 PAX <span class="badge badge-info">-10%</span> /
+                    <b>PRICE</b> FUR  GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
                 <hr>
 
 

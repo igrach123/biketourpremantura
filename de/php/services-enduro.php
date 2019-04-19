@@ -5,15 +5,11 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">ENDURO TOURS VALTURA BUDAVA KAMENJAK</h4>
+                <h4 class="modal-title">ENDURO TOUREN KAMENJAK</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">About the Trip</h5>
-                <p class="text-muted"><b> ENDURO TOURS VALTURA BUDAVA KAMENJAK</b> These tours are designed for
-                    experienced bikers. They provide a real mountain bike experience (it feels like a mountain trail),
-                    but the trails run along the seashore, in pristine nature. The tours are mostly on single tracks
-                    with only short stays on the road. Duration 5-8 h Kilometres 25-40 The price includes: lunch, fruit,
-                    water, guide
+            <h5 class="services-sm-title">Über den Ausflug</h5>
+                <p class="text-muted"><b> ENDURO TOUREN KAMENJAK</b> ThDiese Touren sind erfahreneren Radfahrern vorbehalten. Sie bieten das Gefühl einer wahren Bergfahrt obwohl die Fahrradwege entlang der Meeresküste führen, durch unberührte Natur. Die Fahrt findet meist auf Pfaden statt, mit kurzen Straßenintervallen. Dauer 5 - 8 Stunden Entfernung 25 - 40 Kilometer Im Preis inbegriffen: Mittagessen, Obst, Wasser, Führer.
                     <br> <br>
                     <b>DURATION:</b> about 5h-8h.
                     <br>
@@ -21,32 +17,23 @@
                 </p>
                 <hr>
 
-                <p class="text-muted"><b>Full day excursion includes:</b></p>
+                <p class="text-muted"><b>ENDURO TOUREN KAMENJAK beinhaltet:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Guide</li>
+                    Tourleiter</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Bycicle</li>
+                    Mittagessen</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Launch</li>
+                    Obst & Wasser</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Dinner</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Fruit and water</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Safety equipment</li>
+                    Sicherheitsausstattung</li>
                 </ul>
 
-
-
-
                 <hr>
 
-
-
-                <p class="text-muted"><b>PRICE</b> FOR GROUPS 10-15 PERSONS <span class="badge badge-info">-10%</span> /
-                    <b>PRICE</b> FOR GROUPS OVER 15 PERSONS <span class="badge badge-info">-20%</span> </p>
-                <hr>
+                <p class="text-muted"><b>PREIS</b> FUR GRUPPEN 10-15 PAX <span class="badge badge-info">-10%</span> /
+                    <b>PRICE</b> FUR  GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
+              
 
 
                 <div class="pmd-card-actions col-xs-6">

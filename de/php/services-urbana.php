@@ -5,35 +5,32 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">URBANA CITY TOUR - PULA</h4>
+                <h4 class="modal-title">URBAN STADTAUSFLUG PULA</h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">About the Trip</h5>
-                <p class="text-muted"><b> URBAN CITY TOUR PULA.</b> The beginning of Mars's field tour First Stop
-                    Verudela Tour
-                    of Aquariums or swimming The second stop Valovine Snorkeling in the cave (grottoes of colombi) Third
-                    Stage Arena Arena The Fourth Stop Forum Fifth Stop Golden Gate Return to Mars Field
+            <h5 class="services-sm-title">Über den Ausflug</h5>
+                <p class="text-muted"><b> URBAN STADTAUSFLUG PULA.</b>  Der Beginn der Feldbesichtigung von Mars Erster Stopp Verudela Aquarienrundfahrt oder Schwimmen Der zweite Halt Valovine Schnorcheln in der Höhle (Colombi-Grotten) Third Stage Arena Arena Das vierte Stop-Forum Fünfte Haltestelle Golden Gate Kehre zum Marsfeld zurück
                     <br> <br>
-                    <b>DURATION:</b> about 5h.
+                    <b>DAUER:</b> about 5h.
                     <br>
-                    <b>PRICE:</b> 350,00 HRK.
+                    <b>PREIS:</b> 350,00 HRK.
                 </p>
                 <hr>
 
-                <p class="text-muted"><b>Full day excursion includes:</b></p>
+                <p class="text-muted"><b>URBAN STADTAUSFLUG PULA beinhaltet:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Guide</li>
+                    Tourleiter</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Bycicle</li>
+                    Geländefahrrad</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Launch</li>
+                    Mittagessen</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Dinner</li>
+                    Abendessen</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Fruit and water</li>
+                    Obst & Wasser</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Safety equipment</li>
+                    Sicherheitsausstattung</li>
                 </ul>
 
 
@@ -43,9 +40,9 @@
 
 
 
-                <p class="text-muted"><b>PRICE</b> FOR GROUPS 10-15 PERSONS <span class="badge badge-info">-10%</span> /
-                    <b>PRICE</b> FOR GROUPS OVER 15 PERSONS <span class="badge badge-info">-20%</span> </p>
-                <hr>
+                <p class="text-muted"><b>PREIS</b> FUR GRUPPEN 10-15 PAX <span class="badge badge-info">-10%</span> /
+                    <b>PRICE</b> FUR  GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
+              
 
 
                 <div class="pmd-card-actions col-xs-6">

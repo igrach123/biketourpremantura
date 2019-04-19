@@ -20,9 +20,9 @@
                                 
                        </ul>
                        <ul class=" nav navbar-nav navbar-right">
-                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#location" class="scroll">LOCATION</a></li> 
+                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#location" class="scroll">STANDORT</a></li> 
                             
-                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer" class="scroll">CONTACT</a></li>
+                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer" class="scroll">KONTAKT</a></li>
                             <li id="lang-id">
                                 <div class="dropdown language">
                                     <button class="btn btn-warning btn-xs dropdown-toggle language" type="button" data-toggle="dropdown">DE

@@ -70,7 +70,7 @@
             <div class="col-sm-6 col-lg-3 col-5px service-wrap">
                 <div class="t-4" data-mh="my-group">
                     <div class="price-bg badge"> 350 kn</div>
-                    <h3 class="title">ENDORU TOUREN KAMENJAK</h3>
+                    <h3 class="title">ENDURO TOUREN KAMENJAK</h3>
                     <div class="overlay"></div>
                     <p>Tourleiter</p>
                     <p>Mittagessen</p>

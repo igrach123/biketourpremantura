@@ -1,4 +1,4 @@
-<!-- modal Half day excursion -->
+<!-- modal Half day excursion de -->
 <div id="services-windsurf" class="modal fade" role="dialog" aria-labelledby="myModalLabel" tabindex="-1"
     role="document">
     <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
@@ -9,7 +9,7 @@
                 <h4 class="modal-title">Halbtagsausflug </h4>
             </div>
             <div class="modal-body">
-                <h5 class="services-sm-title">About the Trip</h5>
+                <h5 class="services-sm-title">Über den Ausflug</h5>
                 <p class="text-muted"> <b> Halbtagsausflug  </b> mit dem Geländefahrrad beginnt wahlweise um 9 Uhr oder um 13 Uhr. Die Tour muss mindestens einen Tag im Voraus gebucht werden. Ausgangs- und Rückkehrort ist unser Zentrum in Premanturanahe der Hausnummer 63 (gegenüber des Surf Bars). Die Tour führt über die Radwege des Unteren Kamenjaksund bietet die Erkundung vonSaurierspuren imDinoparksowie Badespaß an entlegenen Stränden. Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst. Es werden rund 15 Km zurückgelegt
                     <br>
                     <br>
@@ -40,7 +40,7 @@
 
                 <p class="text-muted"><b>PREIS</b> FUR GRUPPEN 10-15 PAX <span class="badge badge-info">-10%</span> /
                     <b>PRICE</b> FUR  GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
-                <hr>
+            
 
 
                 <div class="pmd-card-actions col-xs-6">

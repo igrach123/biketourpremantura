@@ -3,7 +3,7 @@
     <div class="container"> 
         <div class="row">
             <div class="col-sm-6" id="bike-gallery">
-                <h3>GALERIJA</h3>
+                <h3>GALERIE</h3>
                                 <!-- galerija -->
                     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
@@ -39,7 +39,7 @@
                         
             </div>
             <div class="col-sm-6" id="cjenik">
-                <h3>BICIKLI</h3>
+                <h3>BIKES</h3>
                 <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                             <div class="panel-body">
                                     <div id="links2">
@@ -74,7 +74,7 @@
         </div>
     </div>
     <div class="container cjenik-btn">
-        <a href="#cjenik-bikes" class="btn btn-block btn-primary cjenik-btn" data-toggle="modal" role="button" data-target="#cjenik-bikes">CJENIK</a>
+        <a href="#cjenik-bikes" class="btn btn-block btn-primary cjenik-btn" data-toggle="modal" role="button" data-target="#cjenik-bikes">PREIS LISTE</a>
 
     </div>
     <br>

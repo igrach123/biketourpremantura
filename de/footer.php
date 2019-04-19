@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="" id="map">
-                    <h2>VISIT US</h2>
+                    <h2>FINDEN SIE UNS</h2>
                     <div class="google-maps">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d38094.689198160864!2d13.958886755066738!3d44.79294009379744!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9544cb64a3fa26f9!2sRent+a+Bike+Centar!5e0!3m2!1sen!2shr!4v1522863383452"
@@ -12,8 +12,8 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <h2 class="text-center">Contact Us:</h2>
-                <h4 class="text-center ">Send us a message!</h4>
+                <h2 class="text-center">Kontaktiren Sie Uns:</h2>
+                <h4 class="text-center ">Schick uns eine Nachricht!</h4>
 
                 <form role="form" method="post" id="reused_form">
                     <div class="form-group">
@@ -68,7 +68,7 @@
         <div class="row footer-top clearfix">
 
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content ">
-                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> CONTACT</h4>
+                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> KONTAKT</h4>
                 <ul>
                     <li>
                         <h5>R.T.O. - Boris Ivančić </h5>
@@ -104,7 +104,7 @@
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content visible-xs hidden-sm visible-md visible-lg   ">
-                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> WEATHER</h4>
+                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> WETTER</h4>
                 <ul>
                     <li><a href="http://meteo.hr/index.php" target="_blank">meteo.hr</a></li>
                     <li><a href="http://www.arso.gov.si/vreme/napovedi%20in%20podatki/index.html"
@@ -114,7 +114,7 @@
                 <!--  footer weather modal-->
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content visible-xs hidden-sm  visible-md visible-lg ">
-                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> ACCOMMODATION</h4>
+                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> UNTERKUNFT</h4>
                 <ul>
                     <li><a href="https://www.arenaturist.com/" target="_blank">arenaturist.com</a></li>
                     <li><a href="http://www.tzom.hr/" target="_blank">tzcom.hr</a></li>
