@@ -89,7 +89,7 @@
             </div>
         </div>
 
-        <div class="text-center">
+        <div class="text-center container">
             <a href="#custom-tour" class="btn btn-block cjenik-btn btn-primary" data-toggle="modal" role="button"
                 data-target="#custom-tour">IZRADI SAM SVOJ IZLET!</a>
         </div>

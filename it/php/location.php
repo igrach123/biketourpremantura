@@ -1,56 +1,128 @@
 <section class="container-fluid clearfix" id="location">
-	<div class="container">
-		<h2>VISIT US</h2>
-		<div class="row">
-			<div class="col-sm-6  col-sm-offset-3 col-md-4 col-md-offset-0 s-container ">
-				<div class="col-xs-offset-1 col-xs-10 col-md-offset-0 col-md-12 location-bg-1 card-1" >
-					<a href="#location-permantura"  data-toggle="modal" role="button" data-target="#location-permantura">
-						<h3>Windsurf centar <span> Premantura</span></h3>
-						
+    <div class="container">
+        <h2>OUR CENTERS</h2>
+        <div class="row card-1 white-bg">
+            <div class="col-xs-12 col-md-6 no-padding">
+                <img src="../img/centar-bike.jpg" class="img-responsive card-2" alt="bike centar Premantura">
+            </div>
 
-					</a>
-				</div>	
-			</div>
-
-			<div class="col-sm-6 col-md-4 s-container ">
-				<div class="col-xs-offset-1 col-xs-10 col-md-offset-0 col-md-12 location-bg-2 card-2" >
-					<a href="#location-medulin"  data-toggle="modal" role="button" data-target="#location-medulin">
-						<h3>Windsurf centar <span> Medulin</span></h3>
-						
-
-					</a>
-				</div>	
-			</div>
-
-			<div class="col-sm-6 col-md-4 s-container">
-				<div class="col-xs-offset-1 col-xs-10 col-md-offset-0 col-md-12 location-bg-3 card-1" >
-					<a href="#location-bike"  data-toggle="modal" role="button" data-target="#location-bike">
-						<h3>Bike centar <span> Premantura</span></h3>
-						
-					</a>
-				</div>	
-			</div>
-		</div>
-
-<br>
-	
-	<div class="row" id="vrijeme-bg ">	
-
-		
-			<div class=" col-xs-12 text-center  pmd-z-depth-1 hidden-xs ">
-		                  <script type="text/javascript" src="https://www.windfinder.com/widget/forecast/js/kamenjak_peninsula_stupice?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&columns=3&days=3&show_day=1&show_pressure=0&show_rain=0"></script><noscript><a rel='nofollow' href='https://www.windfinder.com/forecast/kamenjak_peninsula_stupice?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-forecast'>Wind forecast for Kamenjak Peninsula / Stupice</a> provided by <a rel='nofollow' href='https://www.windfinder.com?utm_source=forecast&utm_medium=web&utm_campaign=homepageweather&utm_content=noscript-logo'>windfinder.com</a></noscript>
-		    </div>
+            <div class="col-xs-12 col-md-6">
 
 
-	</div>
-	
-</div><!-- container	 -->	
+                <h3 class="text-center">Bike Center <span> Premantura </span> </h3>
+                <P>The full experience of the nature of Kamenjakana is a mountain bike ride. Bicycles can be rented
+                    individually or reserved for an organized excursion. We rent bicycles at two locations: in
+                    Premantura on the road to the Stupice camp, close to house number 63 and opposite Surf Bar and
+                    Stupice camp. We offer several types of bikes, both in size and quality.</P>
 
-	<br class="hidden-xs">
-	<br class="hidden-xs">
-		
-	
+                <hr>
+                <div class="pmd-card-actions col-xs-6">
+                    <a class="facebook-modal-link btn-success btn"
+                        href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/" target="_blank"><span
+                            class="fa fa-facebook"> Visit Us</span></a>
+                    <iframe class="facebook-modal-iframe"
+                        src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FRENT-A-BIKE-Premantura-917457535047303%2F&width=140&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477"
+                        width="140" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+                        allowTransparency="true"></iframe>
+                </div>
 
 
-	
+
+
+            </div>
+        </div>
+        <br>
+        <br>
+        <!-- bottom-locations -->
+        <div class="row">
+            <div class="col-sm-6  drugi-location">
+                <div class="row card-1 white-bg" data-mh="my-other-group">
+
+                    <div class="col-xs-12 col-sm-12 col-md-12 l-img-holder ">
+                        <a href="https://windsurfing.hr/" target="_blank">
+                            <img class=" img-responsive" src="../img/centri/premanutra-small.jpg"
+                                alt="Windsurf Centar Premantura">
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 pb-10">
+                        <h4 class=> <a href="https://windsurfing.hr/" target="_blank"> Windsurf Centar Premantura </a>
+                        </h4>
+                        <hr>
+                        <p>The Windsurfing Centre is located in the Arena Stupice Campsite where accommodation is
+                            available.
+                        </p>
+                        <div class="l-iconi-wrapper clearfix">
+                            <div> <span class="l-iconi text-center"><img class="img-responsive"
+                                        src="../img/iconi/surf.png" alt="surf-icon"> </span> </div>
+                            <div> <span class="l-iconi text-center"><img class="img-responsive"
+                                        src="../img/iconi/kayak.png" alt="surf-icon"> </span> </div>
+                            <div> <span class="l-iconi text-center"><img class="img-responsive"
+                                        src="../img/iconi/bike.png" alt="surf-icon"> </span> </div>
+                            <div> <span class="l-iconi text-center"><img class="img-responsive"
+                                        src="../img/iconi/snorkel.png" alt="surf-icon"> </span> </div>
+                            <div> <span class="l-iconi text-center"><img class="img-responsive"
+                                        src="../img/iconi/sup.png" alt="surf-icon"> </span> </div>
+                        </div>
+                        <hr>
+                    </div>
+
+                    <div class="pmd-card-actions ">
+                        <a class="facebook-modal-link btn-success btn"
+                            href="https://www.facebook.com/Windsurfing-Center-Premantura-353020854723902/"
+                            target="_blank"><span class="fa fa-facebook"> Visit Us:</span></a>
+                        <iframe class="facebook-modal-iframe"
+                            src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FWindsurfing-Center-Premantura-353020854723902%2F%3Fref%3Dbr_rs&amp;width=147&amp;layout=button_count&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=46&amp;appId=867309230068477"
+                            width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+                            allowtransparency="true"></iframe>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class=" col-sm-6  drugi-location">
+                <div class="row card-1 white-bg " data-mh="my-other-group">
+
+                    <div class="col-xs-12 col-sm-12 col-md-12  l-img-holder ">
+
+                        <a href="#">
+                            <img class=" img-responsive" src="../img/centri/medulin-small.jpg"
+                                alt="Windsurf Centar Medulin">
+                        </a>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-12 pb-10">
+                        <h4 class=> <a href="https://windsurfing.hr/" target="_blank"> Windsurf Centar Medulin </a>
+                        </h4>
+                        <hr>
+                        <p>Our Centre in Medulin is located in the Arena Medulin Campsite , which offers the closest
+                            available accommodation. Being a tourist resort Medulin offers all kinds of accommodation,
+                            from hotels to camps.</p>
+                        <div class="l-iconi-wrapper clearfix">
+                            <div> <span class="l-iconi text-center"><img class="img-responsive"
+                                        src="../img/iconi/surf.png" alt="surf-icon"> </span> </div>
+                            <div> <span class="l-iconi text-center"><img class="img-responsive"
+                                        src="../img/iconi/kayak.png" alt="surf-icon"> </span> </div>
+                            <div> <span class="l-iconi text-center"><img class="img-responsive"
+                                        src="../img/iconi/sup.png" alt="surf-icon"> </span> </div>
+                        </div>
+                        <hr>
+                    </div>
+
+                    <div class="pmd-card-actions">
+                        <a class="facebook-modal-link btn-success btn"
+                            href="https://www.facebook.com/Windsurfing-Center-Premantura-353020854723902/"
+                            target="_blank"><span class="fa fa-facebook"> Visit Us:</span></a>
+                        <iframe class="facebook-modal-iframe"
+                            src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FWindsurfing-Center-Premantura-353020854723902%2F%3Fref%3Dbr_rs&amp;width=147&amp;layout=button_count&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=46&amp;appId=867309230068477"
+                            width="147" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+                            allowtransparency="true"></iframe>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
 </section> <!-- end of section  -->

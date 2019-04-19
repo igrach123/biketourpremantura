@@ -1,42 +1,4 @@
-<!--  <?php  
 
-if ($_POST['submit']) {
-
-  if (!$_POST['name']) {
-    $error="<br/>- Please enter your name";
-  }
-  if (!$_POST['email']) {
-    $error.="<br/>- Please enter your email";
-  }
-  if (!$_POST['message'] ){
-    $error.="<br/>- Please enter your message";
-  }
-
-  $human = intval($_POST['human']);
-  if ($human !== 5) {
-      $error = 'Your anti-spam is incorrect';
-    }
-    if(isset($_POST['url']) && $_POST['url'] == '')
-
-  if ($error) {
-    $result='<div class="alert alert-danger" role="alert"><strong>Whoops, there is an error!</strong> Please correct the following: '.$error.'</div>';
-  } else {
-    mail("bivancic@yahoo.com" , "Contact message", "
-      Name: ".$_POST['name'] ."
-      Email: ".$_POST['email']."
-      Message:".$_POST['message'] ."
-      ".$_POST['sightseeing']."
-      ".$_POST['boattrip']."
-      ".$_POST['biketour']
-      );
-
-    {
-    $result='<div class="alert alert-success" role="alert"><strong>Thank you</strong>, We will contact you shortly!</div>';
-    }
-  }
-}
-?> 
- -->
 <!doctype html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
@@ -106,8 +68,9 @@ if ($_POST['submit']) {
             <a class="play-pause"></a>
             <ol class="indicator"></ol>
         </div>
-
-       <?php include "header.php"; ?>
+      
+      <?php include "../php/variables.php"; ?>
+      <?php include "header.php"; ?>
         <div class="clearfix"></div> 
 
 
@@ -116,26 +79,27 @@ if ($_POST['submit']) {
         <!--  CONTENT WRAPPER-->
     <div class="container-fluid" id="content-wrapper" >
         
-         <!-- about-us -->
-        <?php include "php/about-us.php" ?>
         
         <!-- services -->
-        <?php include "php/services.php"; ?>
-            <!-- services modals -->
-            <?php include "php/services-windsurf.php"; ?>
-            <?php include "php/services-kayaking.php"; ?>
-            <?php include "php/services-bike.php"; ?>
-            <?php include "php/services-sup.php"; ?>
-            <?php include "php/services-snorkeling.php"; ?>
-            <?php include "php/services-rental.php"; ?>
+      <!-- services -->
+      <?php include "php/services.php"; ?>
+        <!-- services modals -->
+        <?php include "php/services-pdnevni.php"; ?>
+        <?php include "php/services-cdnevni.php"; ?>
+        <?php include "php/services-urbana.php"; ?>
+        <?php include "php/services-enduro.php"; ?>
+        <?php include "php/custom-tour.php"; ?>
+
         <!-- end of services     -->
 
         <!-- location -->
         <?php include "php/location.php" ?>
-            <?php include "php/location-permantura.php" ?>
-            <?php include "php/location-medulin.php" ?>
-            <?php include "php/location-bike.php" ?>
-        <?php include "php/partner-slide.php" ?>    
+        <?php include "php/bike-cjenik.php"?>
+        <?php include "php/cjenik-bikes.php"?>
+        <?php include "php/location-permantura.php" ?>
+        <?php include "php/location-medulin.php" ?>
+        <?php include "php/location-bike.php" ?>
+        <?php include "php/partner-slide.php" ?>
     
     </div> <!-- end of content wrapper -->
 

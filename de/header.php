@@ -16,14 +16,13 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                       <ul class=" nav navbar-nav navbar-left">
                             <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#home" class="scroll ">HOME</a></li>
-                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#about-us" class="scroll">&Uuml;BER UNS</a></li>
-                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#services" class="scroll">SERVICES</a></li>
+                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#services" class="scroll">AUSFLÜGE</a></li>
                                 
                        </ul>
                        <ul class=" nav navbar-nav navbar-right">
                             <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#location" class="scroll">LOCATION</a></li> 
                             
-                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer" class="scroll">KONTAKT</a></li>
+                            <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer" class="scroll">CONTACT</a></li>
                             <li id="lang-id">
                                 <div class="dropdown language">
                                     <button class="btn btn-warning btn-xs dropdown-toggle language" type="button" data-toggle="dropdown">DE
@@ -41,94 +40,27 @@
                   </div><!-- /.container-->
                 </nav>
 
-         <h1 class="visible-xs">WINDSURFING<br>
-         <span class="small">PREMANTURA - MEDULIN</span></h1>
+                     <!--video backgorund-->
+     <div class="overlay hidden-xs hidden-sm"></div>
+    <video class="hidden-xs hidden-sm" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+        <source src="../video/kamenjak2.mp4" type="video/mp4">
+    </video>
+    <div class="container">
+        <div class="text-center">
 
-         <!-- bootstrap carousel-->
-         <div id="bootstrap-touch-slider" class="carousel bs-slider slide  control-round indicators-line hidden-xs clearfix" data-ride="carousel" data-pause="hover" data-interval="5000" >
+            <h1 class=""><?php echo "$the_sitetitle"; ?> </h1>
 
-            <!-- Indicators -->
-            <ol class="carousel-indicators hidden-sm">
-                <li data-target="#bootstrap-touch-slider" data-slide-to="0" class="active"></li>
-                <li data-target="#bootstrap-touch-slider" data-slide-to="1"></li>
-                <li data-target="#bootstrap-touch-slider" data-slide-to="2"></li>
-            </ol>
+        </div>
 
-            <!-- Wrapper For Slides -->
-            <div class="carousel-inner" role="listbox">
-                <!-- Third Slide -->
-                <div class="item active">
-                    <!-- Slide Background -->
-                    <img src="../img/hero-image-template-1.jpg" class="img-responsive" alt="Windsurfing"/>
-                    <div class="bs-slider-overlay"></div>
-
-                    <div class="container">
-                        <div class="row">
-                            <!-- Slide Text Layer -->
-                            <div class="slide-text slide_style_left container">
-                                <h2 data-animation="animated zoomInRight">Windsurfing</h2>
-                                <div data-animation="animated fadeInLeft slide_style_left"> 
-                                    <a href="#footer" class="btn btn-default" data-animation="animated fadeInLeft" data-scroll data-options='{ "easing": "easeInOutQuad" }'>    Kontakt
-                                    </a>
-                                    <a href="#about-us" class="btn btn-primary" data-animation="animated fadeInRight" data-scroll data-options='{ "easing": "easeInOutQuad" }'>
-                                     Mehr
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End of Slide -->
-
-                <!-- Second Slide -->
-                <div class="item">
-                    <!-- Slide Background -->
-                    <img src="../img/hero-image-template-2.jpg" class="img-responsive" alt="Windsurfing" />
-                    <div class="bs-slider-overlay"></div>
-                    <!-- Slide Text Layer -->
-                    <div class="slide-text slide_style_center container">
-
-                        <h2 data-animation="animated flipInX"> <span>Kayaking</span> </h2>
-                            <div data-animation="animated fadeInLeft slide_style_center"> 
-                                    <a href="#footer" class="btn btn-default" data-animation="animated fadeInLeft" data-scroll data-options='{ "easing": "easeInOutQuad" }'>    Kontakt
-                                    </a>
-                                    <a href="#about-us" class="btn btn-primary" data-animation="animated fadeInRight" data-scroll data-options='{ "easing": "easeInOutQuad" }'>
-                                     Mehr
-                                    </a>
-                            </div>
-                    </div>
-                </div>
-                <!-- End of Slide -->
-                <!-- Third Slide -->
-                <div class="item">
-                    <!-- Slide Background -->
-                   <img src="../img/hero-image-template-3.jpg" class="img-responsive" alt="Windsurfing" />
-                    <div class="bs-slider-overlay"></div>
-                    <!-- Slide Text Layer -->
-                    <div class="slide-text slide_style_right container">
-                        <h2 data-animation="animated zoomInLeft">Biking</h2>
-                            <div data-animation="animated fadeInLeft slide_style_right"> 
-                                    <a href="#footer" class="btn btn-default" data-animation="animated fadeInLeft" data-scroll data-options='{ "easing": "easeInOutQuad" }'>    Kontakt
-                                    </a>
-                                    <a href="#about-us" class="btn btn-primary" data-animation="animated fadeInRight" data-scroll data-options='{ "easing": "easeInOutQuad" }'>
-                                     Mehr
-                                    </a>
-                            </div>       
-                    </div>
-                </div>
-                <!-- End of Slide -->
-            </div><!-- End of Wrapper For Slides -->
-
-            <!-- Left Control -->
-            <a class="left carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="prev">
-                <span class="fa fa-angle-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
+        <div class="animated-arrow-down">
+            <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }'>
+                <svg class="arrows">
+                    <path class="a1" d="M0 0 L30 32 L60 0"></path>
+                    <path class="a2" d="M0 20 L30 52 L60 20"></path>
+                    <path class="a3" d="M0 40 L30 72 L60 40"></path>
+                </svg>
             </a>
+        </div>
+    </div>
 
-            <!-- Right Control -->
-            <a class="right carousel-control" href="#bootstrap-touch-slider" role="button" data-slide="next">
-                <span class="fa fa-angle-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div> <!-- End  bootstrap-touch-slider Slider -->
     </header>

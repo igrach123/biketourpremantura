@@ -17,7 +17,7 @@
 
                 <form role="form" method="post" id="reused_form">
                     <div class="form-group">
-                        <input type="text" placeholder="Ime" class="form-control" id="name" name="name" required
+                        <input type="text" placeholder="Name" class="form-control" id="name" name="name" required
                             maxlength="50">
                     </div>
                     <div class="form-group">
@@ -27,7 +27,7 @@
                     <div class="form-group">
 
                         <textarea class="form-control" type="textarea" name="message" id="message"
-                            placeholder="Vaša poruka ovdje!" maxlength="6000" rows="7"></textarea>
+                            placeholder="Your message  here!" maxlength="6000" rows="7"></textarea>
                     </div>
                     <div class="row" style="margin-bottom:30px;">
                         <div class="col-sm-5">
@@ -36,7 +36,7 @@
                             <a id="captcha_reload" href="#">reload</a>
                         </div>
                         <div class="col-sm-6">
-                            <input type="text" placeholder="Unesite kod s slike!" class="form-control" required
+                            <input type="text" placeholder="Enter the code!" class="form-control" required
                                 id="captcha" name="captcha">
                         </div>
                     </div>

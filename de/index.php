@@ -9,7 +9,7 @@
     <head>
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-            <title>Windsurfing Premantura - Medulin</title>
+            <title>Rent a Bike Premantura</title>
             <meta name="viewport" content="width=device-width, initial-scale=1">
           
             <!-- favicon setup -->
@@ -78,22 +78,25 @@
         <!--  CONTENT WRAPPER-->
     <div class="container-fluid" id="content-wrapper" >       
         <!-- services -->
-        <?php include "php/services.php"; ?>
-            <!-- services modals -->
-            <?php include "php/services-windsurf.php"; ?>
-            <?php include "php/services-kayaking.php"; ?>
-            <?php include "php/services-bike.php"; ?>
-            <?php include "php/services-sup.php"; ?>
-            <?php include "php/services-snorkeling.php"; ?>
-            <?php include "php/services-rental.php"; ?>
+         <!-- services -->
+         <?php include "php/services.php"; ?>
+        <!-- services modals -->
+        <?php include "php/services-pdnevni.php"; ?>
+        <?php include "php/services-cdnevni.php"; ?>
+        <?php include "php/services-urbana.php"; ?>
+        <?php include "php/services-enduro.php"; ?>
+        <?php include "php/custom-tour.php"; ?>
+
         <!-- end of services     -->
 
         <!-- location -->
         <?php include "php/location.php" ?>
-            <?php include "php/location-permantura.php" ?>
-            <?php include "php/location-medulin.php" ?>
-            <?php include "php/location-bike.php" ?>
-        <?php include "php/partner-slide.php" ?>    
+        <?php include "php/bike-cjenik.php"?>
+        <?php include "php/cjenik-bikes.php"?>
+        <?php include "php/location-permantura.php" ?>
+        <?php include "php/location-medulin.php" ?>
+        <?php include "php/location-bike.php" ?>
+        <?php include "php/partner-slide.php" ?>
     
     </div> <!-- end of content wrapper -->
 
