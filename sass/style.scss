@@ -868,6 +868,10 @@ header {
       width: 60%;
     }
   }
+  .title {
+    text-transform: uppercase;
+    padding-bottom: 20px;
+  }
   h2 {
     color: $bg-grey-lighter;
   }
@@ -1944,4 +1948,5 @@ body.modal-open[style] {
 }
 .modal-title {
   color: $main-blue;
+  text-transform: uppercase;
 }

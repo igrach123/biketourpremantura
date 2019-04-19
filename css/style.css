@@ -540,6 +540,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services { padding-bottom: 80px; background-color: #03a9f5; background-image: linear-gradient(to right top, #845ec2, #756ed1, #647dde, #4f8be8, #3798ef, #00a8ef, #00b6e9, #00c2df, #1bcebf, #73d492, #bad26a, #ffc75f); background-attachment: fixed; background-size: cover; }
 @media only screen and (min-width: 320px) { #services .cjenik-btn { word-wrap: break-word; margin-top: 25px; width: 100%; padding: 15px; } }
 @media only screen and (min-width: 480px) { #services .cjenik-btn { margin-left: 20%; width: 60%; } }
+#services .title { text-transform: uppercase; padding-bottom: 20px; }
 #services h2 { color: #fafafa; }
 #services h5 { color: red; }
 #services .izleti-row { max-width: 1920px; margin: 0 auto; }
@@ -550,6 +551,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #services .t-1 p, #services .t-2 p, #services .t-3 p, #services .t-4 p { background-color: rgba(3, 169, 245, 0.5); margin-left: 10%; margin-right: 10%; padding: 5px; margin-bottom: 0; }
 #services .t-1 .badge, #services .t-2 .badge, #services .t-3 .badge, #services .t-4 .badge { background-color: rgba(3, 169, 245, 0.5); padding: 10px; }
 #services .t-1 h3, #services .t-2 h3, #services .t-3 h3, #services .t-4 h3 { color: #ffffff; text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); }
+#services .t-1 .pmd-card-actions, #services .t-2 .pmd-card-actions, #services .t-3 .pmd-card-actions, #services .t-4 .pmd-card-actions { margin-top: 15px; }
 #services .t-1 { background-image: url("../img/izleti/poludnevni-m.jpg"); background-position: center center; background-repeat: no-repeat; background-color: grey; background-size: cover; }
 #services .t-1:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
 #services .t-2:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
@@ -786,6 +788,6 @@ body.modal-open[style] { padding-right: 0px !important; padding-left: 0px !impor
 
 .modal-body p { padding-top: 10px; padding-bottom: 20px; }
 
-.modal-title { color: #03a9f5; }
+.modal-title { color: #03a9f5; text-transform: uppercase; }
 
 /*# sourceMappingURL=style.css.map */

@@ -6,35 +6,29 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">HALF DAY EXCURSION</h4>
+                <h4 class="modal-title">Halbtagsausflug </h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">About the Trip</h5>
-                <p class="text-muted"> <b>The half-day excursion </b> by mountain bike starts at 09:00 h and at 13:00 h.
-                    Excursions by bike must be booked at least one day in advance. The excursion begins and finishes in
-                    Premantura at our centre near the house number 63 (opposite the Surf Bar). The half-day excursion
-                    includes biking along the bicycle trail on the GornjiKamenjak, a stop and ride along the dinosaur
-                    path withits dinosaur footprints and swimming at secluded beaches. The pace of the excursion is
-                    decided by the guide with the aim to make this a safe and practicable experience for everyone
-                    present. The distance covered is of about 15 km.
+                <p class="text-muted"> <b> Halbtagsausflug  </b> mit dem Geländefahrrad beginnt wahlweise um 9 Uhr oder um 13 Uhr. Die Tour muss mindestens einen Tag im Voraus gebucht werden. Ausgangs- und Rückkehrort ist unser Zentrum in Premanturanahe der Hausnummer 63 (gegenüber des Surf Bars). Die Tour führt über die Radwege des Unteren Kamenjaksund bietet die Erkundung vonSaurierspuren imDinoparksowie Badespaß an entlegenen Stränden. Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst. Es werden rund 15 Km zurückgelegt
                     <br>
                     <br>
-                    <b>DURATION:</b> about 4h.
+                    <b>DAUER:</b>  4h.
                     <br>
-                    <b>PRICE:</b> 350,00 HRK.
+                    <b>PREIS:</b> 350,00 HRK.
                 </p>
                 <hr>
 
-                <p class="text-muted"><b>Half day excursion includes:</b></p>
+                <p class="text-muted"><b>Halbtagsausflug  beinhaltet</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Guide</li>
+                        Tourleiter</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Bycicle</li>
+                    Geländefahrrad</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Fruit and water</li>
+                    Obst & Wasser</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Safety equipment</li>
+                    Sicherheitsausstattung</li>
                 </ul>
 
 
@@ -44,8 +38,8 @@
 
 
 
-                <p class="text-muted"><b>PRICE</b> FOR GROUPS 10-15 PERSONS <span class="badge badge-info">-10%</span> /
-                    <b>PRICE</b> FOR GROUPS OVER 15 PERSONS <span class="badge badge-info">-20%</span> </p>
+                <p class="text-muted"><b>PREIS</b> FUR GRUPPEN 10-15 PAX <span class="badge badge-info">-10%</span> /
+                    <b>PRICE</b> FUR  GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
                 <hr>
 
 
