@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Rent a bike Premantura</title>
+    <title>Rent a Bike Premantura</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- favicon setup -->
@@ -34,9 +34,9 @@
     <link href="http://www.windsurfing.hr/index.php" rel="canonical" />
     <link href="../en/index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
-        content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
+        content="Rent a Bike Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike">
     <meta name="description"
-        content="Windsurfing centar Premantura Hrvatska, Windsurfing centro Premantura Croazia, Windsurfing center Premantura Croatia, school, rental,rent a bike">
+        content="Rent a Bike Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike">
     <meta http-equiv="content-language" content="it,hr">
     <!--main bootstrap stylesheet-->
     <link rel="stylesheet" href="../css/bootstrap.min.css">
@@ -116,25 +116,7 @@
     <!--JavaScript, jquerry and plugins-->
     <script src="../js/vendor/jquery.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
-    <!--   
-        <script type="text/javascript" src="js/owl.carousel.min.js"></script>
-        <script src="js/vendor/jquery.matchHeight.js" type="text/javascript"></script>
-
-        <script src="js/vendor/smooth-scroll.min.js"></script> 
-        <script src="js/vendor/blueimp-gallery.min.js"></script>
-       
-        <script src="js/echo.min.js"></script> -->
-
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ac0f8a1b1b5a818"></script>
-
-
-
-
-
-
-
-
+    <script src="form.js"></script>
     <script src="../js/main-js-backup-min.js"></script>
 
 </body>

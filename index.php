@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Rent a bike Premantura</title>
+    <title>Rent a Bike Premantura</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon setup -->
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
@@ -33,9 +33,9 @@
     <link href="#" rel="canonical" /> <!-- dodati stranicu na kraju -->
     <link href="en/index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
-        content="Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike">
+        content="Rent a Bike Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike">
     <meta name="description"
-        content="Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike">
+        content="Rent a Bike Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike">
     <meta http-equiv="content-language" content="hr,en">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">

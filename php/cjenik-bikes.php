@@ -16,7 +16,7 @@
                                 <th scope="col">POLUDNEVNI IZLET</th>
                                 <th scope="col">CJELODNEVNI IZLET</th>
                                 <th scope="col">URBANA GRADSKA TURA - PULA</th>
-                                <th scope="col">ENDURO TOURS</th>
+                                <th scope="col">ENDURO TOURS KAMENJAK</th>
                             </tr>
                         </thead>
                         <tbody>

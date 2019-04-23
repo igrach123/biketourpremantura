@@ -36,8 +36,8 @@
                             <a id="captcha_reload" href="#">reload</a>
                         </div>
                         <div class="col-sm-6">
-                            <input type="text" placeholder="Enter the code!" class="form-control" required
-                                id="captcha" name="captcha">
+                            <input type="text" placeholder="Enter the code!" class="form-control" required id="captcha"
+                                name="captcha">
                         </div>
                     </div>
                     <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">SEND</button>
@@ -157,7 +157,9 @@
             </div>
             <div class="footer-bottom-right">
                 <a href="https://www.cro-webdesign.com/" target="_blank">
-                    <p class="text-left hidden-xs izradio">Cro Web Design</p>
+                    <p class="text-center hidden-xs izradio">POWERED BY:<br>
+                        <span class="cw-logo"></span>
+                    </p>
                 </a>
             </div>
         </div>

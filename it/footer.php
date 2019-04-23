@@ -12,8 +12,8 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <h2 class="text-center">Contact Us:</h2>
-                <h4 class="text-center ">Send us a message!</h4>
+                <h2 class="text-center">Contattaci:</h2>
+                <h4 class="text-center ">Mandaci un messaggio!</h4>
 
                 <form role="form" method="post" id="reused_form">
                     <div class="form-group">
@@ -36,8 +36,8 @@
                             <a id="captcha_reload" href="#">reload</a>
                         </div>
                         <div class="col-sm-6">
-                            <input type="text" placeholder="Enter the code!" class="form-control" required
-                                id="captcha" name="captcha">
+                            <input type="text" placeholder="Enter the code!" class="form-control" required id="captcha"
+                                name="captcha">
                         </div>
                     </div>
                     <button type="submit" class="btn btn-lg btn-default" id="btnContactUs">SEND</button>
@@ -68,7 +68,7 @@
         <div class="row footer-top clearfix">
 
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content ">
-                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> CONTACT</h4>
+                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> CONTATTO</h4>
                 <ul>
                     <li>
                         <h5>R.T.O. - Boris Ivančić </h5>
@@ -104,7 +104,7 @@
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content visible-xs hidden-sm visible-md visible-lg   ">
-                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> WEATHER</h4>
+                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> TEMPO</h4>
                 <ul>
                     <li><a href="http://meteo.hr/index.php" target="_blank">meteo.hr</a></li>
                     <li><a href="http://www.arso.gov.si/vreme/napovedi%20in%20podatki/index.html"
@@ -114,7 +114,7 @@
                 <!--  footer weather modal-->
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content visible-xs hidden-sm  visible-md visible-lg ">
-                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> ACCOMMODATION</h4>
+                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> ALLOGGIO</h4>
                 <ul>
                     <li><a href="https://www.arenaturist.com/" target="_blank">arenaturist.com</a></li>
                     <li><a href="http://www.tzom.hr/" target="_blank">tzcom.hr</a></li>
@@ -126,7 +126,7 @@
 
         <div class="row footer-top2 visible-sm hidden-md hidden-lg">
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content ">
-                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> WEATHER</h4>
+                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> TEMPO</h4>
                 <ul>
                     <li><a href="http://meteo.hr/index.php" target="_blank">meteo.hr</a></li>
                     <li><a href="http://www.arso.gov.si/vreme/napovedi%20in%20podatki/index.html"
@@ -137,7 +137,7 @@
                 <!--  footer weather modal-->
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content ">
-                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> ACCOMMODATION</h4>
+                <h4 class=""> <span><i class="fa fa-caret-right"></i></span> ALLOGGIO</h4>
                 <ul>
                     <li><a href="https://www.arenaturist.com/" target="_blank">arenaturist.com</a></li>
                     <li><a href="http://www.tzom.hr/" target="_blank">tzcom.hr</a></li>
@@ -157,7 +157,9 @@
             </div>
             <div class="footer-bottom-right">
                 <a href="https://www.cro-webdesign.com/" target="_blank">
-                    <p class="text-left hidden-xs izradio">Cro Web Design</p>
+                    <p class="text-center hidden-xs izradio">POWERED BY:<br>
+                        <span class="cw-logo"></span>
+                    </p>
                 </a>
             </div>
         </div>
