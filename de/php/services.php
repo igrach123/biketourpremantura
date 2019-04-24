@@ -1,4 +1,4 @@
-<section class="container-fluid" id="services">
+<section id="services">
     <div class="container-fluid">
         <h2>AUSFLÜGE</h2>
         <div class="row izleti-row">
@@ -48,7 +48,7 @@
             </div>
             <div class="col-sm-6 col-lg-3 col-5px service-wrap">
                 <div class="t-3" data-mh="my-group">
-                    <div class="price-bg badge"> 350 kn</div>
+                    <div class="price-bg badge"> 4+ 350 kn/pers.</div>
                     <h3 class="title">Urban Stadtausflug Pula</h3>
                     <div class="overlay"></div>
                     <p>Tourleiter</p>
@@ -68,7 +68,7 @@
             </div>
             <div class="col-sm-6 col-lg-3 col-5px service-wrap">
                 <div class="t-4" data-mh="my-group">
-                    <div class="price-bg badge"> 350 kn</div>
+                    <div class="price-bg badge"> 4+ 350 kn/pers.</div>
                     <h3 class="title">ENDURO TOUREN KAMENJAK</h3>
                     <div class="overlay"></div>
                     <p>Tourleiter</p>

@@ -8,7 +8,6 @@
 
             <div class="col-xs-12 col-md-6">
 
-
                 <h3 class="text-center">Bike centar <span> Premantura</span></h3>
                 <p>Potpuni doživljaj prirode Kamenjakana kopnunudivožnja brdskim biciklom.
                     Bicikle je moguće individualno unajmiti ili rezervirati organizirani izlet.

@@ -662,6 +662,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 #cjenik-bikes .modal-header h3 { text-align: center; font-size: 3rem; }
 #cjenik-bikes h4 { font-size: 2.4rem; padding: 30px; }
+#cjenik-bikes .text-muted { padding-top: 20px; padding-bottom: 20px; }
 
 #testimonial-slider { background-color: #ffffff; padding-top: 20px; padding-bottom: 40px; }
 

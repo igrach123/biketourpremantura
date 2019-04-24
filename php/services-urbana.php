@@ -18,8 +18,29 @@
                 <p>
                     <b>TRAJANJE:</b> oko 8h.
                     <br>
-                    <b>CIJENA:</b> 350 HRK.
+                    <b>CIJENA:</b>
                 </p>
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col" class="text-uppercase">1 PERSON</th>
+                                <th scope="col" class="text-uppercase">2 PERSONS</th>
+                                <th scope="col" class="text-uppercase">3 PERSONS</th>
+                                <th scope="col" class="text-uppercase">4+ PERSONS</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1000.00 kn</td>
+                                <td>500,00 kn</td>
+                                <td>400,00 kn</td>
+                                <td>350,00 kn</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
                 <hr>
                 <p class="text-muted"><b>Urbana gradska tura - Pula uključuje:</b></p>
                 <ul class="list-group">
@@ -34,72 +55,6 @@
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Sigurnosnu opremu</li>
                 </ul>
-
-
-                <h5 class="services-sm-title">GALERIJA</h5>
-                <!-- yt  video -->
-                <div class="row">
-                    <div class="col-xs-offset-2 col-xs-8">
-                        <div class="videoWrapper">
-                            <!-- Copy & Pasted from YouTube -->
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/kzYfKosyNnA?showinfo=0"
-                                frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                        </div>
-                    </div>
-
-                </div> <!-- row -->
-
-                <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                    <div class="panel-body">
-
-                        <div id="">
-                            <div class="imgwrapper botmargin card-2">
-                                <a href="img/bike/b1.jpg" title="windsurfing">
-                                    <img src="img/bike/b1_thumb.jpg" data-src="img/bike/b1_thumb.jpg"
-                                        class="img img-responsive img-rounded " alt="bike"></a>
-                            </div>
-                            <div class="imgwrapper botmargin card-2">
-                                <a href="img/bike/b2.jpg" title="windsurfing">
-                                    <img src="img/bike/b2_thumb.jpg" data-src="img/bike/b2_thumb.jpg"
-                                        class="img img-responsive img-rounded " alt="bike"></a>
-                            </div>
-                            <div class="imgwrapper botmargin card-2">
-                                <a href="img/bike/b3.jpg" title="windsurfing">
-                                    <img src="img/bike/b3_thumb.jpg" data-src="img/bike/b3_thumb.jpg"
-                                        class="img img-responsive img-rounded " alt="bike"></a>
-                            </div>
-                            <div class="imgwrapper botmargin card-2">
-                                <a href="img/bike/b4.jpg" title="windsurfing">
-                                    <img src="img/bike/b4_thumb.jpg" data-src="img/bike/b4_thumb.jpg"
-                                        class="img img-responsive img-rounded " alt="bike"></a>
-                            </div>
-                            <div class="imgwrapper botmargin card-2">
-                                <a href="img/bike/b5.jpg" title="windsurfing">
-                                    <img src="img/bike/b5_thumb.jpg" data-src="img/bike/b5_thumb.jpg"
-                                        class="img img-responsive img-rounded " alt="bike"></a>
-                            </div>
-                            <div class="imgwrapper botmargin card-2">
-                                <a href="img/bike/b6.jpg" title="windsurfing">
-                                    <img src="img/bike/b6_thumb.jpg" data-src="img/bike/b6_thumb.jpg"
-                                        class="img img-responsive img-rounded " alt="bike"></a>
-                            </div>
-                            <div class="imgwrapper botmargin card-2">
-                                <a href="img/bike/b7.jpg" title="windsurfing">
-                                    <img src="img/bike/b7_thumb.jpg" data-src="img/bike/b7_thumb.jpg"
-                                        class="img img-responsive img-rounded " alt="bike"></a>
-                            </div>
-                            <div class="imgwrapper botmargin card-2">
-                                <a href="img/bike/b8.jpg" title="windsurfing">
-                                    <img src="img/bike/b8_thumb.jpg" data-src="img/bike/b8_thumb.jpg"
-                                        class="img img-responsive img-rounded " alt="bike"></a>
-                            </div>
-
-                        </div>
-                    </div> <!-- panel body -->
-                </div>
-
-
-
 
                 <div class="pmd-card-actions col-xs-6">
 

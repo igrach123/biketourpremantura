@@ -18,8 +18,29 @@
                     <br> <br>
                     <b>DURATO:</b> about 5h-8h.
                     <br>
-                    <b>PREZZO:</b> 350,00 HRK.
+                    <b>PREZZO:</b>
                 </p>
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col" class="text-uppercase">1 PERSON</th>
+                                <th scope="col" class="text-uppercase">2 PERSON</th>
+                                <th scope="col" class="text-uppercase">3 PERSON</th>
+                                <th scope="col" class="text-uppercase">4+ PERSON</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1000.00 kn</td>
+                                <td>500,00 kn</td>
+                                <td>400,00 kn</td>
+                                <td>350,00 kn</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
                 <hr>
                 <p class="text-muted"><b>TOUR ENDURO KAMENJAK includee:</b></p>
                 <ul class="list-group">

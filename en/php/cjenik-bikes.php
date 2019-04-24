@@ -23,8 +23,26 @@
                             <tr>
                                 <td>300.00 kn</td>
                                 <td>450,00 kn</td>
-                                <td>350,00 kn</td>
-                                <td>350,00 kn</td>
+                                <td>350,00 kn / 4+ PERSONS</td>
+                                <td>350,00 kn / 4+ PERSONS</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>400,00 kn / 3 PERSONS</td>
+                                <td>400,00 kn / 3 PERSONS</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>500,00 kn / 2 PERSONS</td>
+                                <td>500,00 kn / 2 PERSONS</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>1000,00 kn / 1 PERSON</td>
+                                <td>1000,00 kn / 1 PERSON</td>
                             </tr>
 
                         </tbody>

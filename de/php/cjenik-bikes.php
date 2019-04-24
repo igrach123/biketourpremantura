@@ -23,8 +23,26 @@
                             <tr>
                                 <td>300.00 kn</td>
                                 <td>450,00 kn</td>
-                                <td>350,00 kn</td>
-                                <td>350,00 kn</td>
+                                <td>350,00 kn / 4+ PERSONS</td>
+                                <td>350,00 kn / 4+ PERSONS</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>400,00 kn / 3 PERSONS</td>
+                                <td>400,00 kn / 3 PERSONS</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>500,00 kn / 2 PERSONS</td>
+                                <td>500,00 kn / 2 PERSONS</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>1000,00 kn / 1 PERSON</td>
+                                <td>1000,00 kn / 1 PERSON</td>
                             </tr>
 
                         </tbody>
@@ -119,7 +137,7 @@
                     AFTERWARDS THEY WILL NOT BE ACCEPTED.
                     ANY DAMAGE TO THE BIKE WILL BE CHARGED ADDITIONALLY.
                 </div>
-                
+
                 <div class="pmd-card-actions col-xs-6">
                     <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"
