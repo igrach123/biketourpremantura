@@ -28,8 +28,6 @@
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         pranzo</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        cena</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         rutta & acqua</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         casco</li>

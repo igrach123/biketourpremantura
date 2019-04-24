@@ -7,7 +7,7 @@
             <div class="col-sm-6 col-lg-3 col-5px service-wrap ">
                 <div class="t-1" data-mh="my-group">
 
-                    <div class="price-bg badge"> 350 kn</div>
+                    <div class="price-bg badge"> 300 kn</div>
                     <h3 class="title">Escursione mezza giornata</h3>
                     <div class="overlay"></div>
                     <p>guida</p>
@@ -75,7 +75,6 @@
                     <p>pranzo</p>
                     <p>casco</p>
                     <p>frutta & acqua</p>
-                    <p>cena</p>
                     <!-- Card action -->
                     <div class="pmd-card-actions">
                         <a href="#services-sup" class="btn btn-primary riplle-effect" data-toggle="modal" role="button"

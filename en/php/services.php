@@ -7,7 +7,7 @@
             <div class="col-sm-6 col-lg-3 col-5px service-wrap ">
                 <div class="t-1" data-mh="my-group">
 
-                    <div class="price-bg badge"> 350 kn</div>
+                    <div class="price-bg badge"> 300 kn</div>
                     <h3 class="title">HALF DAY EXCURSION</h3>
                     <div class="overlay"></div>
                     <p>Guide</p>
@@ -54,7 +54,6 @@
                     <p>Guide</p>
                     <p>Bicycle</p>
                     <p>Launch</p>
-                    <p>Dinner</p>
                     <p>Fruit and water</p>
                     <p>Saftey equipment</p>
                     <!-- Card action -->
@@ -74,7 +73,6 @@
                     <div class="overlay"></div>
                     <p>Guide</p>
                     <p>Launch</p>
-                    <p>Dinner</p>
                     <p>Fruit and water</p>
                     <p>Saftey equipment</p>
                     <!-- Card action -->

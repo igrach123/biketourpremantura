@@ -29,13 +29,9 @@
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Vodiča</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Biciklu</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Voće i vodu</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Ručak</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Večaru</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Sigurnosnu opremu</li>
                 </ul>

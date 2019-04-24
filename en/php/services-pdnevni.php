@@ -21,7 +21,7 @@
                     <br>
                     <b>DURATION:</b> about 4h.
                     <br>
-                    <b>PRICE:</b> 350,00 HRK.
+                    <b>PRICE:</b> 300,00 HRK.
                 </p>
                 <hr>
 

@@ -8,8 +8,11 @@
                 <h4 class="modal-title">URBAN STADTAUSFLUG PULA</h4>
             </div>
             <div class="modal-body">
-            <h5 class="services-sm-title">Über den Ausflug</h5>
-                <p class="text-muted"><b> URBAN STADTAUSFLUG PULA.</b>  Der Beginn der Feldbesichtigung von Mars Erster Stopp Verudela Aquarienrundfahrt oder Schwimmen Der zweite Halt Valovine Schnorcheln in der Höhle (Colombi-Grotten) Third Stage Arena Arena Das vierte Stop-Forum Fünfte Haltestelle Golden Gate Kehre zum Marsfeld zurück
+                <h5 class="services-sm-title">Über den Ausflug</h5>
+                <p class="text-muted"><b> URBAN STADTAUSFLUG PULA.</b> Der Beginn der Feldbesichtigung von Mars Erster
+                    Stopp Verudela Aquarienrundfahrt oder Schwimmen Der zweite Halt Valovine Schnorcheln in der Höhle
+                    (Colombi-Grotten) Third Stage Arena Arena Das vierte Stop-Forum Fünfte Haltestelle Golden Gate Kehre
+                    zum Marsfeld zurück
                     <br> <br>
                     <b>DAUER:</b> about 5h.
                     <br>
@@ -20,17 +23,15 @@
                 <p class="text-muted"><b>URBAN STADTAUSFLUG PULA beinhaltet:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Tourleiter</li>
+                        Tourleiter</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Geländefahrrad</li>
+                        Geländefahrrad</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Mittagessen</li>
+                        Mittagessen</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Abendessen</li>
+                        Obst & Wasser</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Obst & Wasser</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Sicherheitsausstattung</li>
+                        Sicherheitsausstattung</li>
                 </ul>
 
 
@@ -41,8 +42,8 @@
 
 
                 <p class="text-muted"><b>PREIS</b> FUR GRUPPEN 10-15 PAX <span class="badge badge-info">-10%</span> /
-                    <b>PRICE</b> FUR  GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
-              
+                    <b>PRICE</b> FUR GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
+
 
 
                 <div class="pmd-card-actions col-xs-6">

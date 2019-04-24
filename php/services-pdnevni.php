@@ -20,7 +20,7 @@
                     <br>
                     <b>TRAJANJE:</b> oko 4h.
                     <br>
-                    <b>CIJENA:</b> 350,00 HRK.
+                    <b>CIJENA:</b> 300,00 HRK.
                 </p>
                 <hr>
 
