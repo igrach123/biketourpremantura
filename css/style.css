@@ -587,6 +587,14 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 .facebook-modal-iframe { display: inherit; }
 
+.facebook-modal-link { color: #ffffff !important; background-color: #3b5998 !important; margin-left: 0px !important; margin-top: 10px; }
+
+.facebook-modal-link:hover { color: #3b5998 !important; background-color: #ffffff !important; margin-left: 0px !important; margin-top: 10px; }
+
+.instagram-modal-link { color: #ffffff !important; background-color: #bc2a8d !important; margin-left: 0px !important; margin-top: 10px; border: 1px solid #bc2a8d; }
+
+.instagram-modal-link:hover { color: #bc2a8d !important; background-color: #ffffff !important; border: 1px solid #bc2a8d; margin-left: 0px !important; margin-top: 10px; }
+
 #services-kayaking h4 { background-image: url(../img/izleti/cjelodnevni.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 #services-kayaking .nav-tabs { border-bottom: 2px solid #ddd; }
 #services-kayaking .nav-tabs > li.active > a, #services-kayaking .nav-tabs > li.active > a:focus, #services-kayaking .nav-tabs > li.active > a:hover { border-width: 0; }

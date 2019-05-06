@@ -48,71 +48,15 @@
                 <hr>
 
 
-                <!-- galerija -->
-                <!-- <h5 class="services-sm-title">GALERIJA</h5>
-
-<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-  <div class="panel-body">
-
-    <div id="links">
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-1.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-1_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-2.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-2_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-3.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-3_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-4.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-4_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-5.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-5_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-6.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-6_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-7.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-7_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-8.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-8_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-9.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-9_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-10.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-10_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-11.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-11_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-        <div class="imgwrapper botmargin card-2">
-             <a href="img/windsurf/ws-s-12.jpg" title="windsurfing">
-            <img src="img/windsurf/ws-s-12_thumb.jpg"  class="img img-responsive img-rounded " alt="windsurf"></a>
-        </div>
-    </div>
-    </div> < panel body -->
-
-
 
 
                 <div class="pmd-card-actions col-xs-6">
-                    <a class="facebook-modal-link btn-success btn"
+                    VISIT US : <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"
-                        target="_blank"><span class="fa fa-facebook">POSJETITE NAS</span></a>
+                        target="_blank"><span class="fa fa-facebook"></span></a>
+                    <a class="instagram-modal-link  btn btn-danger"
+                        href="https://www.instagram.com/windsurfingcenterpremantura/" target="_blank">
+                        <span class="fa fa-instagram"></span></a>
                 </div>
 
                 <div class="modal-footer">

@@ -57,14 +57,12 @@
                 </ul>
 
                 <div class="pmd-card-actions col-xs-6">
-
-                    <a class="facebook-modal-link btn-success btn"
-                        href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/" target="_blank"><span
-                            class="fa fa-facebook">POSJETITE NAS</span></a>
-                    <iframe class="facebook-modal-iframe"
-                        src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FRENT-A-BIKE-Premantura-917457535047303%2F&width=140&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=867309230068477"
-                        width="140" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
-                        allowTransparency="true"></iframe>
+                    VISIT US : <a class="facebook-modal-link btn-success btn"
+                        href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"
+                        target="_blank"><span class="fa fa-facebook"></span></a>
+                    <a class="instagram-modal-link  btn btn-danger"
+                        href="https://www.instagram.com/windsurfingcenterpremantura/" target="_blank">
+                        <span class="fa fa-instagram"></span></a>
                 </div>
                 <div class="modal-footer row">
                     <button type="button" class="btn btn-primary" data-dismiss="modal">Zatvori</button>

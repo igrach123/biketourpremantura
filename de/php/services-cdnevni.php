@@ -8,11 +8,18 @@
                 <h4 class="modal-title text-uppercase">GANZTAGSAUSFLUG </h4>
             </div>
             <div class="modal-body">
-            <h5 class="services-sm-title">Über den Ausflug</h5>
-                <p class="text-muted">Ein <b> GANZTAGSAUSFLUG</b> mit dem Geländefahrrad beginnt um 9 Uhr. Die Tour muss mindestens einen Tag im Voraus gebucht werden. Ausgangs- und Rückkehrort ist unser Zentrum in Premanturanahe der Hausnummer 63 (gegenüber des Surf Bars). Die Tour führt über die Radwege des Unteren Kamenjaks, inklusive Erkundung von Saurierspuren im Dinopark und Badespaß an entlegenen Stränden, sowie über die Single-Trails des Oberen Kamenjaks. Das Mittagessen findet im Safari Bar statt. Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst. Es werden rund 30 Km zurückgelegt.
+                <h5 class="services-sm-title">Über den Ausflug</h5>
+                <p class="text-muted">Ein <b> GANZTAGSAUSFLUG</b> mit dem Geländefahrrad beginnt um 9 Uhr. Die Tour muss
+                    mindestens einen Tag im Voraus gebucht werden. Ausgangs- und Rückkehrort ist unser Zentrum in
+                    Premanturanahe der Hausnummer 63 (gegenüber des Surf Bars). Die Tour führt über die Radwege des
+                    Unteren Kamenjaks, inklusive Erkundung von Saurierspuren im Dinopark und Badespaß an entlegenen
+                    Stränden, sowie über die Single-Trails des Oberen Kamenjaks. Das Mittagessen findet im Safari Bar
+                    statt. Der Tourleiter bestimmt den Rhythmus des Ausflugs indem er seinen Ablauf den
+                    Sicherheitsbedingungen und das Tempo den Möglichkeiten aller Teilnehmer anpasst. Es werden rund 30
+                    Km zurückgelegt.
                     <br>
                     <br>
-                    <b>DAUER:</b>  8h.
+                    <b>DAUER:</b> 8h.
                     <br>
                     <b>PREIS:</b> 450,00 HRK.
                 </p>
@@ -21,15 +28,15 @@
                 <p class="text-muted"><b>GANZTAGSAUSFLUG beinhaltet:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Tourleiter</li>
+                        Tourleiter</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Geländefahrrad</li>
+                        Geländefahrrad</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Mittagessen</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Obst & Wasser</li>
+                        Obst & Wasser</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                    Sicherheitsausstattung</li>
+                        Sicherheitsausstattung</li>
                 </ul>
 
 
@@ -40,14 +47,17 @@
 
 
                 <p class="text-muted"><b>PREIS</b> FUR GRUPPEN 10-15 PAX <span class="badge badge-info">-10%</span> /
-                    <b>PRICE</b> FUR  GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
+                    <b>PRICE</b> FUR GRUPPEN MEHR ALS 15 PAX <span class="badge badge-info">-20%</span> </p>
                 <hr>
 
 
                 <div class="pmd-card-actions col-xs-6">
-                    <a class="facebook-modal-link btn-success btn"
+                    VISIT US : <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"
-                        target="_blank"><span class="fa fa-facebook">VISIT US</span></a>
+                        target="_blank"><span class="fa fa-facebook"></span></a>
+                    <a class="instagram-modal-link  btn btn-danger"
+                        href="https://www.instagram.com/windsurfingcenterpremantura/" target="_blank">
+                        <span class="fa fa-instagram"></span></a>
                 </div>
 
                 <div class="modal-footer">

@@ -1037,6 +1037,32 @@ header {
 .facebook-modal-iframe {
   display: inherit;
 }
+.facebook-modal-link {
+  color: $bg-white !important;
+  background-color: $facebook-blue !important;
+  margin-left: 0px !important;
+  margin-top: 10px;
+}
+.facebook-modal-link:hover {
+  color: $facebook-blue !important;
+  background-color: $bg-white !important;
+  margin-left: 0px !important;
+  margin-top: 10px;
+}
+.instagram-modal-link {
+  color: $bg-white !important;
+  background-color: $instagram-purple !important;
+  margin-left: 0px !important;
+  margin-top: 10px;
+  border: 1px solid $instagram-purple;
+}
+.instagram-modal-link:hover {
+  color: $instagram-purple !important;
+  background-color: $bg-white !important;
+  border: 1px solid $instagram-purple;
+  margin-left: 0px !important;
+  margin-top: 10px;
+}
 
 #services-kayaking {
   h4 {

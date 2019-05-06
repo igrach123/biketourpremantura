@@ -48,9 +48,12 @@
 
 
                 <div class="pmd-card-actions col-xs-6">
-                    <a class="facebook-modal-link btn-success btn"
+                    VISIT US : <a class="facebook-modal-link btn-success btn"
                         href="https://www.facebook.com/RENT-A-BIKE-Premantura-917457535047303/?__tn__=%2Cd%2CP-R&eid=ARB9kySoM_K-mo2UVIkjqMdzVsTRRAfYFHfSYqX1ZL_4bnwLixSzDLym9Kp71DZl4mBHLLYInYMTtouZ"
-                        target="_blank"><span class="fa fa-facebook">VISIT US</span></a>
+                        target="_blank"><span class="fa fa-facebook"></span></a>
+                    <a class="instagram-modal-link  btn btn-danger"
+                        href="https://www.instagram.com/windsurfingcenterpremantura/" target="_blank">
+                        <span class="fa fa-instagram"></span></a>
                 </div>
 
                 <div class="modal-footer">
