@@ -1649,9 +1649,20 @@ footer {
     color: #fff;
   }
   h4 {
+    @include xxs {
+      padding-bottom: 0px;
+    }
+    @include md {
+      padding-bottom: 10px;
+    }
     color: $bg-grey-strong;
     padding-bottom: 10px;
     text-transform: uppercase;
+  }
+  .our-sites {
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
   }
   h5 {
     color: $torkis-blue;

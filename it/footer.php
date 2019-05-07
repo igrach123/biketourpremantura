@@ -111,6 +111,11 @@
                             target="_blank">www.arsov.gov.si</a></li>
                     <li><a href="https://www.windguru.cz/21" target="_blank">windguru.cz</a></li>
                 </ul>
+                <h4 class="our-sites"> <span><i class="fa fa-caret-right"></i></span> OUR SITES</h4>
+                <ul>
+                    <li><a href="https://www.windsurfing.hr/" target="_blank"> windsurfing.hr</a></li>
+                    <li><a href="https://www.kayakingpremantura.com/" target="_blank">kayakingpremantura.com</a></li>
+                </ul>
                 <!--  footer weather modal-->
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 footer-content visible-xs hidden-sm  visible-md visible-lg ">
@@ -132,7 +137,11 @@
                     <li><a href="http://www.arso.gov.si/vreme/napovedi%20in%20podatki/index.html"
                             target="_blank">www.arsov.gov.si</a></li>
                     <li><a href="https://www.windguru.cz/21" target="_blank">windguru.cz</a></li>
-
+                </ul>
+                <h4 class="our-sites"> <span><i class="fa fa-caret-right"></i></span> OUR SITES</h4>
+                <ul>
+                    <li><a href="https://www.windsurfing.hr/" target="_blank"> windsurfing.hr</a></li>
+                    <li><a href="https://www.kayakingpremantura.com/" target="_blank">kayakingpremantura.com</a></li>
                 </ul>
                 <!--  footer weather modal-->
             </div>
