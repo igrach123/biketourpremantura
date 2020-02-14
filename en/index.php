@@ -34,9 +34,9 @@
     <link href="#" rel="canonical" />
     <link href="../index.php" rel="alternate" hreflang="hr">
     <meta name="keywords"
-        content="Rent a Bike Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike">
+        content="Rent a Bike Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike, Istra bike, bike tours, blue caves, kamenjak,nature park">
     <meta name="description"
-        content="Rent a Bike Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike">
+        content="Rent a Bike Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike,  Istra bike, bike tours, blue caves, kamenjak,nature park">
     <meta http-equiv="content-language" content="en,hr">
     <!--main bootstrap stylesheet-->
     <link rel="stylesheet" href="../css/bootstrap.min.css">
@@ -54,6 +54,7 @@
     <!--main stylesheet-->
     <link rel="stylesheet" href="../css/style.css">
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cbf64d6c7f6b60012eed9e4&product=sticky-share-buttons' async='async'></script>
 </head>
 
 <body data-spy="scroll" data-target="#myNavbar" data-offset="65" id="home-en">

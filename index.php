@@ -33,9 +33,9 @@
     <link href="#" rel="canonical" /> <!-- dodati stranicu na kraju -->
     <link href="en/index.php" rel="alternate" hreflang="en">
     <meta name="keywords"
-        content="Rent a Bike Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike">
+        content="Rent a Bike Premantura, Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, rental,rent a bike, Istra bike, bike tours, blue caves, kamenjak,nature park">
     <meta name="description"
-        content="Rent a Bike Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike">
+        content="Rent a Bike Premantura,Cycling centar Premantura Hrvatska, Cycling centro Premantura Croazia, Cycling center Premantura Croatia, school, rental,rent a bike,  Istra bike, bike tours, blue caves, kamenjak,nature park">
     <meta http-equiv="content-language" content="hr,en">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
@@ -47,10 +47,23 @@
     <link rel="stylesheet" href="css/owl.theme.min.css">
     <link rel="stylesheet" href="css/owl.transitions.min.css">
     <link rel="stylesheet" href="form.css">
+	<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cbf64d6c7f6b60012eed9e4&product=sticky-share-buttons' async='async'></script>
+
 
     <!--main stylesheet-->
     <link rel="stylesheet" href="css/style.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116477122-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116477122-7');
+</script>
+
 
 
 </head>
