@@ -54,7 +54,9 @@
     <!--main stylesheet-->
     <link rel="stylesheet" href="../css/style.css">
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
-    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cbf64d6c7f6b60012eed9e4&product=sticky-share-buttons' async='async'></script>
+    <script type='text/javascript'
+        src='//platform-api.sharethis.com/js/sharethis.js#property=5cbf64d6c7f6b60012eed9e4&product=sticky-share-buttons'
+        async='async'></script>
 </head>
 
 <body data-spy="scroll" data-target="#myNavbar" data-offset="65" id="home-en">
@@ -93,6 +95,7 @@
         <?php include "php/services-urbana.php"; ?>
         <?php include "php/services-enduro.php"; ?>
         <?php include "php/custom-tour.php"; ?>
+        <?php include "php/bikes.php"; ?>
 
         <!-- end of services     -->
 

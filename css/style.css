@@ -387,13 +387,11 @@ header .overlay { position: absolute; top: 0; left: 0; height: 100%; width: 100%
 /* #status { width:200px; height:200px; position:absolute; left:50%;  top:50%;  background-image:url(../img/Ellipsis-1.9s-200px.gif);  background-repeat:no-repeat; background-position:center; margin:-100px 0 0 -100px;  } */
 html { padding: 0px 0px; margin: 0px 0px; }
 
-body { margin: 0px 0px; padding: 0px 0px; background: #1c92d2; /* fallback for old browsers */ background: -webkit-linear-gradient(to top, #f2fcfe, #1c92d2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(to top, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ font-size: 16px; font-family: "Open Sans", "Helvetica", sans-serif; overflow-x: hidden; }
+body { margin: 0px 0px; padding: 0px 0px; background-color: #ffffff; font-size: 16px; font-family: "Open Sans", "Helvetica", sans-serif; overflow-x: hidden; }
 
 .site-wrapper { width: 100%; }
 
-.white-bg { color: #ffffff; background: #078d8d; background: -moz-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -webkit-gradient(left top, left bottom, color-stop(0%, #078d8d), color-stop(45%, #066a6a), color-stop(100%, #032a6d)); background: -webkit-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -o-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: -ms-linear-gradient(top, #078d8d 0%, #066a6a 45%, #032a6d 100%); background: linear-gradient(to bottom, #078d8d 0%, #066a6a 45%, #032a6d 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#078d8d', endColorstr='#032a6d', GradientType=0 ); }
-
-.pb-10 { padding-bottom: 10px; }
+.white-bg { background-color: #ffffff; }
 
 .col-xs-5ths, .col-sm-5ths, .col-md-5ths, .col-lg-5ths { position: relative; min-height: 1px; padding-right: 15px; padding-left: 15px; }
 
@@ -428,11 +426,11 @@ h2 { text-align: center; font-family: "Permanent Marker", cursive; text-transfor
 
 .btn { font-weight: 400; padding: 15px 35px; letter-spacing: 1px; white-space: nowrap; border-radius: 5px; }
 
-.btn-primary { background-color: #ff9671; color: #ffffff; border: 1px solid #ff9671; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; }
+.btn-primary { background-color: #ff5b21; color: #ffffff; border: 1px solid #ff5b21; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; }
 
-.btn-primary:hover { background-color: inherit; color: #ff9671; border: 1px solid #ff9671; }
+.btn-primary:hover { background-color: inherit; color: #ff5b21; border: 1px solid #ff5b21; }
 
-.btn-primary:focus, .dropdown-toggle.btn-primary:focus { background-color: inherit; color: #ff9671; border: 1px solid #ff9671; }
+.btn-primary:focus, .dropdown-toggle.btn-primary:focus { background-color: inherit; color: #ff5b21; border: 1px solid #ff5b21; }
 
 .btn-default { background-color: #03a9f5; color: #ffffff; border: 1px solid #03a9f5; -webkit-animation-delay: 2s; animation-delay: 2s; -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out; transition: background 0.3s ease-in-out, color 0.3s ease-in-out; }
 
@@ -499,25 +497,25 @@ header .arrow { background-color: transparent; transition: all 0.3s ease-in-out;
 header .arrow:hover, header .arrow:focus { background-color: transparent; color: #03a9f5; }
 
 @media only screen and (min-width: 320px) { #lang-id { margin-left: 4%; font-size: 18px; }
-  #lang-id .language button { color: rgba(0, 0, 0, 0.54); background-color: inherit; border: 0px; padding: 5px 10px 5px 10px; transition: 0.3s ease-in-out; -webkit-transition: 0.3s ease-in-out; -moz-transition: 0.3 s ease-in-out; font-size: 14px; font-weight: bolder; border: 1px solid #ff9671; }
-  #lang-id .language button:hover { color: #ffffff; background-color: #ff9671; border: 0px; padding: 5px 10px 5px 10px; }
+  #lang-id .language button { color: rgba(0, 0, 0, 0.54); background-color: inherit; border: 0px; padding: 5px 10px 5px 10px; transition: 0.3s ease-in-out; -webkit-transition: 0.3s ease-in-out; -moz-transition: 0.3 s ease-in-out; font-size: 14px; font-weight: bolder; border: 1px solid #ff5b21; }
+  #lang-id .language button:hover { color: #ffffff; background-color: #ff5b21; border: 0px; padding: 5px 10px 5px 10px; }
   #lang-id .dropdown-menu { min-width: 35px; background-color: inherit; }
   #lang-id .dropdown-menu li { padding: 0; margin: 0; }
   #lang-id .dropdown-menu > li > a { display: block; clear: both; font-weight: 400; line-height: 1.42857143; color: rgba(0, 0, 0, 0.54); white-space: nowrap; font-size: 120%; }
-  #lang-id .dropdown-menu > li > a:hover { background-color: inherit; display: block; clear: both; font-weight: 400; line-height: 1.42857143; color: #ff9671; white-space: nowrap; font-size: 120%; } }
+  #lang-id .dropdown-menu > li > a:hover { background-color: inherit; display: block; clear: both; font-weight: 400; line-height: 1.42857143; color: #ff5b21; white-space: nowrap; font-size: 120%; } }
 @media only screen and (min-width: 768px) { #lang-id { margin-left: 0%; }
   #lang-id .language button { color: #ffffff; background-color: inherit; border: 0px; padding: 3px; transition: 0.3s ease-in-out; -webkit-transition: 0.3s ease-in-out; -moz-transition: 0.3 s ease-in-out; }
-  #lang-id .language button:hover { color: #ffffff; background-color: #ff9671; border: 0px; padding: 1px; }
+  #lang-id .language button:hover { color: #ffffff; background-color: #ff5b21; border: 0px; padding: 1px; }
   #lang-id .dropdown-menu { min-width: 35px; background-color: inherit; }
   #lang-id .dropdown-menu li { padding: 0; margin: 0; }
   #lang-id .dropdown-menu > li > a { display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ffffff; white-space: nowrap; font-size: 85%; }
-  #lang-id .dropdown-menu > li > a:hover { background-color: inherit; display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ff9671; white-space: nowrap; font-size: 85%; }
+  #lang-id .dropdown-menu > li > a:hover { background-color: inherit; display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ff5b21; white-space: nowrap; font-size: 85%; }
   #lang-id.smaller .language button { color: rgba(0, 0, 0, 0.54); background-color: inherit; border: 0px; padding: 3px; transition: 0.3s ease-in-out; -webkit-transition: 0.3s ease-in-out; -moz-transition: 0.3 s ease-in-out; }
-  #lang-id.smaller .language button:hover { color: #ffffff; background-color: #ff9671; }
+  #lang-id.smaller .language button:hover { color: #ffffff; background-color: #ff5b21; }
   #lang-id.smaller .dropdown-menu { background-color: #ffffff; }
   #lang-id.smaller .dropdown-menu li { padding: 0; margin: 0; }
   #lang-id.smaller .dropdown-menu > li > a { display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: rgba(0, 0, 0, 0.87); white-space: nowrap; font-size: 85%; }
-  #lang-id.smaller .dropdown-menu > li > a:hover { background-color: inherit; display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ff9671; white-space: nowrap; font-size: 85%; } }
+  #lang-id.smaller .dropdown-menu > li > a:hover { background-color: inherit; display: block; padding-left: 15px; clear: both; font-weight: 400; line-height: 1.42857143; color: #ff5b21; white-space: nowrap; font-size: 85%; } }
 .btn-warning, .dropdown-toggle.btn-warning { background-color: inherit; }
 
 .btn-warning:focus, .dropdown-toggle.btn-warning:focus { background-color: inherit; }
@@ -537,33 +535,44 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #about-us p a { text-decoration: none; color: #03a9f5; text-transform: uppercase; }
 #about-us p a:focus, #about-us p a:hover { text-decoration: underline; font-weight: 900; }
 
-#services { padding-bottom: 80px; background-color: #03a9f5; background-image: linear-gradient(to right top, #845ec2, #756ed1, #647dde, #4f8be8, #3798ef, #00a8ef, #00b6e9, #00c2df, #1bcebf, #73d492, #bad26a, #ffc75f); background-attachment: fixed; background-size: cover; }
+#services { padding-bottom: 80px; background-color: #ffffff; }
 @media only screen and (min-width: 320px) { #services .cjenik-btn { word-wrap: break-word; margin-top: 25px; width: 100%; padding: 15px; } }
-@media only screen and (min-width: 480px) { #services .cjenik-btn { margin-left: 20%; width: 60%; } }
-#services .title { text-transform: uppercase; padding-bottom: 20px; }
-#services h2 { margin-top: 0; color: #fafafa; }
+@media only screen and (min-width: 480px) { #services .cjenik-btn { margin-left: 20%; width: 20%; } }
+#services .title { text-align: center; text-transform: uppercase; padding-bottom: 20px; }
+#services h2 { margin-top: 0; color: rgba(0, 0, 0, 0.54); }
 #services h5 { color: red; }
 #services .izleti-row { max-width: 1920px; margin: 0 auto; }
 #services .price-bg { color: #ffffff; }
 #services .col-5px { padding: 5px 5px 5px 5px; }
 #services .service-wrap { overflow: hidden; border-radius: 5px; position: relative; }
-#services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; color: #ffffff; padding: 10px; border-radius: 5px; transition: all 0.3s ease-in-out; }
+#services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; color: #ffffff; padding: 10px; transition: all 0.3s ease-in-out; }
 #services .t-1 p, #services .t-2 p, #services .t-3 p, #services .t-4 p { background-color: rgba(3, 169, 245, 0.5); margin-left: 10%; margin-right: 10%; padding: 5px; margin-bottom: 0; }
 #services .t-1 .badge, #services .t-2 .badge, #services .t-3 .badge, #services .t-4 .badge { background-color: rgba(3, 169, 245, 0.5); padding: 10px; }
 #services .t-1 h3, #services .t-2 h3, #services .t-3 h3, #services .t-4 h3 { color: #ffffff; text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3); }
 #services .t-1 .pmd-card-actions, #services .t-2 .pmd-card-actions, #services .t-3 .pmd-card-actions, #services .t-4 .pmd-card-actions { margin-top: 15px; }
 #services .t-1 { background-image: url("../img/izleti/poludnevni-m.jpg"); background-position: center center; background-repeat: no-repeat; background-color: grey; background-size: cover; }
-#services .t-1:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
-#services .t-2:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
-#services .t-3:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
-#services .t-4:hover { transform: scale(1.05); transition: left 0.3s ease-out, top 0.3s ease-out, width 0.3s ease-out, height 0.3s ease-out, transform 5s ease-out 0.3s; }
 #services .t-2 { background-image: url("../img/izleti/cjelodnevni-m.jpg"); background-color: grey; background-size: cover; background-position: center center; background-repeat: no-repeat; }
 #services .t-3 { background-image: url("../img/izleti/urbana-m.jpg"); background-color: grey; background-size: cover; background-position: center center; background-repeat: no-repeat; }
 #services .t-4 { background-image: url("../img/izleti/enduro-m.jpg"); background-color: grey; background-size: cover; background-position: center center; background-repeat: no-repeat; }
 #services .pmd-card { border-radius: 0px 0px 5px 5px; }
 #services h3 img { width: 50px; padding-left: 5px; }
 
-#services-windsurf .intro, #services-bike .intro, #services-kayaking .intro, #services-rental .intro, #services-snorkeling .intro, #services-sup .intro, #custom-tour .intro { font-family: "Roboto", cursive; color: rgba(0, 0, 0, 0.38); font-weight: thin; font-size: 20px; }
+#services .t-1, #services .t-2, #services .t-3, #services .t-4 { display: block; text-align: center; color: #ffffff; padding: 140px; transition: all 0.3s ease-in-out; background-color: #07b5d0; }
+
+.custom-tour-wrapp { margin: 0 auto; max-width: 2560px; background-image: url(../img/izleti/custom-tour.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
+.custom-tour-wrapp a { font-family: "Permanent Marker", cursive; padding-top: 80px; padding-bottom: 80px; text-decoration: none; }
+@media only screen and (min-width: 320px) { .custom-tour-wrapp a { font-size: 20px; } }
+@media only screen and (min-width: 768px) { .custom-tour-wrapp a { font-size: 40px; } }
+.custom-tour-wrapp a:hover { color: #03a9f5; }
+
+#bikes { background-color: #ffffff; margin-bottom: 80px; }
+@media only screen and (min-width: 320px) { #bikes .item { width: 50%; position: relative; display: block; transition: transform 500ms; float: left; } }
+@media only screen and (min-width: 768px) { #bikes .item { width: 16.66%; } }
+#bikes .item img { display: block; max-width: 100%; }
+#bikes .bike-wrapper:focus-within .item, #bikes .bike-wrapper:hover .item { transform: translateX(-25%); }
+#bikes .bike-wrapper .item:focus, #bikes .bike-wrapper .item:hover { transform: scale(1.5); z-index: 1; }
+
+#services-windsurf .intro, #services-bike .intro, #services-kayaking .intro, #services-rental .intro, #services-snorkeling .intro, #services-sup .intro, #custom-tour .intro { font-family: "Roboto", cursive; color: rgba(0, 0, 0, 0.38); font-weight: thin; font-size: 40px; }
 #services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close, #custom-tour .close { color: #a94442 !important; }
 #services-windsurf .services-sm-title, #services-bike .services-sm-title, #services-kayaking .services-sm-title, #services-rental .services-sm-title, #services-snorkeling .services-sm-title, #services-sup .services-sm-title, #custom-tour .services-sm-title { color: #03a9f5; padding: 30px 0 30px 0; text-align: center; font-size: 28px; font-weight: 600; }
 #services-windsurf .services-sm-title2, #services-bike .services-sm-title2, #services-kayaking .services-sm-title2, #services-rental .services-sm-title2, #services-snorkeling .services-sm-title2, #services-sup .services-sm-title2, #custom-tour .services-sm-title2 { color: #03a9f5; padding: 30px 0px 0px 0px; text-align: center; font-size: 28px; font-weight: 600; }
@@ -633,12 +642,13 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 #custom-tour h4 { background-image: url(../img/izleti/custom-tour.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
-#location { background-color: #fafafa; padding-bottom: 40px; }
+#location { background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%); padding-bottom: 40px; }
+#location h2 { color: #ffffff; }
 #location .img-premantura { background-image: url(../img/centar-bike.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center; }
 @media only screen and (min-width: 320px) { #location .img-premantura { width: 100%; height: 250px; } }
 @media only screen and (min-width: 992px) { #location .img-premantura { width: 50%; height: 380px; } }
 #location h4 { margin-top: 20px; }
-#location h4 a { text-decoration: none; color: #ffffff; }
+#location h4 a { text-decoration: none; color: rgba(0, 0, 0, 0.87); }
 #location .btn-success { color: #fff; }
 #location h3 { text-transform: uppercase; padding-top: 10px; }
 #location p { text-align: justify; }
@@ -651,19 +661,19 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #location .l-iconi-wrapper { list-style: none; }
 @media only screen and (min-width: 320px) { #location .l-iconi-wrapper div { display: inline-block; float: left; width: 10%; margin-left: 5px; } }
 #location .l-iconi-wrapper div img { padding: 5px; border-radius: 50%; display: block; margin: 0 auto; transition: all 0.4s ease-in-out; background-color: #03a9f5; }
-#location .l-iconi-wrapper div img:hover, #location .l-iconi-wrapper div img:focus { background-color: #ff9671; }
+#location .l-iconi-wrapper div img:hover, #location .l-iconi-wrapper div img:focus { background-color: #ff5b21; }
 #location .l-iconi-wrapper div p { text-align: center; font-size: 14px; color: rgba(0, 0, 0, 0.54); font-weight: bold; }
 
 #location-permantura .close, #location-medulin .close, #location-bike .close { padding-right: 10px; float: right; font-size: 50px; font-weight: 700; line-height: 1; color: #000; text-shadow: 0 1px 0 #fff; filter: alpha(opacity=20); opacity: 0.5; margin-right: 10px; }
 #location-permantura .modal-header, #location-medulin .modal-header, #location-bike .modal-header { padding: 0px; }
-#location-permantura h4, #location-medulin h4, #location-bike h4 { font-size: 30px; text-align: center; font-family: "Permanent Marker", cursive; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #ff9671; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
+#location-permantura h4, #location-medulin h4, #location-bike h4 { font-size: 30px; text-align: center; font-family: "Permanent Marker", cursive; text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1); background-color: rgba(137, 177, 248, 0.2); color: #ff5b21; vertical-align: middle; /*middle centred*/ padding-top: 125px; padding-bottom: 125px; }
 #location-permantura h5, #location-medulin h5, #location-bike h5 { text-align: center; color: #03a9f5; padding: 25px 0px 25px 0px; font-size: 24px; }
 
 #location-bike h4 { background-image: url(../img/bike/bike-centar.jpg); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
 .google-maps { position: relative; overflow: hidden; height: 400px; }
 
-#bike-cjenik { padding-top: 80px; padding-bottom: 80px; background-image: linear-gradient(to left bottom, #845ec2, #756ed1, #647dde, #4f8be8, #3798ef, #00a8ef, #00b6e9, #00c2df, #1bcebf, #73d492, #bad26a, #ffc75f); }
+#bike-cjenik { background-color: #ffffff; padding-top: 80px; padding-bottom: 80px; }
 #bike-cjenik h3 { text-align: center; color: #ffffff; }
 @media only screen and (min-width: 320px) { #bike-cjenik .cjenik-btn { width: 100%; } }
 @media only screen and (min-width: 480px) { #bike-cjenik .cjenik-btn { margin-left: 20%; width: 60%; } }
@@ -715,7 +725,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
   #routes #transportation .r-left { text-align: left; } }
 @media only screen and (min-width: 480px) { #routes #transportation .r-right, #routes #transportation .r-left { font-size: 100%; } }
 #routes h2 { color: #ffffff; }
-#routes .rute-slogan { color: #ff9671; }
+#routes .rute-slogan { color: #ff5b21; }
 #routes h4 { font-weight: bold; font-size: 1.3em; letter-spacing: 0.3em; color: #ffffff; }
 #routes p { color: #fafafa; }
 #routes ul { list-style-type: none; }
@@ -741,7 +751,7 @@ footer .row a:hover, footer .row a:active { text-decoration: none; color: #03a9f
 .footer-top2 ul { padding-left: 0px; list-style-type: none; }
 .footer-top2 ul li { color: #e0e0e0; text-decoration: none; padding-left: 0px; }
 
-.footer-top { padding-top: 20px; border-top: 1px solid #ff9671; }
+.footer-top { padding-top: 20px; border-top: 1px solid #ff5b21; }
 .footer-top ul { padding-left: 0px; list-style-type: none; }
 .footer-top ul li { color: #e0e0e0; text-decoration: none; padding-left: 0px; }
 .footer-top .footer-content ul { padding-left: 0px; list-style-type: none; }

@@ -47,7 +47,9 @@
     <link rel="stylesheet" href="css/owl.theme.min.css">
     <link rel="stylesheet" href="css/owl.transitions.min.css">
     <link rel="stylesheet" href="form.css">
-	<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cbf64d6c7f6b60012eed9e4&product=sticky-share-buttons' async='async'></script>
+    <script type='text/javascript'
+        src='//platform-api.sharethis.com/js/sharethis.js#property=5cbf64d6c7f6b60012eed9e4&product=sticky-share-buttons'
+        async='async'></script>
 
 
     <!--main stylesheet-->
@@ -55,14 +57,17 @@
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116477122-7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116477122-7"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'UA-116477122-7');
-</script>
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-116477122-7');
+    </script>
 
 
 
@@ -84,6 +89,9 @@
     <?php include "php/services-urbana.php"; ?>
     <?php include "php/services-enduro.php"; ?>
     <?php include "php/custom-tour.php"; ?>
+    <!-- //bikes -->
+    <?php include "php/bikes.php"; ?>
+
     <!-- end of services -->
     <?php include "php/location.php" ?>
     <?php include "php/bike-cjenik.php"?>
