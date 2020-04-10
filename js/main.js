@@ -7,20 +7,20 @@
 
 //image preloader
 echo.init({
-  callback: function(element, op) {
+  callback: function (element, op) {
     console.log(element, "has been", op + "ed");
-  }
+  },
 });
 
 // echo.render(); is also available for non-scroll callbacks
 
 //match heoght group 1
-$(function() {
+$(function () {
   $(".item").matchHeight(options);
 });
 
 //Owl Carousel 2
-$(document).ready(function() {
+$(document).ready(function () {
   $("#testimonial-slider").owlCarousel({
     items: 5,
     responsiveClass: true,
@@ -32,16 +32,34 @@ $(document).ready(function() {
     navigation: true,
     navigationText: [
       "<i class='fa fa-chevron-left fa-3x'></i>",
-      "<i class='fa fa-chevron-right fa-3x'></i>"
+      "<i class='fa fa-chevron-right fa-3x'></i>",
     ],
-    autoPlay: true
+    autoPlay: true,
+  });
+});
+$(document).ready(function () {
+  $("#testimonial-slider2").owlCarousel({
+    items: 5,
+    responsiveClass: true,
+    itemsDesktop: [1000, 5],
+    itemsDesktopSmall: [979, 4],
+    itemsTablet: [767, 3],
+    pagination: false,
+    autoPlay: true,
+    autoplayHoverPause: true,
+    transitionStyle: "fade",
+    navigation: true,
+    navigationText: [
+      "<i class='fa fa-chevron-left fa-3x'></i>",
+      "<i class='fa fa-chevron-right fa-3x'></i>",
+    ],
   });
 });
 
 //Navbar Scroll Event
 var lastScrollTop = 0;
 var navbar = $(".navbar");
-$(window).scroll(function(event) {
+$(window).scroll(function (event) {
   var st = $(this).scrollTop();
   if (st > lastScrollTop) {
     navbar.addClass("navbar-scroll-custom");
@@ -52,9 +70,9 @@ $(window).scroll(function(event) {
 });
 
 // change naviagtion color on scroll
-$(function() {
+$(function () {
   var nav = $("nav");
-  $(window).scroll(function() {
+  $(window).scroll(function () {
     var scroll = $(window).scrollTop();
 
     if (scroll >= 150) {
@@ -65,9 +83,9 @@ $(function() {
   });
 });
 //change logo on scroll
-$(function() {
+$(function () {
   var header = $("#logo1");
-  $(window).scroll(function() {
+  $(window).scroll(function () {
     var scroll = $(window).scrollTop();
 
     if (scroll >= 150) {
@@ -78,9 +96,9 @@ $(function() {
   });
 });
 //change logo on scroll
-$(function() {
+$(function () {
   var header = $("#lang-id");
-  $(window).scroll(function() {
+  $(window).scroll(function () {
     var scroll = $(window).scrollTop();
 
     if (scroll >= 150) {
@@ -92,17 +110,17 @@ $(function() {
 });
 
 /*maps unclickable*/
-$(".maps").click(function() {
+$(".maps").click(function () {
   $(".maps iframe").css("pointer-events", "auto");
 });
 
-$(".maps").mouseleave(function() {
+$(".maps").mouseleave(function () {
   $(".maps iframe").css("pointer-events", "none");
 });
 
 // closen hamburger nav on click
-$(function() {
-  $(".nav a").on("click", function() {
+$(function () {
+  $(".nav a").on("click", function () {
     if ($(".navbar-toggle").css("display") != "none") {
       $(".navbar-toggle").trigger("click");
     }
@@ -116,17 +134,17 @@ smoothScroll.init();
 $("body").prepend('<a href="#navigation" class="back-to-top"></a>');
 var amountScrolled = 300;
 
-$(window).scroll(function() {
+$(window).scroll(function () {
   if ($(window).scrollTop() > amountScrolled) {
     $("a.back-to-top").fadeIn("slow");
   } else {
     $("a.back-to-top").fadeOut("slow");
   }
 });
-$("a.back-to-top").click(function() {
+$("a.back-to-top").click(function () {
   $("html, body").animate(
     {
-      scrollTop: 0
+      scrollTop: 0,
     },
     700
   );
@@ -135,7 +153,7 @@ $("a.back-to-top").click(function() {
 
 window.addEventListener(
   "load",
-  function() {
+  function () {
     var allimages = document.getElementsByTagName("img");
     for (var i = 0; i < allimages.length; i++) {
       if (allimages[i].getAttribute("data-src")) {

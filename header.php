@@ -20,11 +20,15 @@
                             class="scroll ">POČETNA</a></li>
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#services"
                             class="scroll">IZLETI</a></li>
+                    <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#bikes"
+                            class="scroll">BICIKLI</a></li>
 
                 </ul>
                 <ul class=" nav navbar-nav navbar-right">
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#location"
                             class="scroll">LOKACIJA</a></li>
+                    <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#bike-gallery"
+                            class="scroll">GALERIJA</a></li>
 
                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#footer"
                             class="scroll">KONTAKT</a></li>

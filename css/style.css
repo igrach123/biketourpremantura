@@ -535,16 +535,17 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 #about-us p a { text-decoration: none; color: #03a9f5; text-transform: uppercase; }
 #about-us p a:focus, #about-us p a:hover { text-decoration: underline; font-weight: 900; }
 
-#services { padding-bottom: 80px; background-color: #ffffff; }
+#services { padding-bottom: 80px; background-color: #f5f5f5; }
 @media only screen and (min-width: 320px) { #services .cjenik-btn { word-wrap: break-word; margin-top: 25px; width: 100%; padding: 15px; } }
 @media only screen and (min-width: 480px) { #services .cjenik-btn { margin-left: 20%; width: 20%; } }
 #services .title { text-align: center; text-transform: uppercase; padding-bottom: 20px; }
-#services h2 { margin-top: 0; color: rgba(0, 0, 0, 0.54); }
+#services h2 { margin-top: 0; color: #03a9f5; }
 #services h5 { color: red; }
 #services .izleti-row { max-width: 1920px; margin: 0 auto; }
 #services .price-bg { color: #ffffff; }
 #services .col-5px { padding: 5px 5px 5px 5px; }
 #services .service-wrap { overflow: hidden; border-radius: 5px; position: relative; }
+#services .service-wrap .services-content { background-color: #bbd9ee; }
 #services .t-1, #services .t-2, #services .t-3, #services .t-4 { text-align: center; color: #ffffff; padding: 10px; transition: all 0.3s ease-in-out; }
 #services .t-1 p, #services .t-2 p, #services .t-3 p, #services .t-4 p { background-color: rgba(3, 169, 245, 0.5); margin-left: 10%; margin-right: 10%; padding: 5px; margin-bottom: 0; }
 #services .t-1 .badge, #services .t-2 .badge, #services .t-3 .badge, #services .t-4 .badge { background-color: rgba(3, 169, 245, 0.5); padding: 10px; }
@@ -565,12 +566,18 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 @media only screen and (min-width: 768px) { .custom-tour-wrapp a { font-size: 40px; } }
 .custom-tour-wrapp a:hover { color: #03a9f5; }
 
-#bikes { background-color: #ffffff; margin-bottom: 80px; }
-@media only screen and (min-width: 320px) { #bikes .item { width: 50%; position: relative; display: block; transition: transform 500ms; float: left; } }
-@media only screen and (min-width: 768px) { #bikes .item { width: 16.66%; } }
-#bikes .item img { display: block; max-width: 100%; }
-#bikes .bike-wrapper:focus-within .item, #bikes .bike-wrapper:hover .item { transform: translateX(-25%); }
-#bikes .bike-wrapper .item:focus, #bikes .bike-wrapper .item:hover { transform: scale(1.5); z-index: 1; }
+#bikes { background-color: #ffffff; margin-bottom: 120px; }
+#bikes a { text-align: center; }
+#bikes .cjenik-btn { margin-top: 80px; }
+
+#testimonial-slider2 { background-color: #ffffff; padding-top: 20px; padding-bottom: 40px; }
+#testimonial-slider2 .testimonial2 { background-color: #ffffff; text-align: center; }
+#testimonial-slider2 .testimonial2 .pic { position: relative; border-radius: none; overflow: hidden; margin: 0 auto; }
+#testimonial-slider2 .testimonial2 .pic a { position: relative; transition: transform 500ms; }
+#testimonial-slider2 .testimonial2 .pic a:hover { transform: scale(1.5); }
+#testimonial-slider2 .testimonial2 .pic a img { position: relative; transition: transform 2000ms; display: block; max-width: 100%; }
+#testimonial-slider2 .testimonial2 .pic img:hover { transform: scale(1.5); }
+#testimonial-slider2 .testimonial2 .testimonial2-title { font-size: 16px; color: #9e9e9e; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 0; }
 
 #services-windsurf .intro, #services-bike .intro, #services-kayaking .intro, #services-rental .intro, #services-snorkeling .intro, #services-sup .intro, #custom-tour .intro { font-family: "Roboto", cursive; color: rgba(0, 0, 0, 0.38); font-weight: thin; font-size: 40px; }
 #services-windsurf .close, #services-bike .close, #services-kayaking .close, #services-rental .close, #services-snorkeling .close, #services-sup .close, #custom-tour .close { color: #a94442 !important; }
@@ -675,8 +682,6 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 #bike-cjenik { background-color: #ffffff; padding-top: 80px; padding-bottom: 80px; }
 #bike-cjenik h3 { text-align: center; color: #ffffff; }
-@media only screen and (min-width: 320px) { #bike-cjenik .cjenik-btn { width: 100%; } }
-@media only screen and (min-width: 480px) { #bike-cjenik .cjenik-btn { margin-left: 20%; width: 60%; } }
 
 #cjenik-bikes .modal-header h3 { text-align: center; font-size: 3rem; }
 #cjenik-bikes h4 { font-size: 2.4rem; padding: 30px; }

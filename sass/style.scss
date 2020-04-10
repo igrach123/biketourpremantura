@@ -785,7 +785,7 @@ header {
 //****************SERVICES SECTION*******************//
 #services {
   padding-bottom: 80px;
-  background-color: $bg-white;
+  background-color: $bg-grey-light;
 
   @include xxs {
     .cjenik-btn {
@@ -808,7 +808,7 @@ header {
   }
   h2 {
     margin-top: 0;
-    color: $second;
+    color: $main-blue;
   }
   h5 {
     color: red;
@@ -880,39 +880,58 @@ header {
 
 #bikes {
   background-color: $bg-white;
-  margin-bottom: 80px;
-  .bike-wrapper {
+  margin-bottom: 120px;
+  a {
+    text-align: center;
   }
-  @include xxs {
-    .item {
-      width: 50%;
-      position: relative;
-      display: block;
-      transition: transform 500ms;
-      float: left;
-    }
-  }
-  @include sm {
-    .item {
-      width: 16.66%;
-    }
-  }
-
-  .item img {
-    display: block;
-    max-width: 100%;
-  }
-  .bike-wrapper:focus-within .item,
-  .bike-wrapper:hover .item {
-    transform: translateX(-25%);
-  }
-  .bike-wrapper .item:focus,
-  .bike-wrapper .item:hover {
-    transform: scale(1.5);
-    z-index: 1;
+  .cjenik-btn {
+    margin-top: 80px;
   }
 }
 //netflix like animation container
+// bikes testimonial
+
+#testimonial-slider2 {
+  background-color: $bg-white;
+  padding-top: 20px;
+  padding-bottom: 40px;
+
+  .testimonial2 {
+    background-color: $bg-white;
+    text-align: center;
+  }
+  .testimonial2 .pic {
+    position: relative;
+    border-radius: none;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  .testimonial2 .pic a {
+    position: relative;
+    transition: transform 500ms;
+  }
+  .testimonial2 .pic a:hover {
+    transform: scale(1.5);
+  }
+
+  .testimonial2 .pic a img {
+    position: relative;
+    transition: transform 2000ms;
+    display: block;
+    max-width: 100%;
+  }
+  .testimonial2 .pic img:hover {
+    transform: scale(1.5);
+  }
+
+  .testimonial2 .testimonial2-title {
+    font-size: 16px;
+    color: #9e9e9e;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+  }
+}
 
 //netflix like animation container end
 
@@ -1408,18 +1427,6 @@ header {
   }
   padding-top: 80px;
   padding-bottom: 80px;
-
-  @include xxs {
-    .cjenik-btn {
-      width: 100%;
-    }
-  }
-  @include xs {
-    .cjenik-btn {
-      margin-left: 20%;
-      width: 60%;
-    }
-  }
 }
 //bikes cjenik modal styles
 #cjenik-bikes {
