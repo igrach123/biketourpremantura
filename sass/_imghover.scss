@@ -3,7 +3,24 @@
   border-radius: 5px;
   position: relative;
   .services-content {
-    background-color: $light-blue;
+    background: $main-blue;
+
+    p {
+      color: $bg-white;
+      font-family: "Permanent Marker", cursive;
+      letter-spacing: 2px;
+    }
+
+    .btn-default {
+      background-color: $bg-white;
+      color: $main-blue;
+    }
+    .btn-default:hover,
+    .btn-default:focus {
+      background-color: $main-blue;
+      color: $bg-white;
+      border: 1px solid $bg-white;
+    }
   }
 }
 

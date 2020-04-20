@@ -805,6 +805,7 @@ header {
     text-align: center;
     text-transform: uppercase;
     padding-bottom: 20px;
+    color: $bg-white;
   }
   h2 {
     margin-top: 0;
@@ -818,7 +819,10 @@ header {
     margin: 0 auto;
   }
   .price-bg {
+    border: 1px solid $bg-white;
     color: $bg-white;
+    background-color: inherit;
+    margin-bottom: 25px;
   }
   .modal-footer {
   }
@@ -881,6 +885,9 @@ header {
 #bikes {
   background-color: $bg-white;
   margin-bottom: 120px;
+  h2 {
+    color: $main-blue;
+  }
   a {
     text-align: center;
   }
@@ -1421,9 +1428,9 @@ header {
 //galerija+bike section
 #bike-cjenik {
   background-color: $bg-white;
-  h3 {
+  h2 {
     text-align: center;
-    color: $bg-white;
+    color: $main-blue;
   }
   padding-top: 80px;
   padding-bottom: 80px;
@@ -1546,35 +1553,46 @@ header {
 }
 @include xxs {
   .imgwrapper {
-    border-radius: 3px;
-    width: 22%;
+    width: 24%;
     float: left;
     position: relative;
     overflow: hidden;
     transition: 0.4s ease-in-out;
     -webkit-transition: 0.4s ease-in-out;
     z-index: 400;
-    margin: 1%;
+    margin: 0.1%;
+  }
+}
+@include sm {
+  .imgwrapper {
+    width: 19.4%;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    z-index: 400;
+    margin: 0.1%;
   }
 }
 @include md {
   .imgwrapper {
-    border-radius: 3px;
-    width: 31%;
+    width: 16%;
     float: left;
     position: relative;
     overflow: hidden;
     transition: 0.4s ease-in-out;
     -webkit-transition: 0.4s ease-in-out;
     z-index: 400;
-    margin: 1%;
+    margin: 0.1%;
   }
 }
 .imgwrapper img {
   transition: 0.4s ease-in-out;
   -webkit-transition: 0.4s ease-in-out;
 }
-.imgwrapper img:hover {
+.imgwrapper img:hover,
+.imgwrapper img:focus {
   transform: scale(1.08);
 }
 //end of gallery
@@ -1650,13 +1668,18 @@ header {
 
 footer {
   color: $bg-white;
-  background: $Vital-Ocean-gradinet;
+  // background: $Vital-Ocean-gradinet;
+  background-image: url(../img/bike/footer-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   h2 {
     color: #fff;
   }
   h4 {
     @include xxs {
       padding-bottom: 0px;
+      color: $main-blue;
     }
     @include md {
       padding-bottom: 10px;
@@ -1713,8 +1736,9 @@ footer {
   }
 }
 .footer-top {
-  padding-top: 20px;
-  border-top: 1px solid $main-orange;
+  margin-top: 20px;
+  padding-top: 40px;
+  border-top: 1px solid $main-blue;
 
   ul {
     padding-left: 0px;
