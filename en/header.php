@@ -18,8 +18,6 @@
                  <ul class=" nav navbar-nav navbar-left">
                      <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#home"
                              class="scroll ">HOME</a></li>
-                     <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#about-us"
-                             class="scroll">ABOUT</a></li>
                      <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#services"
                              class="scroll">SERVICES</a></li>
                      <li><a data-scroll data-options='{ "easing": "easeInOutQuad" }' href="#bikes"

@@ -64,7 +64,7 @@
 
         <div class="cjenik-btn text-center">
             <a href="#cjenik-bikes" class="btn  btn-default" data-toggle="modal" role="button"
-                data-target="#cjenik-bikes">CJENIK</a>
+                data-target="#cjenik-bikes">PRICE LIST</a>
         </div>
     </div>
 

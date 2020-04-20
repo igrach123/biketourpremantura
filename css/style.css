@@ -684,7 +684,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 
 .google-maps { position: relative; overflow: hidden; height: 400px; }
 
-#bike-cjenik { background-color: #ffffff; padding-top: 80px; padding-bottom: 80px; }
+#bike-cjenik { background-color: #ffffff; padding-bottom: 80px; }
 #bike-cjenik h2 { text-align: center; color: #03a9f5; }
 
 #cjenik-bikes .modal-header h3 { text-align: center; font-size: 3rem; }
