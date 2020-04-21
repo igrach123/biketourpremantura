@@ -98,13 +98,10 @@
         <?php include "php/bikes.php"; ?>
 
         <!-- end of services     -->
-
         <!-- location -->
         <?php include "php/location.php" ?>
         <?php include "php/bike-cjenik.php"?>
         <?php include "php/cjenik-bikes.php"?>
-        <?php include "php/location-permantura.php" ?>
-        <?php include "php/location-medulin.php" ?>
         <?php include "php/location-bike.php" ?>
         <?php include "php/partner-slide.php" ?>
 
