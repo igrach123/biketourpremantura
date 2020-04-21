@@ -567,7 +567,7 @@ header .arrow:hover, header .arrow:focus { background-color: transparent; color:
 .custom-tour-wrapp a { font-family: "Permanent Marker", cursive; padding-top: 80px; padding-bottom: 80px; text-decoration: none; }
 @media only screen and (min-width: 320px) { .custom-tour-wrapp a { font-size: 20px; } }
 @media only screen and (min-width: 768px) { .custom-tour-wrapp a { font-size: 40px; } }
-.custom-tour-wrapp a:hover { color: #03a9f5; }
+.custom-tour-wrapp a:hover, .custom-tour-wrapp a:focus, .custom-tour-wrapp a:visited { color: #03a9f5; }
 
 #bikes { background-color: #ffffff; margin-bottom: 120px; }
 #bikes h2 { color: #03a9f5; }

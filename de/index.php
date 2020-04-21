@@ -54,7 +54,9 @@
     <!--main stylesheet-->
     <link rel="stylesheet" href="../css/style.css">
     <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
-    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cbf64d6c7f6b60012eed9e4&product=sticky-share-buttons' async='async'></script>
+    <script type='text/javascript'
+        src='//platform-api.sharethis.com/js/sharethis.js#property=5cbf64d6c7f6b60012eed9e4&product=sticky-share-buttons'
+        async='async'></script>
 </head>
 
 <body data-spy="scroll" data-target="#myNavbar" data-offset="65" id="home-en">
@@ -92,13 +94,11 @@
         <?php include "php/custom-tour.php"; ?>
 
         <!-- end of services     -->
-
+        <?php include "php/bikes.php"; ?>
         <!-- location -->
         <?php include "php/location.php" ?>
         <?php include "php/bike-cjenik.php"?>
         <?php include "php/cjenik-bikes.php"?>
-        <?php include "php/location-permantura.php" ?>
-        <?php include "php/location-medulin.php" ?>
         <?php include "php/location-bike.php" ?>
         <?php include "php/partner-slide.php" ?>
 

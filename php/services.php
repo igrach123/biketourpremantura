@@ -86,16 +86,14 @@
 
                 </div>
             </div>
+
             <div class="col-sm-6 col-lg-3 col-5px service-wrap">
                 <div class="services-content card-1" data-mh="my-group">
-
                     <a href="#services-sup" class="t-4" data-toggle="modal" role="button" data-target="#services-sup">
                     </a>
                     <div class="text-center">
-
                         <h3 class="title">ENDURO TOURS VALTURA BUDAVA KAMENJAK</h3>
                         <div class="price-bg badge">4+ 350 kn/pers.</div>
-
                         <p>Vodič</p>
                         <p>Voće i voda</p>
                         <p>Ručak</p>
@@ -110,12 +108,9 @@
                                 data-target="#footer">kontakt</a>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
-
-
     </div>
 </section>
 <div class="text-center custom-tour-wrapp ">

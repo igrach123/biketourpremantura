@@ -877,7 +877,9 @@ header {
     padding-bottom: 80px;
     text-decoration: none;
   }
-  a:hover {
+  a:hover,
+  a:focus,
+  a:visited {
     color: $main-blue;
   }
 }
