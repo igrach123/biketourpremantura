@@ -1,6 +1,7 @@
 <section id="services">
     <div class="container-fluid">
         <h2>AUSFLÜGE</h2>
+
         <div class="row izleti-row">
 
             <div class="col-sm-6 col-lg-3 col-5px service-wrap ">
@@ -109,5 +110,5 @@
 
 <div class="text-center custom-tour-wrapp">
     <a href="#custom-tour" class="btn btn-block" data-toggle="modal" role="button" data-target="#custom-tour">Machen Sie
-        Ihren eigenen Ausflug!</a>
+        Ihren Ausflug!</a>
 </div>

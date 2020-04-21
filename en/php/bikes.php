@@ -8,7 +8,7 @@
         <div id="testimonial-slider2" class="owl-carousel">
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="img/bike/brb-trail-ht-26-21.jpg" target="_blank"> <img
+                    <a class="item2" href="../img/bike/brb-trail-ht-26-21.jpg" target="_blank"> <img
                             src="../img/bike/brb-trail-ht-26-21.jpg" alt="challenger sails" class="img-responsive"></a>
                 </div>
                 <h3 class="testimonial2-title">BIKE 1 TRALL HT 26</h3>

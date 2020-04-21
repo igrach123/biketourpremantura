@@ -8,7 +8,7 @@
         <div id="testimonial-slider2" class="owl-carousel">
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="img/bike/brb-trail-ht-26-21.jpg" target="_blank"> <img
+                    <a class="item2" href="../img/bike/brb-trail-ht-26-21.jpg" target="_blank"> <img
                             src="../img/bike/brb-trail-ht-26-21.jpg" alt="challenger sails" class="img-responsive"></a>
                 </div>
                 <h3 class="testimonial2-title">BIKE 1 TRALL HT 26</h3>
@@ -16,14 +16,14 @@
 
             <div class="testimonial2">
                 <div.. class="pic">
-                    <a class="item2" href="img/bike/torpado-bt590-storm-red.jpg" target="_blank"> <img
+                    <a class="item2" href="../img/bike/torpado-bt590-storm-red.jpg" target="_blank"> <img
                             src="../img/bike/torpado-bt590-storm-red.jpg" alt="flikka" class="img-responsive"></a>
                 </div.. />
                 <h3 class="testimonial2-title">BIKE 1 TORPADO BT 590</h3>
             </div>
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="img/bike/torpado-bt591-storm-lilla.jpg" target="_blank">
+                    <a class="item2" href="../img/bike/torpado-bt591-storm-lilla.jpg" target="_blank">
                         <img src="../img/bike/torpado-bt591-storm-lilla.jpg" alt="ahd" class="img-responsive">
                     </a>
                 </div>
@@ -31,7 +31,7 @@
             </div>
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="img/bike/Talon-2-Blue.jpg" target="_blank"> <img
+                    <a class="item2" href="../img/bike/Talon-2-Blue.jpg" target="_blank"> <img
                             src="../img/bike/Talon-2-Blue.jpg" alt="SUP" class="img-responsive"></a>
                 </div>
                 <h3 class="testimonial2-title">BIKE 2 TALON 2 BLUE</h3>
@@ -39,14 +39,14 @@
 
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="img/bike/brb-stratos-29-rc02-27s-black.jpg" target="_blank"> <img
+                    <a class="item2" href="../img/bike/brb-stratos-29-rc02-27s-black.jpg" target="_blank"> <img
                             src="../img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="nautix" class="img-responsive"></a>
                 </div>
                 <h3 class="testimonial2-title">BIKE 2 STRATOS 29</h3>
             </div>
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="img/bike/MY19Trance2_ColorA.jpg" target="_blank">
+                    <a class="item2" href="../img/bike/MY19Trance2_ColorA.jpg" target="_blank">
                         <img src="../img/bike/MY19Trance2_ColorA.jpg" alt="Cass" class="img-responsive">
                     </a>
                 </div>

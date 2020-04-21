@@ -6,7 +6,9 @@
 
             <div class="col-sm-6 col-lg-3 col-5px service-wrap ">
                 <div class="services-content card-1" data-mh="my-group">
-                   
+                    <a href="#services-windsurf" class="t-1" data-toggle="modal" role="button"
+                        data-target="#services-windsurf">
+                    </a>
                     <h3 class="title">HALF DAY EXCURSION</h3>
                     <div class="text-center">
                         <div class="price-bg badge"> 300 kn</div>

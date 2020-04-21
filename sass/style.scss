@@ -566,12 +566,12 @@ header {
       -moz-transition: 0.3 s ease-in-out;
       font-size: 14px;
       font-weight: bolder;
-      border: 1px solid $main-orange;
+      border: 1px solid $main-blue;
     }
 
     .language button:hover {
       color: $bg-white;
-      background-color: $main-orange;
+      background-color: $main-blue;
       border: 0px;
       padding: 5px 10px 5px 10px;
     }
@@ -603,7 +603,7 @@ header {
       clear: both;
       font-weight: 400;
       line-height: 1.42857143;
-      color: $main-orange;
+      color: $main-blue;
       white-space: nowrap;
       font-size: 120%;
     }
@@ -626,7 +626,7 @@ header {
 
     .language button:hover {
       color: $bg-white;
-      background-color: $main-orange;
+      background-color: $main-blue;
       border: 0px;
       padding: 1px;
     }
@@ -658,7 +658,7 @@ header {
       clear: both;
       font-weight: 400;
       line-height: 1.42857143;
-      color: $main-orange;
+      color: $main-blue;
       white-space: nowrap;
       font-size: 85%;
     }
@@ -677,7 +677,7 @@ header {
 
     .language button:hover {
       color: $bg-white;
-      background-color: $main-orange;
+      background-color: $main-blue;
     }
 
     .dropdown-menu {
@@ -706,7 +706,7 @@ header {
       clear: both;
       font-weight: 400;
       line-height: 1.42857143;
-      color: $main-orange;
+      color: $main-blue;
       white-space: nowrap;
       font-size: 85%;
     }
@@ -865,9 +865,11 @@ header {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  word-wrap: break-word;
+  word-break: break-all;
   a {
     @include xxs {
-      font-size: 20px;
+      font-size: 16px;
     }
     @include sm {
       font-size: 40px;
@@ -984,17 +986,30 @@ header {
   .modal-header {
     padding: 0px;
   }
-  h4 {
-    font-family: "Permanent Marker", cursive;
-    text-align: center;
-    font-size: 45px;
-    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1),
-      0px 18px 23px rgba(0, 0, 0, 0.1);
-    background-color: rgba(137, 177, 248, 0.2);
-    color: $torkis-blue;
-    vertical-align: middle; /*middle centred*/
-    padding-top: 125px;
-    padding-bottom: 125px;
+  @include xxs {
+    h4 {
+      font-family: "Permanent Marker", cursive;
+      text-align: center;
+      font-size: 26px;
+      text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+        0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
+      background-color: rgba(137, 177, 248, 0.2);
+      color: $torkis-blue;
+      vertical-align: middle; /*middle centred*/
+      padding-top: 125px;
+      padding-bottom: 125px;
+    }
+  }
+
+  @include xs {
+    h4 {
+      font-size: 32px;
+    }
+  }
+  @include sm {
+    h4 {
+      font-size: 40px;
+    }
   }
   //modal button close desing
   .close {
@@ -1535,7 +1550,7 @@ header {
   display: none !important;
 }
 .owl-theme .owl-controls .owl-buttons div {
-  color: #869791;
+  color: $main-blue;
   display: inline-block;
   zoom: 1;
   margin: 5px;

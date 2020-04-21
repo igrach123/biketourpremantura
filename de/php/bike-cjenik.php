@@ -15,7 +15,7 @@
                             </div>
                             <div class="imgwrapper botmargin card-2">
                                 <a href="../img/bike/bike (3).jpg" title="bike excursions">
-                                    <img src="../img/bike/bike(3).jpg" data-src="../img/bike/bike (3).jpg"
+                                    <img src="../img/bike/bike (3).jpg" data-src="../img/bike/bike (3).jpg"
                                         class="img img-responsive" alt="bike"></a>
                             </div>
                             <div class="imgwrapper botmargin card-2">

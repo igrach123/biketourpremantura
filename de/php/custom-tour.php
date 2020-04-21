@@ -5,7 +5,7 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">Machen Sie Ihre eigenen Ausflug</h4>
+                <h4 class="modal-title">Machen Sie Ihren Ausflug</h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title text-muted">Wir bieten Ihnen die Möglichkeit, Ihre Kreativität unter Beweis
