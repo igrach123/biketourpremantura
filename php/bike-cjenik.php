@@ -69,8 +69,6 @@
                                         class="img img-responsive" alt="bike"></a>
                             </div>
 
-
-
                             <div class="imgwrapper botmargin card-2">
                                 <a href="img/bike/b1.jpg" title="bike excursions">
                                     <img src="img/bike/b1_thumb.jpg" data-src="img/bike/b1_thumb.jpg"
@@ -105,7 +103,10 @@
                         </div>
                     </div> <!-- panel body -->
                 </div> <!-- collapse one -->
-                <!-- yt  video -->
+                <div class="text-center">
+                <a href="gallery/index.php" class="btn btn-default">VIDI CIJELU GALERIJU <i><span
+                            class="fa fa-arrow-right "></span></i> </a>
+            </div>
 
             </div>
         </div>

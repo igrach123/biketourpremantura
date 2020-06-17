@@ -104,7 +104,10 @@
                         </div>
                     </div> <!-- panel body -->
                 </div> <!-- collapse one -->
-                <!-- yt  video -->
+                <div class="text-center">
+                <a href="gallery/index.php" class="btn btn-default">visualizza tutte le immagini <i><span
+                            class="fa fa-arrow-right "></span></i> </a>
+            </div>
 
             </div>
         </div>

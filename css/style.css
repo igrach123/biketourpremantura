@@ -828,4 +828,9 @@ body.modal-open[style] { padding-right: 0px !important; padding-left: 0px !impor
 
 .modal-title { color: #03a9f5; text-transform: uppercase; }
 
+.gallery-header { background-color: #03a9f5; background-size: cover; background-position: center; background-repeat: no-repeat; padding-bottom: 30px; }
+@media only screen and (min-width: 320px) { .gallery-header { background-image: url(../img/hero-image-mobile.jpg); } }
+@media only screen and (min-width: 992px) { .gallery-header { background-image: url(../img/hero-image-m.jpg); } }
+.gallery-header .breadcrumb { padding: 8px 15px; margin-bottom: 20px; list-style: none; background-color: inherit; }
+
 /*# sourceMappingURL=style.css.map */

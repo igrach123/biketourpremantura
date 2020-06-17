@@ -4,6 +4,12 @@
 // @koala-prepend "jquery.matchHeight.js"
 // @koala-prepend "smooth-scroll.min.js"
 // @koala-prepend "echo.min.js"
+// @koala-prepend "rellax.min.js"
+
+//relax starter
+// Accepts any class name
+var rellax = new Rellax('.rellax');
+
 
 //image preloader
 echo.init({

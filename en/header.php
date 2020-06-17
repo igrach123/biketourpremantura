@@ -48,27 +48,20 @@
              </div><!-- /.navbar-collapse -->
          </div><!-- /.container-->
      </nav>
-     <!--video backgorund-->
-     <div class="overlay hidden-xs hidden-sm"></div>
-     <video class="hidden-xs hidden-sm" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-         <source src="../video/kamenjak2.mp4" type="video/mp4">
-     </video>
+
      <div class="container">
-         <div class="text-center">
-
-             <h1 class=""><?php echo "$the_sitetitle"; ?> </h1>
-
-         </div>
-
-         <div class="animated-arrow-down">
-             <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }'>
-                 <svg class="arrows">
-                     <path class="a1" d="M0 0 L30 32 L60 0"></path>
-                     <path class="a2" d="M0 20 L30 52 L60 20"></path>
-                     <path class="a3" d="M0 40 L30 72 L60 40"></path>
-                 </svg>
-             </a>
-         </div>
-     </div>
+        <div class="text-center" class="rellax" data-rellax-speed="-4">
+            <h1 class="rellax" data-rellax-speed="7" ><?php echo "$the_sitetitle"; ?></h1>
+        </div>
+        <div class="animated-arrow-down rellax" data-rellax-speed="5">
+            <a href="#services" data-scroll data-options='{ "easing": "easeInOutQuad" }'>
+                <svg class="arrows">
+                    <path class="a1" d="M0 0 L30 32 L60 0"></path>
+                    <path class="a2" d="M0 20 L30 52 L60 20"></path>
+                    <path class="a3" d="M0 40 L30 72 L60 40"></path>
+                </svg>
+            </a>
+        </div>
+    </div>
 
  </header>
