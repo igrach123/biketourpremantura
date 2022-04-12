@@ -57,12 +57,12 @@
                     <div class="col-xs-12 col-sm-12 col-md-12  l-img-holder ">
 
                         <a href="#">
-                             <img class=" img-responsive" src="img/centri/premanutra-small.jpg"
+                             <img class=" img-responsive" src="img/centar-bike.jpg"
                                 alt="Bike Centar Premantura">
                         </a>
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-12 pb-10">
-                        <h4 class=> <a href="https://windsurfing.hr/" target="_blank">Bike centar <span> Premantura</span> </a>
+                        <h4 class=> <a href="https://www.rentabikepremantura.com/" target="_blank">Bike centar <span> Premantura</span> </a>
                         </h4>
                         <hr>
                         <p>Potpuni doživljaj prirode Kamenjakana kopnunudivožnja brdskim biciklom.
