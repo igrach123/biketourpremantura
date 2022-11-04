@@ -16,7 +16,7 @@
     "autoprefixer": "7.2.2",
     "babel-loader": "8.0.0-beta.0",
     "browser-sync": "2.18.13",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-postcss": "7.0.0",
     "postcss-color-function": "4.0.1",
     "postcss-hexrgba": "1.0.0",
