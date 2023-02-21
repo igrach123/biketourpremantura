@@ -1,4 +1,4 @@
-<!-- ENDURO TOURS VALTURA BUDAVA KAMENJAK -->
+<!-- SERVICES SUNSET -->
 <div id="services-sup" class="modal fade" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
@@ -10,38 +10,19 @@
             <div class="modal-body">
                 <h5 class="services-sm-title">OPIS IZLETA</h5>
 
-                <p class="text-muted"> <b>Enduro Kamenjak tura.</b> Ove ture su namijenjene biciklistima s većim
-                    iskustvom.
-                    Pružaju pravi doživljaj brdskog biciklizma (osjećaj kao da ste u planinama), a staze su uz obalu
-                    mora, po netaknutoj prirodi. Ture se odvijaju uglavnom po single trailovima uz kratke boravke na
-                    cesti. Trajanje 5-8 h Kilometraža 25-40
+                <p class="text-muted"> <b>Sunset Tour.</b> 
+          
+                                  Izlet na biciklu uz zalazak sunca može biti nezaboravno iskustvo. Vozeći se po lijepoj stazi uz more  možete uživati u prekrasnom prizoru zalaska sunca. Kombinacija brzine i adrenalina bicikliranja s mirnom atmosferom 
+                                  čini ovaj izlet idealnim za opuštanje i uživanje u prirodi. Završite ga uz romantičnu večeru ili veselu zabavu s prijateljima.
+                                
                     <br>
                     <br>
-                    <b>TRAJANJE:</b> oko 5h-8h.
+                    <b>TRAJANJE:</b> oko 3h.
                     <br>
-                    <b>CIJENA:</b>
+                     <b>CIJENA: <br> 
+                     </b> - STANDARD 50 € <br>
+                            -  E-BIKE 70 €
                 </p>
-                <div class="table-responsive">
-                    <table class="table table-hover table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col" class="text-uppercase">1 PERSON</th>
-                                <th scope="col" class="text-uppercase">2 PERSONS</th>
-                                <th scope="col" class="text-uppercase">3 PERSONS</th>
-                                <th scope="col" class="text-uppercase">4+ PERSONS</th>
-
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>1000.00 kn</td>
-                                <td>500,00 kn</td>
-                                <td>400,00 kn</td>
-                                <td>350,00 kn</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
 
 
                 <hr>
@@ -51,8 +32,7 @@
                         Vodiča</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Voće i vodu</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Ručak</li>
+
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Sigurnosnu opremu</li>
                 </ul>

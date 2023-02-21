@@ -20,7 +20,10 @@
                     <br>
                     <b>TRAJANJE:</b> oko 4h.
                     <br>
-                    <b>CIJENA:</b> 300,00 HRK.
+                    <b>CIJENA: <br> 
+                     </b> - STANDARD 50 € <br>
+                            -  E-BIKE 80 €
+
                 </p>
                 <hr>
 
