@@ -21,7 +21,9 @@
                     <br>
                     <b>DURATION:</b> about 4h.
                     <br>
-                    <b>PRICE:</b> 300,00 HRK.
+                    <b>PRICE:</b> <br>
+                             - STANDARD 50 € <br>
+                            -  E-BIKE 80 €
                 </p>
                 <hr>
 

@@ -15,36 +15,23 @@
                             <tr>
                                 <th scope="col">HALBTAGSAUSFLUG</th>
                                 <th scope="col">GANZTAGSAUSFLUG</th>
-                                <th scope="col">URBAN STADTAUSFLUG PULA</th>
-                                <th scope="col">ENDORU TOUREN KAMENJAK</th>
+                              <th scope="col" class="text-uppercase">SUNSET TOUR</th>
+                                <th scope="col">E-BIKE HALBTAGSAUSFLUG</th>
+                                <th scope="col">E-BIKE GANZTAGSAUSFLUG</th>
+                              <th scope="col" class="text-uppercase">E-BIKE SUNSET TOUR</th>
                             </tr>
                         </thead>
-                        <tbody>
+                         <tbody>
                             <tr>
-                                <td>300.00 kn</td>
-                                <td>450,00 kn</td>
-                                <td>350,00 kn / 4+ PERSONS</td>
-                                <td>350,00 kn / 4+ PERSONS</td>
+                                <td>4H 50€</td>
+                                <td>8H 90€</td>
+                                <td>3H 50€</td>
+                                <td>4H 80€</td>
+                                <td>8H 120€</td>
+                                <td>3H 70€</td>
+                              
                             </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>400,00 kn / 3 PERSONS</td>
-                                <td>400,00 kn / 3 PERSONS</td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>500,00 kn / 2 PERSONS</td>
-                                <td>500,00 kn / 2 PERSONS</td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td></td>
-                                <td>1000,00 kn / 1 PERSON</td>
-                                <td>1000,00 kn / 1 PERSON</td>
-                            </tr>
-
+                         
                         </tbody>
                     </table>
                 </div>
@@ -52,12 +39,7 @@
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>
-                            <tr>
-                                <th scope="col">BIKE 1</th>
-                                <th scope="col">BIKE 2</th>
-                                <th scope="col">BIKE 3</th>
-
-                            </tr>
+                        
                         </thead>
                            <?php include "../var-cjene/bike-cjene.php"; ?>
                         
@@ -67,17 +49,13 @@
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col" class="text-uppercase">BACK PACK</th>
-                                <th scope="col" class="text-uppercase">BACK PACK WITH TOOLS,PUMP & FIRST AID</th>
-                                <th scope="col" class="text-uppercase">SERVICE 1H</th>
+                                
 
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>20.00 kn</td>
-                                <td>50,00 kn</td>
-                                <td>200,00 kn</td>
+                                
                             </tr>
                         </tbody>
                     </table>

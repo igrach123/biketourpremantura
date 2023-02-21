@@ -9,7 +9,7 @@
             <div class="testimonial2">
                 <div class="pic">
                     <a class="item2" href="img/bike/MY19Trance2_ColorA.jpg" target="_blank"> <img
-                            src="img/bike/MY19Trance2_ColorA.jpg" alt="challenger sails" class="img-responsive"></a>
+                            src="img/bike/MY19Trance2_ColorA.jpg" alt="bike" class="img-responsive"></a>
                 </div>
                 <h3 class="testimonial2-title">KIDS BIKE</h3>
             </div>
@@ -17,14 +17,14 @@
             <div class="testimonial2">
                 <div class="pic">
                     <a class="item2" href="img/bike/torpado-bt590-storm-red.jpg" target="_blank"> <img
-                            src="img/bike/torpado-bt590-storm-red.jpg" alt="flikka" class="img-responsive"></a>
+                            src="img/bike/torpado-bt590-storm-red.jpg" alt="bike" class="img-responsive"></a>
                 </div>
                 <h3 class="testimonial2-title"><b>FULLY TAIL MTB</b> Trance 2</h3>
             </div>
             <div class="testimonial2">
                 <div class="pic">
                     <a class="item2" href="img/bike/Talon-2-Blue.jpg" target="_blank"> <img
-                            src="img/bike/Talon-2-Blue.jpg" alt="SUP" class="img-responsive"></a>
+                            src="img/bike/Talon-2-Blue.jpg" alt="bike" class="img-responsive"></a>
                 </div>
                 <h3 class="testimonial2-title">b>HARD TAIL</b> Talon-2</p></h3>
             </div>

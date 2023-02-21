@@ -5,49 +5,27 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">ENDURO TOURS VALTURA BUDAVA KAMENJAK</h4>
+                <h4 class="modal-title">SUNSET TOUR</h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">About the Trip</h5>
-                <p class="text-muted"><b> ENDURO TOURS VALTURA BUDAVA KAMENJAK</b> These tours are designed for
-                    experienced bikers. They provide a real mountain bike experience (it feels like a mountain trail),
-                    but the trails run along the seashore, in pristine nature. The tours are mostly on single tracks
-                    with only short stays on the road. Duration 5-8 h Kilometres 25-40 The price includes: lunch, fruit,
-                    water, guide
+                <p class="text-muted"><b> SUNSET TOUR</b> 
+                                   A bike ride at sunset can be an unforgettable experience. Riding on a beautiful coastal path or through lush forests, you can enjoy the beautiful view of the sunset. The combination of the speed and adrenaline of cycling with the peaceful atmosphere of the sunset makes this ride ideal for relaxation and enjoying nature. Finish it with a romantic dinner or a fun night out with friends.
+                                
                     <br> <br>
-                    <b>DURATION:</b> about 5h-8h.
+                    <b>DURATION:</b> about 3h.
                     <br>
-                    <b>PRICE:</b>
+                    <b>PRICE:</b>   <br>
+                    - STANDARD 50 € <br>
+                            -  E-BIKE 70 €
                 </p>
-                <div class="table-responsive">
-                    <table class="table table-hover table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col" class="text-uppercase">1 PERSON</th>
-                                <th scope="col" class="text-uppercase">2 PERSONS</th>
-                                <th scope="col" class="text-uppercase">3 PERSONS</th>
-                                <th scope="col" class="text-uppercase">4+ PERSONS</th>
-
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>1000.00 kn</td>
-                                <td>500,00 kn</td>
-                                <td>400,00 kn</td>
-                                <td>350,00 kn</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
+                
                 <hr>
 
                 <p class="text-muted"><b>Full day excursion includes:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Guide</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Launch</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Fruit and water</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;

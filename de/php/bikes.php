@@ -6,44 +6,43 @@
 
         <!-- OWL CAROUSEL -->
         <div id="testimonial-slider2" class="owl-carousel">
+           <div class="testimonial2">
+                <div class="pic">
+                    <a class="item2" href="../img/bike/MY19Trance2_ColorA.jpg" target="_blank"> <img
+                            src="../img/bike/MY19Trance2_ColorA.jpg" alt="bike" class="img-responsive"></a>
+                </div>
+                <h3 class="testimonial2-title">KIDS BIKE</h3>
+            </div>
+
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="../img/bike/bike-1.jpg" target="_blank"> <img
-                            src="../img/bike/bike-1.jpg" alt="challenger sails" class="img-responsive"></a>
-                </div>
-                <h3 class="testimonial2-title">BIKE 1</h3>
-            </div>
-
-            <div class="testimonial2">
-                <div.. class="pic">
                     <a class="item2" href="../img/bike/torpado-bt590-storm-red.jpg" target="_blank"> <img
-                            src="../img/bike/torpado-bt590-storm-red.jpg" alt="flikka" class="img-responsive"></a>
-                </div.. />
-                <h3 class="testimonial2-title">BIKE 1 TORPADO BT 590</h3>
+                            src="../img/bike/torpado-bt590-storm-red.jpg" alt="bike" class="img-responsive"></a>
+                </div>
+                <h3 class="testimonial2-title"><b>FULLY TAIL MTB</b> Trance 2</h3>
             </div>
-
             <div class="testimonial2">
                 <div class="pic">
                     <a class="item2" href="../img/bike/Talon-2-Blue.jpg" target="_blank"> <img
-                            src="../img/bike/Talon-2-Blue.jpg" alt="SUP" class="img-responsive"></a>
+                            src="../img/bike/Talon-2-Blue.jpg" alt="bike" class="img-responsive"></a>
                 </div>
-                <h3 class="testimonial2-title">BIKE 2 TALON 2 BLUE</h3>
+                <h3 class="testimonial2-title">b>HARD TAIL</b> Talon-2</p></h3>
             </div>
 
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="../img/bike/brb-stratos-29-rc02-27s-black.jpg" target="_blank"> <img
-                            src="../img/bike/brb-stratos-29-rc02-27s-black.jpg" alt="nautix" class="img-responsive"></a>
+                    <a class="item2" href="../img/bike/e-bike.jpg" target="_blank"> <img
+                            src="../img/bike/e-bike.jpg" alt="ebike" class="img-responsive"></a>
                 </div>
-                <h3 class="testimonial2-title">BIKE 2 STRATOS 29</h3>
+                <h3 class="testimonial2-title">HARD TAIL</b> E-BIKE</h3>
             </div>
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="../img/bike/bike-3.jpg" target="_blank">
-                        <img src="../img/bike/bike-3.jpg" alt="Cass" class="img-responsive">
+                    <a class="item2" href="../img/bike/e-bike-fully.jpg" target="_blank">
+                        <img src="../img/bike/e-bike-fully.jpg" alt="Cass" class="img-responsive">
                     </a>
                 </div>
-                <h3 class="testimonial2-title">BIKE 3  TRANCE 29</h3>
+                <h3 class="testimonial2-title">BIKE 3 TRANCE 29</h3>
             </div>
         </div> <!-- END OF OWL CAROUSEL -->
 

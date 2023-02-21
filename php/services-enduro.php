@@ -5,7 +5,7 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">ENDURO TOURS VALTURA BUDAVA KAMENJAK</h4>
+                <h4 class="modal-title">SUNSET TOUR</h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">OPIS IZLETA</h5>

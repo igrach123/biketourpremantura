@@ -5,49 +5,25 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">ENDURO TOUREN KAMENJAK</h4>
+                <h4 class="modal-title">SUNSET TOUR</h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">Über den Ausflug</h5>
-                <p class="text-muted"><b> ENDURO TOUREN KAMENJAK</b> ThDiese Touren sind erfahreneren Radfahrern
-                    vorbehalten. Sie bieten das Gefühl einer wahren Bergfahrt obwohl die Fahrradwege entlang der
-                    Meeresküste führen, durch unberührte Natur. Die Fahrt findet meist auf Pfaden statt, mit kurzen
-                    Straßenintervallen. Dauer 5 - 8 Stunden Entfernung 25 - 40 Kilometer Im Preis inbegriffen:
-                    Mittagessen, Obst, Wasser, Führer.
+                <p class="text-muted"><b> SUNSET TOUR</b> Eine Fahrradtour bei Sonnenuntergang kann ein unvergessliches Erlebnis sein. Auf einem schönen Küstenweg kann man den wunderschönen Sonnenuntergang genießen. Die Kombination aus Geschwindigkeit und Adrenalin beim Radfahren mit der friedlichen Atmosphäre bei Sonnenuntergang macht diese Tour ideal für Entspannung und Naturgenuss. Beende sie mit einem romantischen Abendessen oder einer lustigen Nacht mit Freunden..
                     <br> <br>
-                    <b>DURATION:</b> about 5h-8h.
+                    <b>DURATION:</b> about 3h
                     <br>
-                    <b>PRICE:</b>
+                    <b>PRICE:</b><br>
+                    - STANDARD 50 € <br>
+                            -  E-BIKE 70 €
                 </p>
-                <div class="table-responsive">
-                    <table class="table table-hover table-striped">
-                        <thead>
-                            <tr>
-                                <th scope="col" class="text-uppercase">1 PERSON</th>
-                                <th scope="col" class="text-uppercase">2 PERSONS</th>
-                                <th scope="col" class="text-uppercase">3 PERSONS</th>
-                                <th scope="col" class="text-uppercase">4+ PERSONS</th>
-
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td>1000.00 kn</td>
-                                <td>500,00 kn</td>
-                                <td>400,00 kn</td>
-                                <td>350,00 kn</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
+                
                 <hr>
 
-                <p class="text-muted"><b>ENDURO TOUREN KAMENJAK beinhaltet:</b></p>
+                <p class="text-muted"><b>SUNSET TOUR:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Tourleiter</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        Mittagessen</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         Obst & Wasser</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;

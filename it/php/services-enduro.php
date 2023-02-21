@@ -5,49 +5,38 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
                     aria-label="Close">&times;</button>
-                <h4 class="modal-title">TOUR ENDURO KAMENJAK</h4>
+                <h4 class="modal-title">SUNSET TOUR</h4>
             </div>
             <div class="modal-body">
                 <h5 class="services-sm-title">A proposito del viaggio</h5>
-                <p class="text-muted"> <b>TOUR TOUR ENDURO KAMENJAK</b> Questi tour sono per ciclisti esperti. Offrono
-                    una vera
-                    esperienza da mountain bike (sembra un sentiero di montagna), ma i sentieri corrono lungo la riva
-                    del mare, in una natura selvaggia e incontaminata. Il tour si percorre per lo più su single trails
-                    riducendo al minimo le strade asfaltate. Durata 5-8 h Chilometri 25-40 Il prezzo include: pranzo,
-                    frutta, acqua, guida.
+                <p class="text-muted"> <b> SUNSET TOUR</b> 
+                    Una gita in bicicletta al tramonto può essere un'esperienza indimenticabile. Pedalando su una bellissima pista costiera o attraverso folti boschi, puoi goderti la bellissima vista del tramonto. La combinazione di velocità ed adrenalina del ciclismo con l'atmosfera pacifica del tramonto rende questa gita ideale per il relax e il godimento della natura. Finiscila con una cena romantica o una serata divertente con gli amici
                     <br> <br>
-                    <b>DURATO:</b> about 5h-8h.
+                    <b>DURATO:</b> cca 3h.
                     <br>
-                    <b>PREZZO:</b>
+                    <b>PREZZO:</b> <br>
+                     - STANDARD 50 € <br>
+                            -  E-BIKE 70 €
                 </p>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>
                             <tr>
-                                <th scope="col" class="text-uppercase">1 PERSON</th>
-                                <th scope="col" class="text-uppercase">2 PERSON</th>
-                                <th scope="col" class="text-uppercase">3 PERSON</th>
-                                <th scope="col" class="text-uppercase">4+ PERSON</th>
-
+                                
                             </tr>
                         </thead>
                         <tbody>
                             <tr>
-                                <td>1000.00 kn</td>
-                                <td>500,00 kn</td>
-                                <td>400,00 kn</td>
-                                <td>350,00 kn</td>
+
                             </tr>
                         </tbody>
                     </table>
                 </div>
                 <hr>
-                <p class="text-muted"><b>TOUR ENDURO KAMENJAK includee:</b></p>
+                <p class="text-muted"><b>SUNSET TOUR includee:</b></p>
                 <ul class="list-group">
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         guida</li>
-                    <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
-                        pranzo</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
                         rutta & acqua</li>
                     <li class="list-group-item"> <i class="fa fa-check-square-o fa-fw" aria-hidden="true"></i>&nbsp;
