@@ -58,7 +58,7 @@
                         </tbody>
                     </table>
                 </div>
-                <p class="h7">E-BIKE </p>
+                <!-- <p class="h7">E-BIKE </p>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>
@@ -119,7 +119,7 @@
                             </tr>
 
                         </tbody>
-                 </div>
+                 </div> -->
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">
                         <thead>

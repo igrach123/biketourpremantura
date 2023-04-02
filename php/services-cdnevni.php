@@ -23,7 +23,7 @@
                     <br>
                      <b>CIJENA: <br> 
                      </b> - STANDARD 90 € <br>
-                            -  E-BIKE 120 €
+                           <!--  -  E-BIKE 120 € -->
                 </p>
                 </p>
 

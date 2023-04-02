@@ -26,15 +26,14 @@
                     <a class="item2" href="img/bike/Talon-2-Blue.jpg" target="_blank"> <img
                             src="img/bike/Talon-2-Blue.jpg" alt="bike" class="img-responsive"></a>
                 </div>
-                <h3 class="testimonial2-title">b>HARD TAIL</b> Talon-2</p></h3>
+                <h3 class="testimonial2-title"><b>HARD TAIL</b> Talon-2</p></h3>
             </div>
-
             <div class="testimonial2">
                 <div class="pic">
                     <a class="item2" href="img/bike/e-bike.jpg" target="_blank"> <img
                             src="img/bike/e-bike.jpg" alt="ebike" class="img-responsive"></a>
                 </div>
-                <h3 class="testimonial2-title">HARD TAIL</b> E-BIKE</h3>
+                <h3 class="testimonial2-title">HARD TAIL</b> E-BIKE   <span class='text-danger text-lowercase'>(not available)</span> </h3>
             </div>
             <div class="testimonial2">
                 <div class="pic">
@@ -42,7 +41,7 @@
                         <img src="img/bike/e-bike-fully.jpg" alt="Cass" class="img-responsive">
                     </a>
                 </div>
-                <h3 class="testimonial2-title">BIKE 3 TRANCE 29</h3>
+                <h3 class="testimonial2-title">BIKE 3 TRANCE 29   <span class='text-danger text-lowercase'>(not available)</span> </h3>
             </div>
         </div> <!-- END OF OWL CAROUSEL -->
 

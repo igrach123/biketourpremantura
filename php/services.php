@@ -15,7 +15,7 @@
                     <h3 class="title">POLUDNEVNI IZLET</h3>
                     <div class="text-center">
                         <div class="price-bg badge">STANDARD 50 €</div> <br>
-                        <div class="price-bg badge">E-BIKE  80 €</div>
+                        <!-- <div class="price-bg badge">E-BIKE  80 €</div> -->
                         <p>Vodič</p>
                         <p>Bicikla</p>
                         <p>Voće i voda</p>
@@ -42,7 +42,7 @@
                     <h3 class="title">CJELODNEVNI IZLET</h3>
                     <div class="text-center">
                         <div class="price-bg badge"> STANDARD 90€</div> <br>
-                        <div class="price-bg badge">E-BIKE  120 €</div>
+                     <!--    <div class="price-bg badge">E-BIKE  120 €</div> -->
                         <div class="overlay"></div>
                         <p>Vodič</p>
                         <p>Bicikla</p>
@@ -70,7 +70,7 @@
                     <div class="text-center">
                         <h3 class="title">SUNSET TOUR</h3>
                        <div class="price-bg badge"> STANDARD 50€</div> <br>
-                        <div class="price-bg badge">E-BIKE  70 €</div>
+                <!--         <div class="price-bg badge">E-BIKE  70 €</div> -->
                         <p>Vodič</p>
                         <p>Voće i voda</p>
                         <p>Sigurnosna oprema</p>

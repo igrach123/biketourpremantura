@@ -16,7 +16,7 @@
                     <br>
                     <b>PREZZO:</b> <br>
                      - STANDARD 50 € <br>
-                            -  E-BIKE 70 €
+                         <!--    -  E-BIKE 70 € -->
                 </p>
                 <div class="table-responsive">
                     <table class="table table-hover table-striped">

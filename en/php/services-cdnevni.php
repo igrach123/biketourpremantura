@@ -22,7 +22,7 @@
                     <br>
                     <b>PRICE:</b> <br>
                          - STANDARD 90 € <br>
-                            -  E-BIKE 120 €
+                          <!--   -  E-BIKE 120 € -->
                 </p>
                 <hr>
 

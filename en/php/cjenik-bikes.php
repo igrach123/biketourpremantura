@@ -16,9 +16,9 @@
                                 <th scope="col" class="text-uppercase">HALF DAY EXCURSION</th>
                                 <th scope="col" class="text-uppercase">FULL DAY EXCURSION</th>
                                 <th scope="col" class="text-uppercase">SUNSET TOUR</th>
-                                <th scope="col">E-BIKE HALF DAY EXCURSION</th>
+                              <!--   <th scope="col">E-BIKE HALF DAY EXCURSION</th>
                                 <th scope="col">E-BIKE FULL DAY EXCURSION</th>
-                                <th scope="col">E-BIKE SUSNET TOUR</th>
+                                <th scope="col">E-BIKE SUSNET TOUR</th> -->
                             </tr>
                         </thead>
                         <tbody>
@@ -26,9 +26,9 @@
                                 <td>4H 50€</td>
                                 <td>8H 90€</td>
                                 <td>3H 50€</td>
-                                <td>4H 80€</td>
+                             <!--    <td>4H 80€</td>
                                 <td>8H 120€</td>
-                                <td>3H 70€</td>
+                                <td>3H 70€</td> -->
                               
                             </tr>
                          

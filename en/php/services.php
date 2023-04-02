@@ -12,7 +12,7 @@
                     <h3 class="title">HALF DAY EXCURSION</h3>
                     <div class="text-center">
                        <div class="price-bg badge">STANDARD 50 €</div> <br>
-                        <div class="price-bg badge">E-BIKE  80 €</div>
+                       <!--  <div class="price-bg badge">E-BIKE  80 €</div> -->
                         <p>Guide</p>
                         <p>Bicycle</p>
                         <p>Fruit and water</p>
@@ -36,7 +36,7 @@
                     <div class="text-center">
                         <h3 class="title">FULL DAY EXCURSION</h3>
                        <div class="price-bg badge"> STANDARD 90€</div> <br>
-                        <div class="price-bg badge">E-BIKE  120 €</div>
+                       <!--  <div class="price-bg badge">E-BIKE  120 €</div> -->
                         <p>Guide</p>
                         <p>Bicycle</p>
                         <p>Launch</p>
@@ -62,7 +62,7 @@
                     <div class="text-center">
                         <h3 class="title">SUNSET TOUR</h3>
                         <div class="price-bg badge"> STANDARD 50€</div> <br>
-                        <div class="price-bg badge">E-BIKE  70 €</div>
+                        <!-- <div class="price-bg badge">E-BIKE  70 €</div> -->
                         <p>Guide</p>
                         <p>Fruit and water</p>
                         <p>Saftey equipment</p>

@@ -16,9 +16,9 @@
                                 <th scope="col" class="text-uppercase">Escursione mezza giornata</th>
                                 <th scope="col" class="text-uppercase">Escursione di giornata intera</th>
                                 <th scope="col" class="text-uppercase">SUNSET TOUR </th>
-                                <th scope="col" class="text-uppercase">E-BIKE Escursione mezza giornata</th>
+                             <!--    <th scope="col" class="text-uppercase">E-BIKE Escursione mezza giornata</th>
                                 <th scope="col" class="text-uppercase">E-BIKE Escursione di giornata intera</th>
-                                <th scope="col" class="text-uppercase">E-BIKE SUNSET TOUR </th>
+                                <th scope="col" class="text-uppercase">E-BIKE SUNSET TOUR </th> -->
                                 
                         </thead>
                         <tbody>
@@ -26,9 +26,9 @@
                                 <td>4H 50€</td>
                                 <td>8H 90€</td>
                                 <td>3H 50€</td>
-                                <td>4H 80€</td>
+                              <!--   <td>4H 80€</td>
                                 <td>8H 120€</td>
-                                <td>3H 70€</td>
+                                <td>3H 70€</td> -->
                               
                             </tr>
                          

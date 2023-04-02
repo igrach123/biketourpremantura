@@ -16,9 +16,9 @@
                                 <th scope="col">POLUDNEVNI IZLET</th>
                                 <th scope="col">CJELODNEVNI IZLET</th>
                                 <th scope="col">SUSNET TOUR</th>
-                                <th scope="col">E-BIKE POLUDNEVNI IZLET</th>
+                              <!--   <th scope="col">E-BIKE POLUDNEVNI IZLET</th>
                                 <th scope="col">E-BIKE CJELODNEVNI IZLET</th>
-                                <th scope="col">E-BIKE SUSNET TOUR</th>
+                                <th scope="col">E-BIKE SUSNET TOUR</th> -->
                             
                             </tr>
                         </thead>
@@ -28,9 +28,9 @@
                                 <td>4H 50€</td>
                                 <td>8H 90€</td>
                                 <td>3H 50€</td>
-                                <td>4H 80€</td>
+                            <!--     <td>4H 80€</td>
                                 <td>8H 120€</td>
-                                <td>3H 70€</td>
+                                <td>3H 70€</td> -->
                               
                             </tr>
                          

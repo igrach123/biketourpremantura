@@ -16,9 +16,9 @@
                                 <th scope="col">HALBTAGSAUSFLUG</th>
                                 <th scope="col">GANZTAGSAUSFLUG</th>
                               <th scope="col" class="text-uppercase">SUNSET TOUR</th>
-                                <th scope="col">E-BIKE HALBTAGSAUSFLUG</th>
+                             <!--    <th scope="col">E-BIKE HALBTAGSAUSFLUG</th>
                                 <th scope="col">E-BIKE GANZTAGSAUSFLUG</th>
-                              <th scope="col" class="text-uppercase">E-BIKE SUNSET TOUR</th>
+                              <th scope="col" class="text-uppercase">E-BIKE SUNSET TOUR</th> -->
                             </tr>
                         </thead>
                          <tbody>
@@ -26,9 +26,9 @@
                                 <td>4H 50€</td>
                                 <td>8H 90€</td>
                                 <td>3H 50€</td>
-                                <td>4H 80€</td>
+                             <!--    <td>4H 80€</td>
                                 <td>8H 120€</td>
-                                <td>3H 70€</td>
+                                <td>3H 70€</td> -->
                               
                             </tr>
                          

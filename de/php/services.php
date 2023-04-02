@@ -12,7 +12,7 @@
                     <div class="text-center">
                         <h3 class="title">Halbtagsausflug </h3>
                       <div class="price-bg badge">STANDARD 50 €</div> <br>
-                        <div class="price-bg badge">E-BIKE  80 €</div>
+                    <!--     <div class="price-bg badge">E-BIKE  80 €</div> -->
                         <div class="overlay"></div>
                         <p>Tourleiter</p>
                         <p>Geländefahrrad</p>
@@ -37,7 +37,7 @@
                     <div class="text-center">
                         <h3 class="title">Ganztagsausflug</h3>
                       <div class="price-bg badge"> STANDARD 90€</div> <br>
-                        <div class="price-bg badge">E-BIKE  120 €</div>
+                       <!--  <div class="price-bg badge">E-BIKE  120 €</div> -->
                         <p>Tourleiter</p>
                         <p>Geländefahrrad</p>
                         <p>Mittagessen</p>
@@ -63,7 +63,7 @@
                     <div class="text-center">
                         <h3 class="title">SUNSET TOUR</h3>
                         <div class="price-bg badge"> STANDARD 50€</div> <br>
-                        <div class="price-bg badge">E-BIKE  70 €</div>
+                      <!--   <div class="price-bg badge">E-BIKE  70 €</div> -->
                         <div class="overlay"></div>
                         <p>Tourleiter</p>
                         <p>Obst & Wasser</p>
