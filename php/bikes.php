@@ -8,8 +8,8 @@
         <div id="testimonial-slider2" class="owl-carousel">
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="img/bike/MY19Trance2_ColorA.jpg" target="_blank"> <img
-                            src="img/bike/MY19Trance2_ColorA.jpg" alt="bike" class="img-responsive"></a>
+                    <a class="item2" href="img/bike/kids-bike.jpg" target="_blank"> <img
+                            src="img/bike/kids-bike.jpg" alt="bike" class="img-responsive"></a>
                 </div>
                 <h3 class="testimonial2-title">KIDS BIKE</h3>
             </div>
@@ -30,18 +30,18 @@
             </div>
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="img/bike/e-bike.jpg" target="_blank"> <img
-                            src="img/bike/e-bike.jpg" alt="ebike" class="img-responsive"></a>
+                    <a class="item2" href="img/bike/radon.jpg" target="_blank"> <img
+                            src="img/bike/radon.jpg" alt="radon" class="img-responsive"></a>
                 </div>
-                <h3 class="testimonial2-title">HARD TAIL</b> E-BIKE   <span class='text-danger text-lowercase'>(not available)</span> </h3>
+                <h3 class="testimonial2-title"> <b>RADON</b></h3>
             </div>
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="img/bike/e-bike-fully.jpg" target="_blank">
-                        <img src="img/bike/e-bike-fully.jpg" alt="Cass" class="img-responsive">
+                    <a class="item2" href="img/bike/radon-lady.jpg" target="_blank">
+                        <img src="img/bike/radon-lady.jpg" alt="Cass" class="img-responsive">
                     </a>
                 </div>
-                <h3 class="testimonial2-title">BIKE 3 TRANCE 29   <span class='text-danger text-lowercase'>(not available)</span> </h3>
+                <h3 class="testimonial2-title"><b>RADON LADY</b>  </h3>
             </div>
         </div> <!-- END OF OWL CAROUSEL -->
 
