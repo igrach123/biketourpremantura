@@ -166,7 +166,7 @@
                         <?php echo date("Y"); ?> </span> </p>
             </div>
             <div class="footer-bottom-right">
-                <a href="https://www.cro-webdesign.com/" target="_blank">
+                <a href="https://www.webartlab.hr/" target="_blank">
                     <p class="text-center hidden-xs izradio">POWERED BY:<br>
                         <span class="cw-logo"></span>
                     </p>
