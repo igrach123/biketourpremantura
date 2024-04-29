@@ -1,5 +1,68 @@
 <section id="bikes">
 
+    <h2>PREIS LISTE </h2>
+    <div class="container">
+
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">HALBTAGSAUSFLUG</th>
+                                <th scope="col">GANZTAGSAUSFLUG</th>
+                              <th scope="col" class="text-uppercase">SUNSET TOUR</th>
+                             <!--    <th scope="col">E-BIKE HALBTAGSAUSFLUG</th>
+                                <th scope="col">E-BIKE GANZTAGSAUSFLUG</th>
+                              <th scope="col" class="text-uppercase">E-BIKE SUNSET TOUR</th> -->
+                            </tr>
+                        </thead>
+                         <tbody>
+                            <tr>
+                                <td>4H 50€</td>
+                                <td>8H 90€</td>
+                                <td>3H 50€</td>
+                             <!--    <td>4H 80€</td>
+                                <td>8H 120€</td>
+                                <td>3H 70€</td> -->
+                              
+                            </tr>
+                         
+                        </tbody>
+                    </table>
+                </div>
+                <h4 class="text-center">FAHRRADVERLEIH</h4>
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                        
+                        </thead>
+                           <?php include "../var-cjene/bike-cjene.php"; ?>
+                        
+                </div>
+
+                <div class="table-responsive">
+                    <table class="table table-hover table-striped">
+                        <thead>
+                            <tr>
+                                
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <hr>
+                <div class="text-muted text-center">
+                    BIKES ARE RENTED AT YOUR OWN RESPONSIBILITY.
+                    ANY COMPLAINTS MAY BE MADE WITHIN THE FIRST 15 MINUTES OF RENTAL.
+                    AFTERWARDS THEY WILL NOT BE ACCEPTED.
+                    ANY DAMAGE TO THE BIKE WILL BE CHARGED ADDITIONALLY.
+                </div>
+    </div>
+
     <section class="" id="partneri2">
 
         <h2>bikes</h2>
@@ -16,8 +79,8 @@
 
             <div class="testimonial2">
                 <div class="pic">
-                    <a class="item2" href="../img/bike/torpado-bt590-storm-red.jpg" target="_blank"> <img
-                            src="../img/bike/torpado-bt590-storm-red.jpg" alt="bike" class="img-responsive"></a>
+                    <a class="item2" href="../img/bike/MY19Trance2_ColorA.jpg" target="_blank"> <img
+                            src="../img/bike/MY19Trance2_ColorA.jpg" alt="bike" class="img-responsive"></a>
                 </div>
                 <h3 class="testimonial2-title"><b>FULLY TAIL MTB</b> Trance 2</h3>
             </div>
@@ -48,17 +111,6 @@
 
     </section>
 
-    <div class="container-fluid">
-
-        <!-- netflix like animation -->
-
-
-
-        <div class="cjenik-btn text-center">
-            <a href="#cjenik-bikes" class="btn  btn-default" data-toggle="modal" role="button"
-                data-target="#cjenik-bikes">PREIS LISTE</a>
-        </div>
-    </div>
 
 
 </section>
